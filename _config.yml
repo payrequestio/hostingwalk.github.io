@@ -1,2 +1,4 @@
 name: hostingwalk site
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
