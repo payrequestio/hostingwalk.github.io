@@ -77,12 +77,9 @@
    </div>
 </form>
    <div style="position: relative; padding-top: 60px;"><div id="dcontainer" style="display: none;"><div id="dresults"></div></div></div>
+           
 
-<p class="row text-center">
-<button type="button" class="btn btn-success btn-lg text-center" style="margin-top: 10px;margin-left: 200px;/* background-color: powderblue; */"><i class="fal fa-thumbs-up" style="color: white;/* font-size: 20px; */"></i> Bespaar met Hostingwalk Premium</button>
-</p>             
-
-            </div>
+</div>
 
 
 
@@ -263,65 +260,3 @@ header .overlay {
   z-index: 1;
 }
 
-
-</style>
-
-
-     <style>
-    .box{
-    padding:60px 0px;
-}
-
-.box-part{
-    background:#FFF;
-    border-radius:10px;
-    padding:60px 10px;
-    margin:30px 0px;
-}
-
-.box-part{
-background-color: #f7f8fc !important;
-}
-
-.box-part .fa , 
-.box-part .title , 
-.box-part .text ,
-.box-part a{
-    -webkit-transition: all 1s ease-out;
-    -moz-transition: all 1s ease-out;
-    -o-transition: all 1s ease-out;
-    transition: all 1s ease-out;
-}
-         
-             .partnerbox{
-}
-
-.partnerbox-part{
-    background:#FFF;
-    border-radius:10px;
-    padding:30px 10px;
-    margin:30px 0px;
-}
-
-.partnerbox-part{
-border-top-width: 1px;
-border-right-width: 1px;
-border-bottom-width: 1px;
-border-left-width: 1px;
-border-top-style: solid;
-border-right-style: solid;
-border-bottom-style: solid;
-border-left-style: solid;
-border-color: rgb(229, 229, 234);
-}
-
-.partnerbox-part .fa , 
-.partnerbox-part .title , 
-.partnerbox-part .text ,
-.partnerbox-part a{
-    -webkit-transition: all 1s ease-out;
-    -moz-transition: all 1s ease-out;
-    -o-transition: all 1s ease-out;
-    transition: all 1s ease-out;
-}
-</style>
