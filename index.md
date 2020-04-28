@@ -156,9 +156,9 @@
 <a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
            </div></div>  </div>
 
-     </div>
+</div>
 
-    </div> </div>
+</div> </div>
         
       
 

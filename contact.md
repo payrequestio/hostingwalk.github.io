@@ -6,8 +6,7 @@
     <i class="fal fa-books" style="color: white;/* font-size: 20px; */"></i>
  Hostingwalk artikelen</h1>
         
- {% embed 'partials/tntsearch.html.twig' with { limit: 10, snippet: 0, min: 3, search_type: 'auto', dropdown: true } %}{% endembed %}
-        
+
 </div>
 
 </div>
@@ -288,7 +287,7 @@ background-color: #f7f8fc !important;
     transition: all 1s ease-out;
 }
 
-             .partnerbox{
+.partnerbox{
 }
 
 .partnerbox-part{
