@@ -31,7 +31,7 @@ $(document).ready(function(){
 </h3>
   </div>
   <div class="col-sm-5">
-<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://www.hostingwalk.com/user/pages/06.g-suite/G-Suite.png">
+<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://old.hostingwalk.com/user/pages/06.g-suite/G-Suite.png">
   </div>
 </div>
 </div>
