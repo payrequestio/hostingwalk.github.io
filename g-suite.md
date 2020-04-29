@@ -122,10 +122,10 @@ $(document).ready(function(){
 <li><span class="fa-li"><i class="fal fa-gift" style="color: darkorange;ray;"></i></span>Gratis email overstapservice</li>
             </ul>
 
-        <a href="https://my.hostingwalk.com/cart.php?a=add&amp;pid=72"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
-          </div> 
+<a href="https://my.hostingwalk.com/cart.php?a=add&amp;pid=72"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
+</div> 
 
-        </div>
+</div>
 
 
 
@@ -134,11 +134,108 @@ $(document).ready(function(){
 
 </div>
 
-    </div>
+</div>
 
   </div>
 </div>
 </div>
+
+
+<div class="jumbotron text-center" style="background-color: white;">
+<div class="container text-center">
+<br>
+<div style="margin-bottom: 20px;" class="row text-center">
+
+    <div style="/*! margin-top: 30px; */" class="col-sm-12 text-center">
+      <style>
+.box{
+      padding: 40px 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 2px;
+      background: #fff;
+      text-align: center; 
+    margin-top: 20px;
+        border-top: 2px solid #f28b20;
+      }
+      .box:hover{
+      box-shadow: 0 0 11px rgba(33,33,33,.2); 
+      }
+</style>
+
+
+
+<h2 style="/*! font-family: Melbourne,sans-serif; */">
+<i class="fab fa-google-drive" style="font-size: 32px;font-weight: 100;"></i> Meer opslagruimte met Google Drive upgrades</h2>
+   <h5 style="margin-top: 30px;font-family: inherit !important;">Per gebruiker kun je extra ruimte aanschaffen, deze ruimte kun je ook gebruiken voor mail.</h5><div class="row">
+        <div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
+          <div class="box">
+            <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_drive_128px.png" style="
+max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
+            <h4>Google Drive upgrade
+ 20GB
+</h4>
+
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"> 4,80<span class="period">&nbsp;per maand</span></h6>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
+          <div class="box">
+            <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_drive_128px.png" style="
+max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
+            <h4>Google Drive upgrade
+ 50GB
+</h4>
+
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"> 10,80<span class="period">&nbsp;per maand</span></h6>
+          </div>
+        </div>
+
+<div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
+          <div class="box">
+            <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_drive_128px.png" style="
+max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
+            <h4>Google Drive upgrade
+ 200GB
+</h4>
+
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"> 12,80<span class="period">&nbsp;per maand</span></h6>
+          </div>
+        </div>
+
+<div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
+          <div class="box">
+            <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_drive_128px.png" style="
+max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
+            <h4>Google Drive upgrade
+ 400GB
+</h4>
+
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">24,80<span class="period">&nbsp;per maand</span></h6>
+          </div>
+        </div>
+        
+        
+      </div>
+  </div>
+
+</div>
+</div></div>
+
+
+
+
+
+
+<div class="icons-example clearfix mb-5"><div class="icons-example-wrapper light-one col-md-6 float-left" style="
+    padding: 4rem 2rem;
+"><div class="material-icons col-lg-7 col-md-7 col-sm-12 d-table text-center ml-auto mr-auto py-5"><img class="mb-4" src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_gmail_128px.png" alt="Shards supports the Material Icons pack by default." style="
+    max-width: 200px;
+"><h2 class="text mb-2">G Suite Gmail   </h2>  <h5 class="text-muted mb-0">   Mail met je bedrijf via Gmail.</h5></div></div><div class="icons-example-wrapper light-two col-md-6 float-left" style="
+    padding: 4rem 2rem;
+"><div class="material-icons col-lg-6 col-md-6 col-sm-12 d-table text-center mr-auto ml-auto py-5"><img class="mb-4" src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_hangouts_128px.png" alt="Shards supports the FontAwesome Icons pack by default." style="
+    max-width: 177px;
+    /* width: 200px; */
+"><h2 class="text mb-2">G Suite Hangouts</h2><h5 class="text-muted mb-0"> Communiceer met je team.</h5></div></div></div>
 
 
 
@@ -323,16 +420,6 @@ header .overlay {
 </style>
 
 
-<div class="icons-example clearfix mb-5"><div class="icons-example-wrapper light-one col-md-6 float-left" style="
-    padding: 4rem 2rem;
-"><div class="material-icons col-lg-7 col-md-7 col-sm-12 d-table text-center ml-auto mr-auto py-5"><img class="mb-4" src="https://www.hostingwalk.com/user/pages/06.g-suite/logo_gmail_128px.png" alt="Shards supports the Material Icons pack by default." style="
-    max-width: 200px;
-"><h2 class="text mb-2">G Suite Gmail   </h2>  <h5 class="text-muted mb-0">   Mail met je bedrijf via Gmail.</h5></div></div><div class="icons-example-wrapper light-two col-md-6 float-left" style="
-    padding: 4rem 2rem;
-"><div class="material-icons col-lg-6 col-md-6 col-sm-12 d-table text-center mr-auto ml-auto py-5"><img class="mb-4" src="https://www.hostingwalk.com/user/pages/06.g-suite/logo_hangouts_128px.png" alt="Shards supports the FontAwesome Icons pack by default." style="
-    max-width: 177px;
-    /* width: 200px; */
-"><h2 class="text mb-2">G Suite Hangouts</h2><h5 class="text-muted mb-0"> Communiceer met je team.</h5></div></div></div>
 
 
 <div class="jumbotron text-center" style="background-color: white;">
