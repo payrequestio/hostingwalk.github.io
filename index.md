@@ -107,12 +107,12 @@
 <div class="partnerbox">
     <div class="container">
     
-    <h1 class="text-center" style="
+<h1 class="text-center" style="
     margin-top: 15px;
 ">Hostingwalk levert al 7 jaar webhosting.</h1>
     
     
-        <div class="row">
+ <div class="row">
     
     
 
@@ -123,15 +123,15 @@
     min-height: 140px;
 ">
  <br>
-    <h3 style="margin-top: 15px;margin-left: 5px;">Hostingwalk API</h3>  
- <div style="margin-left: 10px;margin-top: 10px;">Domeinnamen registreren en beheren via je eigen omgeving.</div>
+    <h3 style="margin-top: 15px;margin-left: 5px;">Directadmin VPS</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;">Bestel je eigen server, wij beheren hem voor je.</div>
 <div class="" style="margin-left: 10px;margin-top: 10px;">  
 <a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
            </div></div>  </div>
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
-<img src="https://www.hostingwalk.com/user/pages/13.managed-wordpress-hosting/undraw_wordpress_utxt.svg" style="
+<img src="https://old.hostingwalk.com/user/pages/13.managed-wordpress-hosting/undraw_wordpress_utxt.svg" style="
     max-width: 250px;
     min-height: 140px;
 ">
