@@ -213,7 +213,7 @@ margin-left: 0px;color: #f28b20;font-size: 25px;" class="fal fa-coffee white-tex
 
 </div>
 
-        </div>       </div>  
+</div>       </div>  
 
  </div>
 
