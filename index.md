@@ -55,13 +55,13 @@
 }
 </style>
 
-<div class="jumbotron text-center" style="/* padding: 1.5rem 0rem; */margin-bottom: -1.5rem;background-color: #f28b20;border-radius: 0rem;">
+<div class="jumbotron text-center" style="background: url(https://images.unsplash.com/photo-1556742393-d75f468bfcb0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1650&amp;q=80) no-repeat center center fixed;background-size: cover;min-height: 600px;margin-bottom: 0px;">
 <div class="container"> 
     <div class="navbar-brand container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
 
-<h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;">
+<h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;text-shadow: 2px 2px black;">
 
-<i class="fal fa-rocket" style="color: white;/* font-size: 20px; */"></i> Voordelige domeinnaam registratie
+<i class="fab fa-weebly" style="color: white;/* font-size: 20px; */margin-top: 140px;"></i> Maak vandaag je nieuwe website
 </h1>
 
 </div>
@@ -77,6 +77,14 @@
    </div>
 </form>
    <div style="position: relative; padding-top: 60px;"><div id="dcontainer" style="display: none;"><div id="dresults"></div></div></div>
+
+
+<button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit" style="
+    color: white;
+    /* border-color: white; */
+    text-shadow: 2px 2px black;
+    background-color: #f28b20;
+">Begin eerst met een gratis website!</button>
            
 
 </div>
