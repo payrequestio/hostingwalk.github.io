@@ -130,7 +130,7 @@
   </div>
     
     
- <h3 style="margin-top: 50px;margin-bottom: 20px;">Altijd inbegrepen bij elk hostingpakket</h3>
+ <h3 style="margin-top: 50px;margin-bottom: 20px;">Inbegrepen na webhosting verhuizing</h3>
 
 <div class="row text-left" style="margin-bottom: 15px;font-size: 18px !important;">
         
@@ -180,7 +180,7 @@
 
 
 <h2 style="/*! font-family: Melbourne,sans-serif; */">
-<i class="fal fa-rocket" style="font-size: 32px;font-weight: 100;"></i> Krijg toegang tot de beste features met jouw hostingpakket.</h2>
+<i class="fal fa-rocket" style="font-size: 32px;font-weight: 100;"></i> Krijg toegang tot de beste features na jouw webhosting verhuizing.</h2>
    <h5 style="margin-top: 30px;font-family: inherit !important;">Onze hostingservers zijn uitgerust met de nieuwste software, en technieken dit garandeerd voor snelle perfomance en een lage laadtijd zodat je bezoekers direct kunnen zoeken op je wordpress blog of woocomerce webshop.</h5><div class="row">
         <div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
           <div class="box">
