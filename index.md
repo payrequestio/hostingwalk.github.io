@@ -61,7 +61,7 @@ title: Maak vandaag je nieuwe website
 
 <div class="jumbotron text-center" style="background: url(https://images.unsplash.com/photo-1556742393-d75f468bfcb0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1650&amp;q=80) no-repeat center center fixed;background-size: cover;min-height: 600px;margin-bottom: 0px;">
 <div class="container"> 
-    <div class="navbar-brand container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
+    <div class="container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
 
 <h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;text-shadow: 2px 2px black;">
 
@@ -74,12 +74,63 @@ title: Maak vandaag je nieuwe website
 
 <div style="/* margin-top: 10px; */margin-left: 180px;" class="col-sm-9 d-none d-sm-block text-center">
 
+
+<!--
   <form action="https://my.hostingwalk.com/cart.php?a=add&amp;domain=register" method="post" class="form-inline mr-auto" _lpchecked="1">
     <div class="input-group-prepend" style="height: 70px;;"> 
      <input name="query" autocomplete="off" placeholder="vul hier uw domeinnaam in." class="form-control form-control input-lg domainname" aria-ladel="Large" aria-descridedby="inputGroup-sizing-sm" type="text" style="height: 73px;width: 704px;">
 
    </div>
 </form>
+-->
+
+<form class="search-container" method="post" _lpchecked="1">
+<input class="domainname" name="query" autocomplete="off" type="text" id="search-bar" placeholder="Begin met zoeken naar je domeinnaam.." style="
+    margin-top: 20px;
+">
+</form>
+
+<style>
+.search-container{
+  width: 490px;
+  display: block;
+  margin: 0 auto;
+}
+
+input#search-bar{
+  margin: 0 auto;
+  width: 100%;
+  height: 45px;
+  padding: 0 20px;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: 1px solid #D0CFCE;
+  outline: none;
+  &:focus{
+    border: 1px solid #008ABF;
+    transition: 0.35s ease;
+    color: #008ABF;
+    &::-webkit-input-placeholder{
+      transition: opacity 0.45s ease; 
+      opacity: 0;
+     }
+    &::-moz-placeholder {
+      transition: opacity 0.45s ease; 
+      opacity: 0;
+     }
+    &:-ms-placeholder {
+     transition: opacity 0.45s ease; 
+     opacity: 0;
+     }    
+   }
+ }
+
+
+
+
+</style>
+
+
    <div style="position: relative; padding-top: 60px;"><div id="dcontainer" style="display: none;"><div id="dresults"></div></div></div>
 
 
