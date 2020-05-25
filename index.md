@@ -92,7 +92,7 @@ title: Maak vandaag je nieuwe website
 
 <style>
 .search-container{
-  width: 490px;
+  width: 60%;
   display: block;
   margin: 0 auto;
 }
@@ -100,7 +100,7 @@ title: Maak vandaag je nieuwe website
 input#search-bar{
   margin: 0 auto;
   width: 100%;
-  height: 45px;
+  height: 65px;
   padding: 0 20px;
   font-size: 1rem;
   border-radius: 10px;
@@ -134,12 +134,7 @@ input#search-bar{
    <div style="position: relative; padding-top: 60px;"><div id="dcontainer" style="display: none;"><div id="dresults"></div></div></div>
 
 
-<button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit" style="
-    color: white;
-    /* border-color: white; */
-    text-shadow: 2px 2px black;
-    background-color: #f28b20;
-">Begin eerst met een gratis website!</button>
+
            
 
 </div>
