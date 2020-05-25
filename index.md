@@ -72,7 +72,7 @@ title: Maak vandaag je nieuwe website
 
 
 
-<div style="/* margin-top: 10px; */margin-left: 180px;" class="col-sm-9 d-none d-sm-block text-center">
+
 
 
 <!--
@@ -136,8 +136,6 @@ input#search-bar{
 
 
            
-
-</div>
 
 
 
