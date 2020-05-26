@@ -158,7 +158,7 @@
 <h2 class="text-center">&nbsp;<i style="
 margin-left: 0px;color: #f28b20;font-size: 25px;" class="fal fa-coffee white-text"></i>&nbsp;
 
-Vragen over Vimexx alternatief of Hodtingwalk? neem contact op!
+Vragen over een Vimexx alternatief? neem contact op!
 </h2>
 <br>
 
