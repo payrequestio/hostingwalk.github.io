@@ -116,7 +116,7 @@
     <h3 style="margin-top: 15px;margin-left: 5px;">Directadmin VPS</h3>  
  <div style="margin-left: 10px;margin-top: 10px;">Bestel je eigen server, wij beheren hem voor je.</div>
 <div class="" style="margin-left: 10px;margin-top: 10px;">  
-<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
+<a href="/directadmin-vps"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
            </div></div>  </div>
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
@@ -129,7 +129,7 @@
     <h3 style="margin-top: 15px;margin-left: 5px;">WordPress Hosting</h3>  
  <div style="margin-left: 10px;margin-top: 10px;">Snelle en geoptimaliseerde SSD WordPress webhosting</div>
 <div class="" style="margin-left: 10px;margin-top: 10px;">  
-<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
+<a href="/webhosting"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
            </div></div>  </div>
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
@@ -143,7 +143,7 @@
     <h3 style="margin-top: 15px;margin-left: 5px;">Domeinnaam registreren</h3>  
  <div style="margin-left: 10px;margin-top: 10px;">Registreer voordelig al je domeinnamen bij Hostingwalk.</div>
 <div class="" style="margin-left: 10px;margin-top: 10px;">  
-<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
+<a href="/domeinnamen"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
            </div></div>  </div>
 
 </div>
