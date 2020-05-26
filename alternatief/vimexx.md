@@ -9,6 +9,33 @@
 </div>
 </div>
 
+
+
+
+<div class="container text-center" style="
+    padding: 1.5rem 0rem;
+    margin-bottom: -1rem;
+">
+<br>
+<div style="margin-bottom: 20px;" class="row">
+  <div> </div>
+    <div style="margin-top: 30px;" class="col-sm-7">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">Informatie over Vimexx</h2>
+<h3>Vimexx is een webhosting provider uit Deventer opgericht in 1999 en focust zich vooral op domeinnamen,webhosting en reseller hosting.
+
+
+</h3>
+  </div>
+  <div class="col-sm-5">
+<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://directadmin.com/img/update/index/slide-2.png">
+  </div>
+</div>
+</div>
+
+
+
+
+
 <div class="container text-center" style="
     background-color: white !important;
     padding: 1.5rem 0rem;
