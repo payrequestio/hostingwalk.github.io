@@ -122,14 +122,17 @@ input#search-bar{
 </div>
 
 
+</div>
+</div>
+
+
 <div class="container text-center" style="
     padding: 1.5rem 0rem;
     margin-bottom: -1rem;
 ">
 <br>
 
-</div>
-</div>
+
 
 
 
