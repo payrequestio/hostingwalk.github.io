@@ -128,6 +128,7 @@ input#search-bar{
 ">
 <br>
 
+</div>
 
 
 
