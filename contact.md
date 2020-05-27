@@ -1,4 +1,6 @@
-
+---
+title: Hostingwalk Contact
+---
 <div class="container-fluid text-center" style="
     padding-top: 2.9rem;
     padding-bottom: 0.3rem;
@@ -66,11 +68,11 @@
 
 <div class="card">  <div class="card-body"> 
 <i style="margin-left: 0px;color: #55acee;font-size: 35px;" class="fal fa-envelope white-text"></i>
-<h3>Mail ons</h3>
-<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
+<h3>Ticket openen</h3>
+<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;Binnen 24 uur reactie</p>
 
 
-<a alt="mail" title="contact via mail" href="mailto:support@hostingwalk.com"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">support@hostingwalk.com</button> </a>
+<a alt="mail" title="contact via mail" href="https://my.hostingwalk.com/submitticket.php"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Ticket openen</button> </a>
   </div>
 
 </div>
@@ -135,7 +137,7 @@
 
 <i style="font-size: 14px;" class="fal fa-building"></i> KVK nummer: 56871244  
 <hr>
- <i style="font-size: 14px;" class="fal fa-building"></i> BTW nummer: NL211445344B02
+ <i style="font-size: 14px;" class="fal fa-building"></i> BTW nummer: NL00227023B56
 </div>
  </div>  </div>
  
