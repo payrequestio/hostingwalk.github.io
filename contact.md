@@ -25,7 +25,7 @@
   <div> </div>
     <div style="margin-top: 30px;" class="col-sm-12">
       <h2 style="/*! font-family: Melbourne,sans-serif; */">Hostingwalk Support</h2>
-<h3>Sinds 2013 staan wij dagelijks klaar voor onze klanten, je kunt contact opnemen via livechat, whatsapp, email of open een ticket.
+<h3>Sinds 2013 staan wij dagelijks klaar voor onze klanten, je kunt contact opnemen via livechat, whatsapp, email of door een ticket te openen.
 </h3>
   </div>
   
@@ -179,7 +179,7 @@
 <div class="container text-center" style="max-width: 1000px;">
 <br>
 
-<h2><i class="fal fa-question" style="font-size: 34px;font-weight: 100;"></i>&nbsp;Doorzoek onze hosting artikelen</h2><br>
+<h2><i class="fal fa-question" style="font-size: 34px;font-weight: 100;"></i>&nbsp;Vindt het antwoord in onze kennisbank</h2><br>
     
     
 <div class="row">
