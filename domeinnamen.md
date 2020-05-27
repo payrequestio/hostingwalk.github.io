@@ -273,60 +273,7 @@ border-color: rgb(229, 229, 234);
 </style>
 
 
-<div class="jumbotron text-center" style="background-color: white !important;">
 
-<div class="container">
-
-  <h2 class="">Waarom jouw domeinnaam bij Hostingwalk</h2>
-
-<br>
-
-<div class="row">
-
-<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
-<div class="partnerbox-part" style="margin-left: 10px;">
-<i style="color: #f28b20;font-size: 40px;" class="fal fa-person-dolly"></i>
- <br>
-    <h3 style="margin-top: 15px;margin-left: 5px;"> Domeinnaam verhuizen</h3>  
- <div style="margin-left: 10px;margin-top: 10px;">Wij kunnen eenvoudig helpen jouw domeinnaam verhuizen naar ons toe.</div>
-<div class="" style="margin-left: 10px;margin-top: 10px;">  
-<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
-           </div></div>  </div>
-
-<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
-<div class="partnerbox-part" style="margin-left: 10px;">
-<i style="color: #f28b20;font-size: 40px;" class="fal fa-exchange"></i>
- <br>
-    <h3 style="margin-top: 15px;margin-left: 5px;">Domeinnaam doorsturen</h3>  
- <div style="margin-left: 10px;margin-top: 10px;"> Stuur eenvoudig je domeinnaam door naar een andere website of social media.</div>
-<div class="" style="margin-left: 10px;margin-top: 10px;">  
-<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
-           </div></div>  </div>
-
-<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
-<div class="partnerbox-part" style="margin-left: 10px;">
-<i style="color: #f28b20;font-size: 40px;" class="fa fa-user-secret"></i>
- <br>
-    <h3 style="margin-top: 15px;margin-left: 5px;">Gratis WHOIS protectie</h3>  
- <div style="margin-left: 10px;margin-top: 10px;">Wij vermelden indien je niet wilt geen contactgegevens in whois-databases.
-
-</div>
-<div class="" style="margin-left: 10px;margin-top: 10px;">  
-<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
-           </div></div>  </div>
-
- </div>
-    
-    
-    
-    
-
-</div>
-
-</div>
-
-
- </div> </div>
 
  <div class="container text-center" style="
     background-color: white !important;
