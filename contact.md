@@ -110,19 +110,21 @@ title: Hostingwalk Contact
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
  <div class="icon icon-red"> <i class="fa fa-euro-sign"></i> </div>
-  <div clas="description">
-   <h3>Bankgegevens
+<div clas="description">
+   <h3>Factuur betalen
 </h3>
   <div class="body">
 <hr>
 
-<i style="font-size: 14px;" class="fal fa-money-check"></i> IBAN: NL98BUNQ2206547414
+<i style="font-size: 14px;" class="fal fa-money-check"></i> Vermeld altijd je factuurnummer
 <hr>
-<i style="font-size: 14px;" class="fal fa-money-check"></i> BIC: BUNQNL2A
-      </div>
- </div>  </div>
+
+
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit"><i style="font-size: 14px;" class="fal fa-link"></i> Naar betaalpagina</button> </a></div>
+ </div>
+</div>
  
-      
+  
  
 </div>  </div>
 
