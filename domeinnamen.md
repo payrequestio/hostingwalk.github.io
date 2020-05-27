@@ -119,21 +119,74 @@ input#search-bar{
 </div>
 
 
+<div class="container text-center" style="
+    padding: 1.5rem 0rem;
+    margin-bottom: -1rem;
+">
+<br>
 
+
+
+
+<div style="margin-bottom: 20px;" class="row">
+  <div> </div>
+    <div style="margin-top: 30px;" class="col-sm-12">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">
+    
+ <i class="fal fa-globe-americas" style="color: black;"></i>
+Domeinregistratie</h2>
+<h3>
+    
+ <p class="" style="/* color: white !important; *//* font-weight: normal; */"> 
+<i class="fal fa-info-circle"></i>
+Al meer dan 5 jaar beheren we de websites voor kleine en grote ondernemers,   <br>
+wij zorgen dat jouw business online blijft. </p>
+    
+</h3>
+  </div>
+  
+</div>
+
+
+<div class="row">
+
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="partnerbox-part" style="margin-left: 10px;">
+<i style="color: #f28b20;font-size: 40px;" class="fal fa-person-dolly"></i>
+ <br>
+    <h3 style="margin-top: 15px;margin-left: 5px;"> Domeinnaam verhuizen</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;">Wij kunnen eenvoudig helpen jouw domeinnaam verhuizen naar ons toe.</div>
+<div class="" style="margin-left: 10px;margin-top: 10px;">  
+<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
+           </div></div>  </div>
+
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="partnerbox-part" style="margin-left: 10px;">
+<i style="color: #f28b20;font-size: 40px;" class="fal fa-exchange"></i>
+ <br>
+    <h3 style="margin-top: 15px;margin-left: 5px;">Domeinnaam doorsturen</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;"> Stuur eenvoudig je domeinnaam door naar een andere website of social media.</div>
+<div class="" style="margin-left: 10px;margin-top: 10px;">  
+<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
+           </div></div>  </div>
+
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="partnerbox-part" style="margin-left: 10px;">
+<i style="color: #f28b20;font-size: 40px;" class="fa fa-user-secret"></i>
+ <br>
+    <h3 style="margin-top: 15px;margin-left: 5px;">Gratis WHOIS protectie</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;">Wij vermelden indien je niet wilt geen contactgegevens in whois-databases.
+
+</div>
+<div class="" style="margin-left: 10px;margin-top: 10px;">  
+<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
+           </div></div>  </div>
+
+ </div>
+</div>
 
  
-<div class="jumbotron text-center" style="background-color: #f7f8fc !important;;;;;;padding: 1.5rem 0rem;margin-bottom: -1rem;">
-<div class="container"> 
-<div class="navbar-brand container-fluid" style="padding: 1.2rem 0rem;">
 
-<p style="display: inline-block;; padding-top: .3125rem;; padding-bottom: .3125rem;margin-right: 1rem;font-size: 1.25rem;;">
-<i class="fas fa-check" style="color: #ff9500;font-size: 20px;"></i> 6 jaar ervaring <i class="fas fa-check" style="color: #ff9500;font-size: 20px;margin-left: 15px;"></i>  WhatsApp support   <i class="fas fa-check" style="color: #ff9500;font-size: 20px;margin-left: 15px;"></i> Geen verborgenkosten   <i class="fas fa-check" style="color: #ff9500;font-size: 20px;margin-left: 15px;"></i>
-4 van de 5 sterren op <a href="http://www.webhosters.nl/webhosting-providers/hostingwalk/" target="_blank" style="color: #f28b20;">Webhosters.nl</a>
-</p>
-
-</div>
-</div>
-</div>
 
 <style>
     .peach-gradient {
