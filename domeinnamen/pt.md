@@ -123,13 +123,10 @@ input#search-bar{
 
 
 </div>
-</div>
 
 
-<div class="container text-center" style="
-    padding: 1.5rem 0rem;
-    margin-bottom: -1rem;
-">
+
+<div class="container text-center" style="padding: 1.5rem 0rem;margin-bottom: -1rem;">
 <br>
 
 
@@ -137,14 +134,13 @@ input#search-bar{
 
 
 <div style="margin-bottom: 20px;" class="row">
-  <div> </div>
     <div style="margin-top: 30px;" class="col-sm-12">
       <h2 style="/*! font-family: Melbourne,sans-serif; */">.PT domeinnaam registratie of verhuizing</h2>
 <h3>Sinds kort is het mogelijk voor iedereen om een .pt domeinnaam te registreren, de .pt domeinnaam extensie wordt beheerd door Fundação para a Computação Científica Nacional
 
 
 </h3>
-  </div>
+</div>
   
 </div>
 
