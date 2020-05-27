@@ -19,7 +19,7 @@
     color: #404041;
     border: 1px solid #F28B20;
     border-radius: 5px;
-    width: 100%;
+    width: 60%;
     max-width: 1200px;
     text-align: left;
     left: 0;
@@ -103,7 +103,11 @@ input#search-bar{
 
 <h1 style="display: inline-block;font-size: 2.35rem;color: white;">
 <i class="fal fa-globe-americas" style="color: white;"></i> Registreer jouw domeinnaam bij Hostingwalk
-</h1><form class="search-container" method="post" _lpchecked="1">
+
+</h1>
+
+
+<form class="search-container" method="post" _lpchecked="1">
 <input class="domainname" name="query" autocomplete="off" type="text" id="search-bar" placeholder="Begin met zoeken naar je domeinnaam.." style="
     margin-top: 20px;
 ">
