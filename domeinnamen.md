@@ -295,7 +295,7 @@ border-color: rgb(229, 229, 234);
 <h2 class="text-center" style=""><i class="fal fa-money-bill" style="font-size: 32px;font-weight: 100;"></i>&nbsp;&nbsp;100+ domeinnaam extensies altijd voor de laagste prijs..</h2>
 
 <div class="container">
-   <script language="javascript" src="https://my.hostingwalk.com/feeds/domainpricing2.php"></script>        
+   <script language="javascript" src="https://my.hostingwalk.com/feeds/domainpricing-static.php"></script>        
 </div>
     </div>
      
