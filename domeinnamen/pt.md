@@ -108,6 +108,7 @@ input#search-bar{
 </h1><h3 class="lead text-muted" style="color: white !important;font-weight: normal;">pt domeinnaam registreren vanaf <b> <script language="javascript" src="https://my.hostingwalk.com/feeds/domainprice.php?tld=.pt&amp;type=register&amp;regperiod=1&amp;format=1" type="text/javascript"></script> </b>
 &nbsp;    </h3>
 
+</div>
 
 <form class="search-container" method="post" _lpchecked="1">
 <input class="domainname" name="query" autocomplete="off" type="text" id="search-bar" placeholder="Begin met zoeken naar je domeinnaam.." style="
@@ -187,4 +188,13 @@ input#search-bar{
 <div class="container">
    <script language="javascript" src="https://my.hostingwalk.com/feeds/domainpricing-static.php"></script>        
 </div>
-    </div>
+<h3 style="margin-top: 50px;margin-bottom: 20px;">Inbegrepen bij elk pt domeinnaam</h3>
+<div class="row text-left" style="margin-bottom: 15px;font-size: 18px !important;">
+<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i> Contactgegevens wijzigen</div>
+<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i>  Naamservers beheren</div>
+<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i> Verhuiscode opvragen</div>
+<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i>  Gratis DNS Beheer</div>
+
+</div>
+
+</div>
