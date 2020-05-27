@@ -105,7 +105,7 @@ input#search-bar{
 
 <h1 style="display: inline-block;font-size: 2.35rem;color: white;">
 <i class="fal fa-globe-americas" style="color: white;"></i> Goedkoop pt domeinnaam registreren of verhuizen.
-</h1><h3 class="lead text-muted" style="color: white !important;font-weight: normal;">pt domeinnaam registreren vanaf <b> <script language="javascript" src="https://my.hostingwalk.com/feeds/domainprice.php?tld=.pt&amp;type=register&amp;regperiod=1&amp;format=1" type="text/javascript"></script>€32.00EUR </b>
+</h1><h3 class="lead text-muted" style="color: white !important;font-weight: normal;">pt domeinnaam registreren vanaf <b> <script language="javascript" src="https://my.hostingwalk.com/feeds/domainprice.php?tld=.pt&amp;type=register&amp;regperiod=1&amp;format=1" type="text/javascript"></script> </b>
 &nbsp;    </h3>
 
 
@@ -119,3 +119,72 @@ input#search-bar{
 
 </div>
 </div>
+
+
+<div class="container text-center" style="
+    padding: 1.5rem 0rem;
+    margin-bottom: -1rem;
+">
+<br>
+
+
+
+
+<div style="margin-bottom: 20px;" class="row">
+  <div> </div>
+    <div style="margin-top: 30px;" class="col-sm-12">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">.PT domeinnaam registratie of verhuizing</h2>
+<h3>Sinds kort is het mogelijk voor iedereen om een .pt domeinnaam te registreren, de .pt domeinnaam extensie wordt beheerd door Fundação para a Computação Científica Nacional
+
+
+</h3>
+  </div>
+  
+</div>
+
+
+<div class="table-responsive">
+ <table class="table">
+   <thead class="thead-dark">
+    <tr>
+      <th scope="col">Registrar van .pt</th>
+      <th scope="col">Registratie Periode</th>
+      <th scope="col">Karakters</th>
+      <th scope="col">Verhuistijd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"> Fundação para a Computação Científica Nacional</th>
+      <td>1 - 10 jaar</td>
+      <td> a-z 0-9 -</td>
+      <td>Direct</td>
+    </tr>
+  </tbody>
+            </table>        </div>
+</div>
+
+
+
+<div class="container text-center" style="
+    background-color: white !important;
+    padding: 1.5rem 0rem;
+    margin-bottom: -1rem;
+"> 
+<div class="container-fluid" style="padding: 1.2rem 0rem;">
+
+<p style="display: inline-block;; padding-top: .3125rem;; padding-bottom: .3125rem;margin-right: 1rem;font-size: 1.25rem;;">
+<i class="fas fa-check" style="color: #ff9500;font-size: 20px;"></i> 7 jaar ervaring <i class="fas fa-check" style="color: #ff9500;font-size: 20px;margin-left: 15px;"></i>  WhatsApp support   <i class="fas fa-check" style="color: #ff9500;font-size: 20px;margin-left: 15px;"></i> Geen verborgenkosten   <i class="fas fa-check" style="color: #ff9500;font-size: 20px;margin-left: 15px;"></i>
+4 van de 5 sterren op <a href="http://www.webhosters.nl/webhosting-providers/hostingwalk/" target="_blank" style="color: #f28b20;">Webhosters.nl</a>
+</p>
+
+</div>
+</div>
+
+<div class="jumbotron text-center" style="background-color: #f7f8fc !important;padding: 2rem 0rem;">
+<h2 class="text-center" style=""><i class="fal fa-money-bill" style="font-size: 32px;font-weight: 100;"></i>&nbsp;&nbsp;Kies naast de .PT domeinnaam tussen 100+ andere domeinnaam extensies.</h2>
+
+<div class="container">
+   <script language="javascript" src="https://my.hostingwalk.com/feeds/domainpricing-static.php"></script>        
+</div>
+    </div>
