@@ -349,7 +349,67 @@ border-color: rgb(229, 229, 234);
 
 
 
-</div> </div> </div>
+</div> </div>
+
+
+
+<div class="jumbotron text-center" style="background-color: white !important;">
+    <div class="container">
+
+        <h2 class="text-center">&nbsp;<i style="
+margin-left: 0px;color: #f28b20;font-size: 25px;" class="fal fa-coffee white-text"></i>&nbsp;Vragen over onze dienstverlening ? neem eenvoudig contact op.</h2>
+<br>
+
+<div class="card-deck">
+
+<div class="card">  <div class="card-body"> 
+ <i style="margin-left: 0px;color: #3b5998;font-size: 35px;" class="fal fa-comments white-text"></i>
+<h3>Live-chat</h3>
+<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
+<a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; tidioChatApi.open()">
+<button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Open chat!</button>
+    </a>
+  </div>
+
+
+</div>
+
+<div class="card">  <div class="card-body"> 
+<i style="margin-left: 0px;color: #3b5998;font-size: 35px;" class="fab fa-facebook white-text"></i>
+<h3>Messenger</h3>
+<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
+<button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Facebook Mesenger</button>
+  </div>
+
+</div>   
+
+<div class="card">  <div class="card-body"> 
+<i style="margin-left: 0px;color:#25D366;font-size: 35px;" class="fab fa-whatsapp white-text"></i>
+<h3>WhatsApp</h3>
+<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
+<a alt="whatsapp" title="contact via whatsapp" href="https://api.whatsapp.com/send?phone=31708919323"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">+31 70 8919 323</button> </a>
+  </div>
+
+</div>
+
+<div class="card">  <div class="card-body"> 
+<i style="margin-left: 0px;color: #55acee;font-size: 35px;" class="fal fa-envelope white-text"></i>
+<h3>Mail ons</h3>
+<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
+
+
+<a alt="mail" title="contact via mail" href="mailto:support@hostingwalk.com"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">support@hostingwalk.com</button> </a>
+  </div>
+
+</div>
+
+</div>       </div>  
+
+ </div>
+
+
+
+
 
 
 <style>
@@ -379,66 +439,10 @@ background-color: #f7f8fc !important;
 }
 </style>
 
-<section style="background: url('https://www.hostingwalk.com/user/pages/07.contact/support-bg2.png') no-repeat left #f28b20;padding: 3em 0;margin-bottom: -25px;;padding: 3em 0;">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-6 text-right">
-                <img class="anim a-fil animated fadeInLeft visible" src="https://www.hostingwalk.com/user/pages/08.contact/walkbot-big.png" alt="HostingWalk" style="max-width: 200px;">
-            </div>
-  <div class="col-sm-6" style="color: white;">
-      <h1>    <i class="fal fa-rocket" style="
-color: #f28b2white0;font-size: 32px;font-weight: 100;"></i>&nbsp;Domeinnaam registreren ?</h1>
-    <p class="lead">Kijk snel of jouw domeinnaam nog vrij is! &nbsp; &nbsp;</p>
-<button class="btn btn-outline-primary text-center" type="submit" style="/* background: #6c757d; */background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(232,232,232,1) 93%,rgba(229,229,229,1) 100%);border-radius: 20px;color: black;/* max-width: 250px; */box-shadow: none;border: none;text-shadow: none;padding: 10px 22px;transition: background-color 0.25s;">   <a href="https://my.hostingwalk.com/domainchecker.php" style="
-color: black;ay;">&nbsp;domeinnaam checken</a> </button>
-    </div>
-        </div>
-    </div>
-</section>
 
 
-<style>
-    header {
-  position: relative;
-  background-color: black;
-  height: 75vh;
-  min-height: 25rem;
-  width: 100%;
-  overflow: hidden;
-}
 
-header video {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  min-width: 100%;
-  min-height: 100%;
-  width: auto;
-  height: auto;
-  z-index: 0;
-  -ms-transform: translateX(-50%) translateY(-50%);
-  -moz-transform: translateX(-50%) translateY(-50%);
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-}
-
-header .container {
-  position: relative;
-  z-index: 2;
-}
-
-header .overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background-color: black;
-  opacity: 0.5;
-  z-index: 1;
-}    
-    
-    
+<style> 
     .peach-gradient {
     background: -webkit-linear-gradient(50deg,#f28b20,#f28b20) !important;
     background: -o-linear-gradient(50deg,#f28b20,#f28b20) !important;
