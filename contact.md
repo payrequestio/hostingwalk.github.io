@@ -183,7 +183,7 @@ title: Hostingwalk Contact
 <div class="container text-center" style="max-width: 1000px;">
 <br>
 
-<h2><i class="fal fa-question" style="font-size: 34px;font-weight: 100;"></i>&nbsp;Vindt het antwoord in onze kennisbank</h2><br>
+<h2><i class="fal fa-books" style="font-size: 34px;font-weight: 100;"></i>&nbsp;Vindt het antwoord in onze kennisbank</h2><br>
     
     
 <div class="row">
