@@ -2,56 +2,67 @@
 <script src="http://my.hostingwalk.com/dcheck/appear.js"></script>
 <script src="http://my.hostingwalk.com/dcheck/dcheck.js"></script>
 
-<header>
-   
-<div class="overlay" style="background-image: url(https://trafficexpress.es/wp-content/uploads/2014/09/gestoria-murcia-slide-2.jpg);
-/* background-repeat: no-repeat; */
-background-size: auto;
-background-position: left top;"></div>
-  
-  <div class="container h-100">
-    <div class="d-flex text-center h-100">
-      <div class="my-auto w-100 text-white">
 
-<div style="margin-top: 5px;" class="text-center">
+<div class="container-fluid text-center" style="
+    padding-top: 2.9rem;
+    padding-bottom: 0.3rem;
+    background-color: #f28b20;
+"> 
+<div class="container-fluidj" style="margin-bottom: 1.3rem;margin-top: 1.0rem;"><style>
+.search-container{
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+}
 
-<h1 class="jumbotron-heading" style="color: white;font-weight: normal;">Registreer jouw .nl domeinnaam bij Hostingwalk</h1>
-<p class="lead text-muted" style="color: white !important;font-weight: normal;"> 
-    <i class="fal fa-info-circle"></i>
-Al meer dan 5 jaar beheren we de websites voor kleine en grote ondernemers,   <br>
-wij zorgen dat jouw business online blijft. </p>
+input#search-bar{
+  margin: 0 auto;
+  width: 100%;
+  height: 65px;
+  padding: 0 20px;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: 1px solid #D0CFCE;
+  outline: none;
+  &:focus{
+    border: 1px solid #008ABF;
+    transition: 0.35s ease;
+    color: #008ABF;
+    &::-webkit-input-placeholder{
+      transition: opacity 0.45s ease; 
+      opacity: 0;
+     }
+    &::-moz-placeholder {
+      transition: opacity 0.45s ease; 
+      opacity: 0;
+     }
+    &:-ms-placeholder {
+     transition: opacity 0.45s ease; 
+     opacity: 0;
+     }    
+   }
+ }
 
 
 
-    
-    
-        <div class="row"><div class="col-sm-2"> </div>
 
-      <div style="margin-top: 10px;" class="col-sm-9 d-none d-sm-block">
+</style>
 
-  <form action="https://my.hostingwalk.com/cart.php?a=add&amp;domain=register" method="post" class="form-inline mr-auto" _lpchecked="1">
-    <div class="input-group-prepend" style="height: 70px;;"> 
-     <input name="query" placeholder="vul hier uw domeinnaam in." class="form-control form-control input-lg domainname" aria-ladel="Large" aria-descridedby="inputGroup-sizing-sm" type="text" style="height: 73px;width: 704px;">
-        
-   </div>
+<h1 style="display: inline-block;font-size: 2.35rem;color: white;">
+<i class="fal fa-globe-americas" style="color: white;"></i> Registreer jouw domeinnaam bij Hostingwalk
+</h1><form class="search-container" method="post" _lpchecked="1">
+<input class="domainname" name="query" autocomplete="off" type="text" id="search-bar" placeholder="Begin met zoeken naar je domeinnaam.." style="
+    margin-top: 20px;
+">
 </form>
-   <div style="position: relative; padding-top: 60px;"><div id="dcontainer" style="display: none;"><div id="dresults"></div></div></div>             
-            
-            </div>
+   <div style="position: relative; padding-top: 60px;"><div id="dcontainer" style="display: none;"><div id="dresults"></div></div></div>     
 
-                   <div style="margin-top: 10px;" class="col-sm-9 d-block d-sm-none">
- <form action="https://my.hostingwalk.com/cart.php?a=add&amp;domain=register" method="post" class="form-inline mr-auto" _lpchecked="1">
-    <div class="input-group-prepend" style="height: 70px;;"> 
-     <input name="query" placeholder="vul hier uw domeinnaam in." class="form-control form-control input-lg domainname" aria-ladel="Large" aria-descridedby="inputGroup-sizing-sm" type="text" style="height: 70px;width: 200px;">
-<button class="btn peach-gradient btn-rounded btn my-0 waves-effect waves-light" type="submit" style="height: 70px;margin-left: 5px;width: 100px;">Zoeken</button>   </div>
-</form>       </div>            
 
-    </div>
+</div>
+</div>
 
-      </div>
-    </div>
-  </div>
-</div></header>
+
+
 
  
 <div class="jumbotron text-center" style="background-color: #f7f8fc !important;;;;;;padding: 1.5rem 0rem;margin-bottom: -1rem;">
