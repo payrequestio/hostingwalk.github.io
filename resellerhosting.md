@@ -1,43 +1,39 @@
-<header style="max-height: 1px;">
-  <div class="overlay"></div>
-<video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" style="
-background-image: url(https://www.hostingwalk.com/user/pages/03.webhosting/photo-1474403078171-7f199e9d1335.jpeg);
-background-repeat: no-repeat;
-background-size: cover;
-background-position: right;">
-  </video>
- <div class="container h-100">
-<div class="d-flex text-center h-100">
-<div class="my-auto w-100 text-white">
-<div style="margin-top: 100px;" class="text-center">
+<div class="jumbotron text-center" style="/* background-color: white !important; */padding: 1.5rem 0rem;margin-bottom: -1.5rem;background-color: #f28b20;border-radius: 0rem;">
+<div class="container"> 
+    <div class="container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
 
-<h1 style="/* font-family: 'Panton Bold'; */;   color: white;
-  text-shadow:
-   -1px -1px 0 #000,  
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-     1px 1px 0 #000;">
-<i class="fal fa-hdd" style="font-size: 32px;font-weight: 100;"></i> SSD Reseller Hosting<br></h1>
-<h3 style="padding-bottom: 120px;font-family:'Panton Bold';  color: white;">De snelste SSD Reseller Hosting voor jouw en je klanten.&nbsp;<br><br></h3>
-</div></div></div></div>
-</header>
+<h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;">
+<i class="fab fa-whmcs" style="color: white;/* font-size: 20px; */"></i>  SSD Reseller Hosting met WHMCS
+</h1>
+</div>
+</div>
+</div>
  
-<div class="jumbotron text-center" style="background-color: white !important;padding: 1.0rem 0rem;margin-bottom: 0rem !important;">
-<div class="container-fluid" style="padding: 1.2rem 0rem;">
-
+<div class="jumbotron text-center" style="background-color: white !important;padding: 1.5rem 0rem;margin-bottom: -1rem;">
 <div class="container">
-        <div class="row">
+<br>
+<div style="margin-bottom: 20px;" class="row">
+  <div> </div>
+    <div style="margin-top: 30px;" class="col-sm-7">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">SSD Reseller Hosting</h2>
+<h3>Met SSD Reseller hosting kun je zelf webhosting pakketten aanmaken en verkopen aan je eigen klanten, deze kun je zelf ook uitbreiden en aanpassen naar wens.
 
-<p style="display: inline-block;; padding-top: .3125rem;; padding-bottom: .3125rem;margin-right: 1rem;font-size: 1.25rem;;">
-<i class="fas fa-star" style="color: #ff9500;font-size: 20px;"></i>
-<i class="fas fa-star" style="color: #ff9500;font-size: 20px;"></i>
-<i class="fas fa-star" style="color: #ff9500;font-size: 20px;"></i>
-<i class="fas fa-star" style="color: #ff9500;font-size: 20px;"></i>
-<i class="fal fa-star" style="color: #ff9500;font-size: 20px;"></i>
-Hostingwalk wordt beoordeeld met 4 van de 5 sterren op <a href="https://www.ispgids.com/isp/hostingwalk" target="_blank" style="color: #f28b20;eige;">ISPGids.com</a> en <a href="http://www.webhosters.nl/webhosting-providers/hostingwalk/" target="_blank" style="color: #f28b20;">Webhosters.nl</a>
-</p>
 
-</div></div></div></div>
+</h3>
+  </div>
+  <div class="col-sm-5">
+<img class="img-fluid" style="max-width: 350px;/* border-radius: 25px; */" src="https://www.whmcs.com/assets/images/screenshots/whmcs-admin-home.png">
+  </div>
+</div>
+</div>
+</div>
+
+
+{% include checkbar.md %}
+
+
+
+
   
 <div class="jumbotron" style="background-color: white;background-color: #f7f8fc !important;">
 <div class="container text-center"> 
