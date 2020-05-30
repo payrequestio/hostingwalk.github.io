@@ -1,3 +1,7 @@
+---
+title: Directadmin VPS
+---
+
 <div class="jumbotron text-center" style="/* background-color: white !important; */padding: 1.5rem 0rem;margin-bottom: -1.5rem;background-color: #f28b20;border-radius: 0rem;">
 <div class="container"> 
     <div class="container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
@@ -25,3 +29,5 @@
 </div>
 </div>
 </div>
+
+{% include checkbar.md %}
