@@ -98,10 +98,6 @@ input#search-bar{
      }    
    }
  }
-
-
-
-
 </style>
 
 <h1 style="display: inline-block;font-size: 2.35rem;color: white;">
@@ -245,7 +241,8 @@ background-color: #f7f8fc !important;
 }
 
 .partnerbox-part{
-    background:#FFF;
+    background: #212529 !important;
+    color: white !important;
     border-radius:10px;
     padding:30px 10px;
     margin:30px 0px;
