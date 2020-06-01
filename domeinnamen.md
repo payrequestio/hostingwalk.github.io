@@ -151,7 +151,7 @@ wij zorgen dat jouw business online blijft. </p>
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
 <div class="partnerbox-part" style="margin-left: 10px;">
-<i style="color: #f28b20;font-size: 40px;" class="fal fa-person-dolly"></i>
+<i style="color: white;font-size: 40px;" class="fal fa-person-dolly"></i>
  <br>
     <h3 style="margin-top: 15px;margin-left: 5px;"> Domeinnaam verhuizen</h3>  
  <div style="margin-left: 10px;margin-top: 10px;">Wij kunnen eenvoudig helpen jouw domeinnaam verhuizen naar ons toe.</div>
@@ -161,7 +161,7 @@ wij zorgen dat jouw business online blijft. </p>
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
 <div class="partnerbox-part" style="margin-left: 10px;">
-<i style="color: #f28b20;font-size: 40px;" class="fal fa-exchange"></i>
+<i style="color: white;font-size: 40px;" class="fal fa-exchange"></i>
  <br>
     <h3 style="margin-top: 15px;margin-left: 5px;">Domeinnaam doorsturen</h3>  
  <div style="margin-left: 10px;margin-top: 10px;"> Stuur eenvoudig je domeinnaam door naar een andere website of social media.</div>
@@ -171,7 +171,7 @@ wij zorgen dat jouw business online blijft. </p>
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
 <div class="partnerbox-part" style="margin-left: 10px;">
-<i style="color: #f28b20;font-size: 40px;" class="fa fa-user-secret"></i>
+<i style="color: white;font-size: 40px;" class="fa fa-user-secret"></i>
  <br>
     <h3 style="margin-top: 15px;margin-left: 5px;">Gratis WHOIS protectie</h3>  
  <div style="margin-left: 10px;margin-top: 10px;">Wij vermelden indien je niet wilt geen contactgegevens in whois-databases.
