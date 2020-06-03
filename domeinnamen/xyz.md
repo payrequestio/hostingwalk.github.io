@@ -135,13 +135,17 @@ input#search-bar{
 
 <div style="margin-bottom: 20px;" class="row">
 
+
+
+<div style="margin-top: 30px;" class="col-sm-12">
 <div class="alert alert-primary text-center" role="alert">
  Problemen met onze nieuwe live domeincheck? controleer beschikbaarheid via <a href="https://my.hostingwalk.com/cart.php?a=add&domain=register"> My Hostingwalk domeincheck </a>
 </div>
 
 
-<div style="margin-top: 30px;" class="col-sm-12">
-      <h2>.XYZ domeinnaam registratie of verhuizing</h2>
+
+
+ <h2>.XYZ domeinnaam registratie of verhuizing</h2>
 <h3>Sinds kort is het mogelijk voor ieddereen om een .xyz domeinnaam te registreren, de xyz domeinnaam extensie wordt beheerd door CentralNic
 <br />
 XYZ is een nieuwe domeinnaam extensie en wordt meestal gebruikt door startups
