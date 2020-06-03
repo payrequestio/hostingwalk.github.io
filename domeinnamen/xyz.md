@@ -212,3 +212,7 @@ XYZ is een nieuwe domeinnaam extensie en wordt meestal gebruikt door startups
 </div>
 
 </div>
+
+
+
+{% include contact-bar.md %}
