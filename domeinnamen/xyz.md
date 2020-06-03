@@ -135,7 +135,7 @@ input#search-bar{
 
 <div style="margin-bottom: 20px;" class="row">
 
-<div class="alert alert-primary" role="alert">
+<div class="alert alert-primary text-center" role="alert">
  Problemen met onze nieuwe live domeincheck? controleer beschikbaarheid via <a href="https://my.hostingwalk.com/cart.php?a=add&domain=register"> My Hostingwalk domeincheck </a>
 </div>
 
