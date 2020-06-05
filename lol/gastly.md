@@ -47,8 +47,8 @@ body {
 }
 
 .gastly {
-  width: 600px;
-  height: 600px;
+    width: 200000%;
+    height: 300%;
   border-radius: 50%;
   background-color: black;
   position: relative;
