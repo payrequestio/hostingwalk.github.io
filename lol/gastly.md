@@ -49,7 +49,6 @@ body {
 .gastly {
     width: 200000%;
     height: 300%;
-  border-radius: 50%;
   background-color: black;
   position: relative;
   display: flex;
