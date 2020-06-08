@@ -476,7 +476,9 @@ Beheer hier alle G Suite gebruikers en instellingen
  
   
  
-</div>  </div><div class="col-md-4">
+</div>  </div>
+
+<div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
  <div class=""> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Google_Currents_Logo.png/220px-Google_Currents_Logo.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
@@ -494,11 +496,10 @@ Beheer hier alle G Suite gebruikers en instellingen
  </div>
 </div>
  
-  
- 
 </div>  </div>
 
-</div>
+
+</div> </div>
 
 
 </div></div>
