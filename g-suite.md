@@ -634,8 +634,7 @@ max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(10
         <div class="col-lg-4 col-md-6 col-sm-12 mt-sm-30">
           <div class="box">
             
-            <h4 style="
-">Hoe snel wordt mijn G-Suite opgeleverd?
+  <h4>Hoe snel wordt mijn G-Suite opgeleverd?
 </h4>
 
 <p class="card-price text-center" style="">Doordat wij G Suite Partner zijn kunnen we vrijwel direct je pakket opleveren, mocht je de exacte levertijd na je bestelling weten neem gerust contact op via onze livechat.
@@ -646,7 +645,7 @@ max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(10
         <div class="col-lg-4 col-md-6 col-sm-12 mt-sm-30">
           <div class="box">
             
-            <h4>Helpt Hostingwalk bij G Suite vragen?
+<h4>Helpt Hostingwalk bij G Suite vragen?
 </h4>
 
 <p class="card-price text-center" style="">Hostingwalk is een gecertificeerde G Suite Reseller, we bieden ondersteuning met het opzetten van je G Suite en after-sales helpen we ook elk probleem op te lossen. .
@@ -658,7 +657,7 @@ max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(10
 <div class="col-lg-4 col-md-6 col-sm-12 mt-sm-30">
           <div class="box">
             
-            <h4>Hoeveel G Suite licenties moet ik bestellen?
+ <h4>Hoeveel G Suite licenties moet ik bestellen?
 </h4>
 
 <p class="card-price text-center" style="">Elk zakelijk e-mailadres heeft een eigen G Suite account nodig, indien je bijvoorbeeld 3 medewerkers hebt heb je 3 G Suite accounts nodig,
