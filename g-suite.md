@@ -47,7 +47,7 @@ $(document).ready(function(){
 
 <div class="row">
 
-    <div style="margin-top: 10px;" class="col-sm-12">  
+<div style="margin-top: 10px;" class="col-sm-12">  
 
 <div class="card-deck" style="margin-bottom: 20px;">
 
@@ -68,12 +68,11 @@ $(document).ready(function(){
 <li><span class="fa-li"><i class="fal fa-gift" style="color: darkorange;ray;"></i></span>Gratis email overstapservice</li>
             </ul>
 
-        <a href="https://my.hostingwalk.com/cart.php?gid=72"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
-          </div> 
+<a href="https://my.hostingwalk.com/cart.php?gid=72"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
+ </div> 
 
-        </div><div class="card mb-5 mb-lg-0">
-          <div class="card-body text-center" style="border-top: 2px solid #f28b20;
-}">
+ </div><div class="card mb-5 mb-lg-0">
+ <div class="card-body text-center" style="border-top: 2px solid #f28b20;">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
 <i class="fab fa-google" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>G Suite Business</h5>
@@ -88,10 +87,10 @@ $(document).ready(function(){
 <li><span class="fa-li"><i class="fal fa-gift" style="color: darkorange;ray;"></i></span>Gratis email overstapservice</li>
             </ul>
 
-        <a href="https://my.hostingwalk.com/cart.php?a=add&amp;pid=72"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
-          </div> 
+<a href="https://my.hostingwalk.com/cart.php?a=add&amp;pid=72"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
+</div> 
 
-        </div>
+ </div>
 
 
 <div class="card mb-5 mb-lg-0">
@@ -130,85 +129,7 @@ $(document).ready(function(){
 </div>
 
 
-<div class="jumbotron text-center" style="background-color: white;">
-<div class="container text-center">
-<br>
-<div style="margin-bottom: 20px;" class="row text-center">
 
-    <div style="/*! margin-top: 30px; */" class="col-sm-12 text-center">
-      <style>
-.box{
-      padding: 40px 5px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      border-radius: 2px;
-      background: #fff;
-      text-align: center; 
-    margin-top: 20px;
-        border-top: 2px solid #f28b20;
-      }
-      .box:hover{
-      box-shadow: 0 0 11px rgba(33,33,33,.2); 
-      }
-</style>
-
-
-
-<h2 style="/*! font-family: Melbourne,sans-serif; */">
-<i class="fab fa-google-drive" style="font-size: 32px;font-weight: 100;"></i> Meer opslagruimte met Google Drive upgrades</h2>
-   <h5 style="margin-top: 30px;font-family: inherit !important;">Per gebruiker kun je extra ruimte aanschaffen, deze ruimte kun je ook gebruiken voor mail.</h5><div class="row">
-        <div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
-          <div class="box">
-            <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_drive_128px.png" style="
-max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
-            <h4>Google Drive upgrade
- 20GB
-</h4>
-
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"> 4,80<span class="period">&nbsp;per maand</span></h6>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
-          <div class="box">
-            <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_drive_128px.png" style="
-max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
-            <h4>Google Drive upgrade
- 50GB
-</h4>
-
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"> 10,80<span class="period">&nbsp;per maand</span></h6>
-          </div>
-        </div>
-
-<div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
-          <div class="box">
-            <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_drive_128px.png" style="
-max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
-            <h4>Google Drive upgrade
- 200GB
-</h4>
-
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"> 12,80<span class="period">&nbsp;per maand</span></h6>
-          </div>
-        </div>
-
-<div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
-          <div class="box">
-            <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_drive_128px.png" style="
-max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
-            <h4>Google Drive upgrade
- 400GB
-</h4>
-
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">24,80<span class="period">&nbsp;per maand</span></h6>
-          </div>
-        </div>
-        
-        
-      </div>
-  </div>
-
-</div>
-</div></div>
 
 
 
@@ -228,34 +149,34 @@ max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(10
 
 
 
-<div class="jumbotron text-center" style="background-color: white;">
+<div class="jumbotron text-center" style="background-color: #f8f8f9;">
 <div class="container text-center">
 <br>
 <div style="margin-bottom: 20px;" class="row text-center justify-content-center">
 
-    <div style="/*! margin-top: 30px; */" class="col-sm-12 text-center justify-content-center">
+<div style="/*! margin-top: 30px; */" class="col-sm-12 text-center justify-content-center">
       <h2 style="/*! font-family: Melbourne,sans-serif; */">
-<i class="fab fa-google" style="font-size: 32px;font-weight: 100;"></i>&nbsp;Krijg toegang tot alle G Suite applicaties</h2>
+<i class="fab fa-google" style="font-size: 32px;font-weight: 100;"></i>&nbsp; Inbegrepen bij elk G Suite account</h2>
 <h5 style="margin-top: 30px;font-family: inherit !important;">Met G Suite krijg je toegang tot vele tools voor het productiever samenwerken met jouw team..</h5>
         <div class="row justify-content-center">
 
-                 <div class="col-md-2 col-sm-1" style="margin-left: 5px;">
+<div class="col-md-2 col-sm-1" style="margin-left: 5px;">
                    <div class="info text-center">
-                        <div class="text-center"> <img src="https://www.hostingwalk.com/user/pages/06.g-suite/logo_admin_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;margin-bottom: 10px;"> <br>
+                        <div class="text-center"> <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_admin_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;margin-bottom: 10px;"> <br>
 <a href="#"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit" data-toggle="popover" data-trigger="hover" data-placement="bottom" title="G Suite admin" data-content="Met G Suite admin beheer je eenvoudig jouw domein en gebruikers">G Suite Admin</button> </a>
  </div>
    </div>   </div>
 
 <div class="col-md-2 col-sm-1 text-center" style="margin-left: 5px;">
                    <div class="info text-center">
-                        <div class=""> <img src="https://www.hostingwalk.com/user/pages/06.g-suite/logo_calendar_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;margin-bottom: 10px;"> <br>
+                        <div class=""> <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_calendar_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;margin-bottom: 10px;"> <br>
 <a href="#"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">G Suite Kalender</button> </a>
  </div>
    </div>   </div>
 
 <div class="col-md-2 col-sm-1 text-center" style="margin-left: 5px;">
                    <div class="info text-center">
-                        <div class=""> <img src="https://www.hostingwalk.com/user/pages/06.g-suite/logo_contacts_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;margin-bottom: 10px;"> <br>
+                        <div class=""> <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_contacts_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;margin-bottom: 10px;"> <br>
 <a href="#"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">G Suite Contacten</button> </a>
  </div>
    </div>   </div>
@@ -407,6 +328,88 @@ header .overlay {
 .icons-example .icons-example-wrapper.light-one{background:#f8f8f9; padding: 4rem 2rem;}
 .icons-example .icons-example-wrapper.light-two{background:#F5F5F8; padding: 4rem 2rem;}
 </style>
+
+
+
+<div class="jumbotron text-center" style="background-color: white;">
+<div class="container text-center">
+<br>
+<div style="margin-bottom: 20px;" class="row text-center">
+
+ <div style="/*! margin-top: 30px; */" class="col-sm-12 text-center">
+      <style>
+.box{
+      padding: 40px 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 2px;
+      background: #fff;
+      text-align: center; 
+    margin-top: 20px;
+        border-top: 2px solid #f28b20;
+      }
+      .box:hover{
+      box-shadow: 0 0 11px rgba(33,33,33,.2); 
+      }
+</style>
+
+
+
+<h2 style="/*! font-family: Melbourne,sans-serif; */">
+<i class="fab fa-google-drive" style="font-size: 32px;font-weight: 100;"></i> Meer opslagruimte met Google Drive upgrades</h2>
+   <h5 style="margin-top: 30px;font-family: inherit !important;">Per gebruiker kun je extra ruimte aanschaffen, deze ruimte kun je ook gebruiken voor mail.</h5><div class="row">
+        <div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
+          <div class="box">
+            <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_drive_128px.png" style="
+max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
+            <h4>Google Drive upgrade
+ 20GB
+</h4>
+
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"> 4,80<span class="period">&nbsp;per maand</span></h6>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
+          <div class="box">
+            <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_drive_128px.png" style="
+max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
+            <h4>Google Drive upgrade
+ 50GB
+</h4>
+
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"> 10,80<span class="period">&nbsp;per maand</span></h6>
+          </div>
+        </div>
+
+<div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
+          <div class="box">
+            <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_drive_128px.png" style="
+max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
+            <h4>Google Drive upgrade
+ 200GB
+</h4>
+
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"> 12,80<span class="period">&nbsp;per maand</span></h6>
+          </div>
+        </div>
+
+<div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
+          <div class="box">
+            <img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_drive_128px.png" style="
+max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
+            <h4>Google Drive upgrade
+ 400GB
+</h4>
+
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">24,80<span class="period">&nbsp;per maand</span></h6>
+          </div>
+        </div>
+      
+
+ </div>
+  </div>
+
+</div>
+</div></div>
 
 
 
