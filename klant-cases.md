@@ -21,9 +21,7 @@ title: Klant Cases
   <div> </div>
     <div style="margin-top: 30px;" class="col-sm-7">
       <h2 style="/*! font-family: Melbourne,sans-serif; */"> Klanten Cases</h2>
-<h3>Wij zijn trots op de duizenden bedrijven over de hele wereld die bij ons hosten. Populaire blogs, grote webbureaus, universiteiten en vertrouwen Hostingwalk om hen de snelheid en stabiliteit te geven die ze 24/7 nodig hebben.
-
-
+<h3>Al sinds 2013 leveren wij hosting oplossingen aan populaire blogs, internetbureaus, webshops en meer, dankzij onze persoonlijke service en maatwerk oplossingen mogen wij samenwerken met de mooiste bedrijven van Nederland.
 </h3>
   </div>
   <div class="col-sm-5">
