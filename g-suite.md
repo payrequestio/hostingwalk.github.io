@@ -629,50 +629,50 @@ max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(10
 <br>
 
 <h2><i class="fal fa-question" style="font-size: 34px;font-weight: 100;"></i>&nbsp;Veelgestelde vragen G Suite</h2><br>
-<div id="accordion">
-  <div class="card">
-    <div class="card-header" id="headingOne" style="border-top: 2px solid #f28b20;">
-      <h5 class="mb-0" style="">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" style="color: #212529 !important;"> Hoe snel wordt mijn G Suite pakket opgeleverd ?</button>
-      </h5>
-    </div>
 
- <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion" style="">
-      <div class="card-body">Doordat wij G Suite Partner zijn kunnen we vrijwel direct je pakket opleveren, mocht je de exacte levertijd na je bestelling weten neem gerust contact op via onze livechat.</div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="headingTwo" style="
-    border-top: 1.5px solid #f28b20;
-">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="
-    color: #212529 !important;
-">Van wie krijg ik G Suite Ondersteuning ?</button>
-      </h5>
-    </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion" style="">
-      <div class="card-body">Hostingwalk is een gecertificeerde G Suite Reseller, we bieden ondersteuning met het opzetten van je G Suite en after-sales helpen we ook elk probleem op te lossen. .
+<div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-12 mt-sm-30">
+          <div class="box">
+            
+            <h4 style="
+">Hoe snel wordt mijn G-Suite opgeleverd?
+</h4>
 
-</div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header" id="headingThree" style="
-    border-top: 1.5px solid #f28b20;
-">
-      <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree" style="
-    color: #212529 !important;
-">Hoeveel G Suite licenties heb ik nodig ?</button>
-      </h5>
-    </div>
-    <div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#accordion" style="">
-      <div class="card-body">Elk zakelijk e-mailadres heeft een eigen G Suite account nodig, indien je bijvoorbeeld 3 medewerkers hebt heb je 3 G Suite accounts nodig, </div>
-    </div>
-  </div>
-</div>
-<p></p></div></div>
+<p class="card-price text-center" style="">Doordat wij G Suite Partner zijn kunnen we vrijwel direct je pakket opleveren, mocht je de exacte levertijd na je bestelling weten neem gerust contact op via onze livechat.
+
+</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12 mt-sm-30">
+          <div class="box">
+            
+            <h4>Helpt Hostingwalk bij G Suite vragen?
+</h4>
+
+<p class="card-price text-center" style="">Hostingwalk is een gecertificeerde G Suite Reseller, we bieden ondersteuning met het opzetten van je G Suite en after-sales helpen we ook elk probleem op te lossen. .
+
+</p>
+          </div>
+        </div>
+
+<div class="col-lg-4 col-md-6 col-sm-12 mt-sm-30">
+          <div class="box">
+            
+            <h4>Hoeveel G Suite licenties moet ik bestellen?
+</h4>
+
+<p class="card-price text-center" style="">Elk zakelijk e-mailadres heeft een eigen G Suite account nodig, indien je bijvoorbeeld 3 medewerkers hebt heb je 3 G Suite accounts nodig,
+
+</p>
+          </div>
+        </div>
+
+
+
+ </div>
+
+
+</div></div>
     
     
 {% include contact-bar.md %}
