@@ -39,6 +39,10 @@ title: Klant Cases
 
 
 <div style="background-color: white !important;" class="jumbotron"> 
+
+
+<h1 class="text-center" style="margin-bottom: 3rem;text-decoration: underline orange;">Bekijk hier onze klant cases</h1>
+
 <div class="container">
     <div class="row">
 
