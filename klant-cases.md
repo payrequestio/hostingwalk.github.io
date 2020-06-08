@@ -43,7 +43,7 @@ title: Klant Cases
     <div class="row">
 
 
- <div class="col-md-4">
+ <div class="col-md-6">
 <img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://indebuurt.nl/delft/wp-content/uploads/2019/07/blokker-delft.jpg">
 </div> <!-- / .col-md-8 -->
 
@@ -82,6 +82,31 @@ title: Klant Cases
 <img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://indebuurt.nl/delft/wp-content/uploads/2019/07/blokker-delft.jpg"> <!-- end macbook pro mockup -->           
 
 </div> <!-- / .col-md-8 -->
+ </div> <!--/ .row -->
+</div>
+ </div>
+
+
+
+ <div style="background-color: white !important;" class="jumbotron"> 
+<div class="container">
+    <div class="row">
+
+
+ <div class="col-md-6">
+<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://indebuurt.nl/delft/wp-content/uploads/2019/07/blokker-delft.jpg">
+</div> <!-- / .col-md-8 -->
+
+
+<div style="margin-top: 20px;" class="col-sm-6">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */"> Blokker heeft al 4 jaar hun webshop bij Hostingwalk</h2>
+      <p>Klanten willen zoveel mogelijk zelf doen en dat kan met het Directadmin controlpaneel, maak zelf je eigen subdomeinen aan of een nieuwe MySQL Database, ook kun je eenvoudig wachtwoorden wijzigen of WordPress installeren in slechts een paar klikken.<br>
+    </p><pre> - Gerrit Jansen (Directeur Blokker B.V.)
+          <img class="img-fluid" style="max-width: 200px;margin-top: 15px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Blokker-Logo.svg/1280px-Blokker-Logo.svg.png">
+<p></p></pre>
+  </div> <!-- /col-md-4 -->
+
+
  </div> <!--/ .row -->
 </div>
  </div>
