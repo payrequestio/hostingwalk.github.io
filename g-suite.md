@@ -133,22 +133,6 @@ $(document).ready(function(){
 
 
 
-
-
-
-<div class="icons-example clearfix mb-5"><div class="icons-example-wrapper light-one col-md-6 float-left" style="
-    padding: 4rem 2rem;
-"><div class="material-icons col-lg-7 col-md-7 col-sm-12 d-table text-center ml-auto mr-auto py-5"><img class="mb-4" src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_gmail_128px.png" alt="Shards supports the Material Icons pack by default." style="
-    max-width: 200px;
-"><h2 class="text mb-2">G Suite Gmail   </h2>  <h5 class="text-muted mb-0">   Mail met je bedrijf via Gmail.</h5></div></div><div class="icons-example-wrapper light-two col-md-6 float-left" style="
-    padding: 4rem 2rem;
-"><div class="material-icons col-lg-6 col-md-6 col-sm-12 d-table text-center mr-auto ml-auto py-5"><img class="mb-4" src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_hangouts_128px.png" alt="Shards supports the FontAwesome Icons pack by default." style="
-    max-width: 177px;
-    /* width: 200px; */
-"><h2 class="text mb-2">G Suite Hangouts</h2><h5 class="text-muted mb-0"> Communiceer met je team.</h5></div></div></div>
-
-
-
 <div class="jumbotron text-center" style="background-color: #f8f8f9;">
 <div class="container text-center">
 <br>
@@ -692,46 +676,4 @@ max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(10
 <p></p></div></div>
     
     
-<div class="jumbotron text-center" style="background-color: white !important;">
-    <div class="container">
-
-<h2 class="text-center">&nbsp;<i style="margin-left: 0px;color: #f28b20;font-size: 25px;" class="fal fa-coffee white-text"></i>&nbsp;Nog vragen over G Suite ? krijg gratis advies.</h2>
-<br>
-
-<div class="card-deck">
-
-<div class="card">  <div class="card-body"> 
- <i style="margin-left: 0px;color: #3b5998;font-size: 35px;" class="fal fa-comments white-text"></i>
-<h3>Live-chat</h3>
-<p style="color: #999999; margin-top: 0;">Gem. reactietijd 5 min</p>
-  </div>
-<div class="card-footer" style="background: #f28b20;color: white;">&nbsp; <a onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; $crisp.push(['do', 'chat:open'])" style="color: white;"> <i style="font-size: 14px;" class="fal fa-external-link"></i> Openen </a> </div>
-</div>  
-
-<div class="card">  <div class="card-body"> 
-<i style="margin-left: 0px;color: #3b5998;font-size: 35px;" class="fab fa-facebook white-text"></i>
-<h3>Messenger</h3>
-<p style="color: #999999;">Gem. reactietijd 30 min</p>
-  </div>
-<div class="card-footer" style="background: #f28b20;color: white;">&nbsp; <a href="https://www.facebook.com/Hostingwalk/" style="color: white;"> <i style="font-size: 14px;" class="fal fa-external-link"></i> Openen </a> </div>
-</div>        
-
-<div class="card">  <div class="card-body"> 
-<i style="margin-left: 0px;color:#25D366;font-size: 35px;" class="fab fa-whatsapp white-text"></i>
-<h3>WhatsApp</h3>
-<p style="color: #999999; margin-top: 0;">Gem. reactietijd 30 min</p>
-  </div>
-<div class="card-footer" style="background: #f28b20;color: white;">&nbsp; <a href="https://api.whatsapp.com/send?phone=31708919323" style="color: white;"> <i style="font-size: 14px;" class="fal fa-external-link"></i> Openen </a> </div>
-</div>
-
-<div class="card">  <div class="card-body"> 
-<i style="margin-left: 0px;color: #55acee;font-size: 35px;" class="fab fa-twitter white-text"></i>
-<h3>Twitter DM</h3>
-<p style="color: #999999; margin-top: 0;">Gem. reactietijd 30 min</p>
-  </div>
-<div class="card-footer" style="background: #f28b20;color: white;">&nbsp; <a href="https://www.twitter.com/hostingwalk/" style="color: white;"> <i style="font-size: 14px;" class="fal fa-external-link"></i> Openen </a> </div>
-</div>
-
-        </div>       </div>  
-
- </div>
+{% include contact-bar.md %}
