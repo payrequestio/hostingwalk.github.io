@@ -483,8 +483,7 @@ Beheer hier alle G Suite gebruikers en instellingen
 </div>  </div>
 
 
-</div> </div>
-
+</div> </div></div>
 
 </div></div>
 
@@ -638,7 +637,7 @@ max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(10
       </h5>
     </div>
 
-    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion" style="">
+ <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion" style="">
       <div class="card-body">Doordat wij G Suite Partner zijn kunnen we vrijwel direct je pakket opleveren, mocht je de exacte levertijd na je bestelling weten neem gerust contact op via onze livechat.</div>
     </div>
   </div>
