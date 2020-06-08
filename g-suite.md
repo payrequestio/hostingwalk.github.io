@@ -549,7 +549,7 @@ header .overlay {
  <div style="/*! margin-top: 30px; */" class="col-sm-12 text-center">
       <style>
 .box{
-      padding: 40px 5px;
+      padding: 40px 5px !important;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       border-radius: 2px;
       background: #fff;
