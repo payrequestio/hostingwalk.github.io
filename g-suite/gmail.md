@@ -16,7 +16,9 @@
 <div style="margin-bottom: 20px;" class="row">
   <div> </div>
     <div style="margin-top: 30px;" class="col-sm-7">
-      <h2 style="/*! font-family: Melbourne,sans-serif; */">G Suite Gmail</h2>
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">
+<img src="https://old.hostingwalk.com/user/pages/06.g-suite/logo_gmail_128px.png" style="max-width: 150px;max-height: 70px;">
+G Suite Gmail</h2>
 <h3>Met Gmail van G Suite gebruik je je eigen domeinnaam voor jouw zakelijk mail, maak mailinglijsten voor groepen en ontvang realtime meldingen van nieuwe e-mails via de Gmail app of via je Gmail webmail omgeving.
 </h3>
   </div>
