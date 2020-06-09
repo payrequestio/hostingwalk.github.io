@@ -124,3 +124,91 @@ wij zorgen dat jouw business online blijft. </p>
 
 
 {% include contact-bar.md %}
+
+
+
+<style>
+    .peach-gradient {
+    background: -webkit-linear-gradient(50deg,#f28b20,#f28b20) !important;
+    background: -o-linear-gradient(50deg,#f28b20,#f28b20) !important;
+    background: linear-gradient(40deg,#f28b20,#f28b20) !important;
+}
+    .btn.peach-gradient {
+    -webkit-transition: .5s ease;
+    -o-transition: .5s ease;
+    transition: .5s ease;
+    color: #fff;
+}
+    
+    .waves-effect {
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+    
+
+    .box{
+    padding:60px 0px;
+}
+
+.box-part{
+    background:#FFF;
+    border-radius:10px;
+    padding:60px 10px;
+    margin:30px 0px;
+}
+
+.box-part{
+background-color: #f7f8fc !important;
+}
+
+.box-part .fa , 
+.box-part .title , 
+.box-part .text ,
+.box-part a{
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+}
+
+             .partnerbox{
+}
+
+.partnerbox-part{
+    background: #212529 !important;
+    color: white !important;
+    border-radius:10px;
+    padding:30px 10px;
+    margin:30px 0px;
+}
+
+.partnerbox-part{
+border-top-width: 1px;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-left-width: 1px;
+border-top-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-left-style: solid;
+border-color: rgb(229, 229, 234);
+}
+
+.partnerbox-part .fa , 
+.partnerbox-part .title , 
+.partnerbox-part .text ,
+.partnerbox-part a{
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+}
+
+</style>
+
