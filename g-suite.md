@@ -79,11 +79,11 @@ $(document).ready(function(){
   <div class="body">
 <hr>
 
-Beheer hier alle G Suite gebruikers en instellingen
+Met Gmail van G Suite gebruik je je eigen domeinnaam voor jouw zakelijk mail.
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Gmail</button> </a></div>
  </div>
 </div>
  
@@ -103,7 +103,7 @@ Beheer hier alle G Suite gebruikers en instellingen
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Hangouts</button> </a></div>
  </div>
 </div>
  
@@ -125,7 +125,7 @@ Beheer hier alle G Suite gebruikers en instellingen
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Documenten</button> </a></div>
  </div>
 </div>
  
