@@ -25,7 +25,7 @@ $(document).ready(function(){
 <div style="margin-bottom: 20px;" class="row">
   <div> </div>
     <div style="margin-top: 30px;" class="col-sm-7">
-      <h2 style="/*! font-family: Melbourne,sans-serif; */">G Suite voor jouw bedrijf</h2>
+<h2 style="text-decoration: underline orange;">Werk online met G Suite</h2>
 <h3>Gebruik G Suite voor zakelijke e-mail, videovergaderingen, cloudopslag en het delen van bestanden. Met G Suite beschikt u over alle tools die uw team nodig heeft om samen te werken en meer gedaan te krijgen.
 
 </h3>
