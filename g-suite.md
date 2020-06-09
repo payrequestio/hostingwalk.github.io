@@ -44,86 +44,8 @@ $(document).ready(function(){
     <h2><i class="fab fa-google fa-border" style="font-size: 34px;font-weight: 100;"></i> Kies de gewenste G Suite versie voor je bedrijf.</h2>
     <p>Gebruik G Suite voor zakelijke e-mail, videovergaderingen, cloudopslag en het delen van bestanden. Met G Suite beschikt u over alle tools die uw team nodig heeft om samen te werken en meer gedaan te krijgen.</p>
 
-<div class="row">
+{% include g-suite-pakketten.md %}
 
-<div style="margin-top: 10px;" class="col-sm-12">  
-
-<div class="card-deck" style="margin-bottom: 20px;">
-
-<div class="card mb-5 mb-lg-0">
-          <div class="card-body text-center" style="border-top: 2px solid #f28b20;
-}">
-
-<h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fab fa-google" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>G Suite Basic</h5>
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 5,20<span class="period">&nbsp;per maand</span></h6>
-            <hr>   
-            <ul class="fa-ul">
-              <li><span class="fa-li"><i class="fal fa-hdd" style="color: gray;ray;"></i></span>&nbsp;30 GB cloudopslag</li>
-              <li><span class="fa-li"><i class="fal fa-envelope" style="color: gray;ray;"></i></span>Zakelijke e-mail met Gmail</li>
-              <li><span class="fa-li"><i class="fal fa-cloud" style="color: gray;ray;"></i></span>Werk samen met Google Drive</li>
-              <li><span class="fa-li"><i class="fal fa-calendar" style="color: gray;ray;"></i></span>Geïntegreerde team agenda`s</li>
-<br> <strong style="">Inbegrepen</strong>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: darkorange;ray;"></i></span>Gratis email overstapservice</li>
-            </ul>
-
-<a href="https://my.hostingwalk.com/cart.php?gid=72"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
- </div> 
-
- </div><div class="card mb-5 mb-lg-0">
- <div class="card-body text-center" style="border-top: 2px solid #f28b20;">
-
-<h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fab fa-google" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>G Suite Business</h5>
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 10,40<span class="period">&nbsp;per maand</span></h6>
-            <hr>
-                    <ul class="fa-ul">
-              <li><span class="fa-li"><i class="fal fa-hdd" style="color: gray;ray;"></i></span>&nbsp;Onbeperkte cloudopslag</li>
-              <li><span class="fa-li"><i class="fal fa-envelope" style="color: gray;ray;"></i></span>Zakelijke e-mail met Gmail</li>
-              <li><span class="fa-li"><i class="fal fa-cloud" style="color: gray;ray;"></i></span>Werk samen met Google Drive</li>
-              <li><span class="fa-li"><i class="fal fa-calendar" style="color: gray;ray;"></i></span>Geïntegreerde team agenda`s</li>
-<br> <strong style="">Inbegrepen</strong>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: darkorange;ray;"></i></span>Gratis email overstapservice</li>
-            </ul>
-
-<a href="https://my.hostingwalk.com/cart.php?a=add&amp;pid=72"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
-</div> 
-
- </div>
-
-
-<div class="card mb-5 mb-lg-0">
-          <div class="card-body text-center" style="border-top: 2px solid #f28b20;
-}">
-
-<h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fab fa-google" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>G Suite Enterprise</h5>
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 23<span class="period">&nbsp;per maand</span></h6>
-            <hr>
-            <ul class="fa-ul">
-              <li><span class="fa-li"><i class="fal fa-hdd" style="color: gray;ray;"></i></span>&nbsp;Onbeperkte cloudopslag</li>
-              <li><span class="fa-li"><i class="fal fa-envelope" style="color: gray;ray;"></i></span>Zakelijke e-mail met Gmail</li>
-              <li><span class="fa-li"><i class="fal fa-cloud" style="color: gray;ray;"></i></span>Werk samen met Google Drive</li>
-              <li><span class="fa-li"><i class="fal fa-calendar" style="color: gray;ray;"></i></span>Geïntegreerde team agenda`s</li>
-<br> <strong style="">Inbegrepen</strong>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: darkorange;ray;"></i></span>Gratis email overstapservice</li>
-            </ul>
-
-<a href="https://my.hostingwalk.com/cart.php?a=add&amp;pid=72"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
-</div> 
-
-</div>
-
-
-
-
-
-
-</div>
-
-</div>
-
-  </div>
 </div>
 </div>
 
