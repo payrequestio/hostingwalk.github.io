@@ -35,7 +35,7 @@ Domeinnamen worden dus gebruikt voor websites maar ook voor email en om computer
 {% include checkbar.md %}
 
 
-{% include domeincheck-files.md %}
+{% include domaincheck-files.md %}
 
 <div class="container text-center" style="
     padding: 1.5rem 0rem;
