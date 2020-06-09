@@ -22,7 +22,7 @@ title: Wat is een domeinnaam?
       <h2 style="/*! font-family: Melbourne,sans-serif; */">Wat is een domeinnaam?</h2>
 <h3>Een domeinnaam is een unieke naam op het internet, via een browser kun je deze unieke naam als adres gebruiken en ben je makkelijk vindbaar op het internet.
 <br> <br>
-Domeinnamen worden dus gebruikt voor  websites maar ook voor email en om computers met elkaar te laten communiceren zodat je deze eenvoudig zijn te onthouden, wat met een IP adres veel lastiger is.
+Domeinnamen worden dus gebruikt voor websites maar ook voor email en om computers met elkaar te laten communiceren zodat je deze eenvoudig zijn te onthouden, wat met een IP adres veel lastiger is.
 </h3>
   </div>
   <div class="col-sm-5">
@@ -75,7 +75,7 @@ wij zorgen dat jouw business online blijft. </p>
     <h3 style="margin-top: 15px;margin-left: 5px;"> Domeinnaam verhuizen</h3>  
  <div style="margin-left: 10px;margin-top: 10px;">Wij kunnen eenvoudig helpen jouw domeinnaam verhuizen naar ons toe.</div>
 <div class="" style="margin-left: 10px;margin-top: 10px;">  
-<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
+<a href="domeinnaam-verhuizen"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
            </div></div>  </div>
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
@@ -85,7 +85,7 @@ wij zorgen dat jouw business online blijft. </p>
     <h3 style="margin-top: 15px;margin-left: 5px;">Domeinnaam doorsturen</h3>  
  <div style="margin-left: 10px;margin-top: 10px;"> Stuur eenvoudig je domeinnaam door naar een andere website of social media.</div>
 <div class="" style="margin-left: 10px;margin-top: 10px;">  
-<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
+<a href="domeinnaam-doorsturen"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
            </div></div>  </div>
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
@@ -97,7 +97,7 @@ wij zorgen dat jouw business online blijft. </p>
 
 </div>
 <div class="" style="margin-left: 10px;margin-top: 10px;">  
-<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
+<a href="/domeinnaam-whois-protectie"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
            </div></div>  </div>
 
  </div>
