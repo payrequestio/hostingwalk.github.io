@@ -120,3 +120,7 @@ wij zorgen dat jouw business online blijft. </p>
 </div>
 
 </div>
+
+
+
+{% include contact-bar.md %}
