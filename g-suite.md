@@ -10,10 +10,9 @@ $(document).ready(function(){
 
 <div class="jumbotron text-center" style="/* background-color: white !important; */padding: 1.5rem 0rem;margin-bottom: -1.5rem;background-color: #f28b20;border-radius: 0rem;">
 <div class="container"> 
-    <div class="navbar-brand container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
-
+    <div class="container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
 <h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;">
-<i class="fab fa-google" style="color: white;/* font-size: 20px; */"></i> Zakelijke e-mail &amp; agenda van G Suite.
+<i class="fab fa-google" style="color: white;/* font-size: 20px; */"></i>  Zakelijke e-mail &amp; agenda van G Suite.
 </h1>
 </div>
 </div>
