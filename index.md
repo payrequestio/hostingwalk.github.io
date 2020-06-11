@@ -65,8 +65,9 @@ title: Maak vandaag je nieuwe website
 
 <h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;text-shadow: 2px 2px black;">
 
+<i class="fab fa-magento" style="color: white;/* font-size: 20px; */margin-top: 140px;"></i> 
 <i class="fab fa-wordpress" style="color: white;/* font-size: 20px; */margin-top: 140px;"></i>
-<i class="fab fa-magento" style="color: white;/* font-size: 20px; */margin-top: 140px;"></i> Hosting experts voor Magento &amp; WordPress
+Hosting experts voor Magento &amp; WordPress
 </h1>
 
 </div>
