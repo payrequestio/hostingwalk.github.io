@@ -59,13 +59,14 @@ title: Maak vandaag je nieuwe website
 }
 </style>
 
-<div class="jumbotron text-center" style="background: url(https://images.unsplash.com/photo-1556742393-d75f468bfcb0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1650&amp;q=80) no-repeat center center fixed;background-size: cover;min-height: 600px;margin-bottom: 0px;">
+<div class="jumbotron text-center" style="background: url(https://images.unsplash.com/photo-1566207474742-de921626ad0c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9) no-repeat center center fixed;background-size: cover;min-height: 600px;margin-bottom: 0px;">
 <div class="container"> 
     <div class="container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
 
 <h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;text-shadow: 2px 2px black;">
 
-<i class="fab fa-weebly" style="color: white;/* font-size: 20px; */margin-top: 140px;"></i> Maak vandaag je nieuwe website
+<i class="fab fa-wordpress" style="color: white;/* font-size: 20px; */margin-top: 140px;"></i>
+<i class="fab fa-magento" style="color: white;/* font-size: 20px; */margin-top: 140px;"></i> Hosting experts voor Magento &amp; WordPress
 </h1>
 
 </div>
