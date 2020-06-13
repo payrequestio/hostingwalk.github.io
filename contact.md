@@ -27,7 +27,7 @@ title: Hostingwalk Contact
   <div> </div>
     <div style="margin-top: 30px;" class="col-sm-12">
       <h2 style="/*! font-family: Melbourne,sans-serif; */">Hostingwalk Support</h2>
-<h3>Sinds 2013 staan wij dagelijks klaar voor onze klanten, je kunt contact opnemen via livechat, whatsapp, email of door een ticket te openen.
+<h3>Sinds 2013 staan wij klaar voor onze klanten, je kunt contact opnemen via livechat, whatsapp, email of door een ticket te openen.
 </h3>
   </div>
   
@@ -51,7 +51,7 @@ title: Hostingwalk Contact
 <div class="card">  <div class="card-body"> 
 <i style="margin-left: 0px;color: #3b5998;font-size: 35px;" class="fab fa-facebook white-text"></i>
 <h3>Messenger</h3>
-<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
+<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur (maandag t/m vrijdag)</p>
 <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Facebook Mesenger</button>
   </div>
 
@@ -60,7 +60,7 @@ title: Hostingwalk Contact
 <div class="card">  <div class="card-body"> 
 <i style="margin-left: 0px;color:#25D366;font-size: 35px;" class="fab fa-whatsapp white-text"></i>
 <h3>WhatsApp</h3>
-<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
+<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur (maandag t/m vrijdag)</p>
 <a alt="whatsapp" title="contact via whatsapp" href="https://api.whatsapp.com/send?phone=31708919323"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">+31 70 8919 323</button> </a>
   </div>
 
@@ -69,7 +69,7 @@ title: Hostingwalk Contact
 <div class="card">  <div class="card-body"> 
 <i style="margin-left: 0px;color: #55acee;font-size: 35px;" class="fal fa-envelope white-text"></i>
 <h3>Ticket openen</h3>
-<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;Binnen 24 uur reactie</p>
+<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;Binnen 24 uur reactie (maandag t/m vrijdag)</p>
 
 
 <a alt="mail" title="contact via mail" href="https://my.hostingwalk.com/submitticket.php"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Ticket openen</button> </a>
@@ -129,7 +129,6 @@ title: Hostingwalk Contact
 </div>
  </div>  </div>
  
-      
  
 </div>  </div>
 
@@ -149,7 +148,7 @@ title: Hostingwalk Contact
       </div>
  </div>  </div>
  
-      
+    
  
 </div>  </div>
 
