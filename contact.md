@@ -39,7 +39,7 @@ title: Hostingwalk Contact
 <div class="card">  <div class="card-body"> 
  <i style="margin-left: 0px;color: #3b5998;font-size: 35px;" class="fal fa-comments white-text"></i>
 <h3>Live-chat</h3>
-<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
+<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur  (maandag t/m vrijdag)</p>
 <a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; if (!window.__cfRLUnblockHandlers) return false; tidioChatApi.open()">
 <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Open chat!</button>
     </a>
