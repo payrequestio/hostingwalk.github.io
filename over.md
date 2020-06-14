@@ -40,6 +40,71 @@ we helpen kleine en grote bedrijven met hosting oplossingen en beheren meer dan 
 {% include checkbar.md %}
 
 
+<!--
+<div class="container text-center" style="
+    padding: 0px;
+">
+  <h2 style="margin-bottom: 20px;"> <img src="https://miro.medium.com/fit/c/160/160/1*I0mmFRjP0593DfocJ27Z4Q.png" style="
+    max-width: 55px;
+    margin-right: 12px;
+    margin-bottom: 6px;
+"> Maak kennis met het Hostingwalk Team
+
+</h2>
+
+<div class="row">
+    
+
+<div class="col-xl-3 col-md-6 mb-4">
+      <div class="card border-0 shadow">
+        <img src="https://source.unsplash.com/TMgQMXoglsM/500x350" class="card-img-top" alt="...">
+        <div class="card-body text-center">
+          <h5 class="card-title mb-0">Geert Jan Sloos</h5>
+          <div class="card-text text-black-50">Eigenaar / Systeembeheerder</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-xl-3 col-md-6 mb-4">
+      <div class="card border-0 shadow">
+        <img src="https://source.unsplash.com/9UVmlIb0wJU/500x350" class="card-img-top" alt="...">
+        <div class="card-body text-center">
+          <h5 class="card-title mb-0">Team Member</h5>
+          <div class="card-text text-black-50">Web Developer</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-xl-3 col-md-6 mb-4">
+      <div class="card border-0 shadow">
+        <img src="https://source.unsplash.com/sNut2MqSmds/500x350" class="card-img-top" alt="...">
+        <div class="card-body text-center">
+          <h5 class="card-title mb-0">Team Member</h5>
+          <div class="card-text text-black-50">Finance medewerker</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-xl-3 col-md-6 mb-4">
+      <div class="card border-0 shadow">
+        <img src="https://source.unsplash.com/ZI6p3i9SbVU/500x350" class="card-img-top" alt="...">
+        <div class="card-body text-center">
+          <h5 class="card-title mb-0">Team Member</h5>
+          <div class="card-text text-black-50"> Marketing specialist</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+
+-->
+
+
+
+
+
 <div class="jumbotron" style="background-color: white;">
 <div class="container text-center"> 
 
