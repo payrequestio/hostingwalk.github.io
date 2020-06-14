@@ -25,12 +25,12 @@ title: Over Hostingwalk
   <div> </div>
     <div style="margin-top: 30px;" class="col-sm-7">
 <h2 style="text-decoration: underline orange;">Hostingwalk opgericht in 2013</h2>
-<h3>Gebruik G Suite voor zakelijke e-mail, videovergaderingen, cloudopslag en het delen van bestanden. Met G Suite beschikt u over alle tools die uw team nodig heeft om samen te werken en meer gedaan te krijgen.
-
+<h3>Hostingwalk is een onafhankelijk webhosting bedrijf opgericht in 2013, 
+we helpen kleine en grote bedrijven met hosting oplossingen en beheren meer dan 2000 domeinnamen voor webshops, internetbureaus, restaurants en andere sectoren.
 </h3>
   </div>
   <div class="col-sm-5">
-<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://hostingwalk.com/assets/img/g-suite-banner.jpg">
+<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://i.imgur.com/uC4f2PK.png">
   </div>
 </div>
 </div>
