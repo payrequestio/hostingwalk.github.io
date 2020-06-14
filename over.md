@@ -38,3 +38,125 @@ we helpen kleine en grote bedrijven met hosting oplossingen en beheren meer dan 
 
 
 {% include checkbar.md %}
+
+
+<div class="jumbotron" style="background-color: white;">
+<div class="container text-center"> 
+
+<h2 style="/* margin-bottom: 20px; */"> <i class="fal fa-thumbs-up" style=""></i> 9 redenen om voor Hostingwalk te kiezen.
+
+</h2>
+
+<div class="row">
+
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="same-image" style="background-image: url('https://old.hostingwalk.com/user/pages/waarom/undraw_instant_support_elxh.png" ');"=""></div>
+
+<h3 style="margin-top: 225px;margin-left: 5px;">1. Snelle support</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;">Binnen enkele seconde een reactie en in 90% van de gevallen opgelost binnen 5 minuten.</div>
+</div>  </div>
+
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<style>
+.same-image {
+    float:  left;
+    width:  300px;
+    height: 210px;
+    background-size: cover;
+}
+</style>
+
+<div class="same-image" style="background-image:url('https://old.hostingwalk.com/user/pages/waarom/undraw_book_lover_mkck.png');">
+                                                                                                                              </div>
+
+<h3 style="margin-top: 225px;margin-left: 5px;"> 2. Leerzame kennisbank</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;">Wij houden onze klanten up-to-date met de nieuwste technieken en uitleg hoe je die zelf kunt toepassen.</div>
+</div>  </div><div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="same-image" style="background-image: url('https://old.hostingwalk.com/user/pages/waarom/undraw_accept_terms_4in8.png');"></div>
+
+<h3 style="margin-top: 225px;margin-left: 5px;"> 3. Geen jaarcontract</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;">Geen ingewikkelde voorwaarden of kleine lettertjes waardoor je 12 maanden aan vast zit, je bent dus altijd vrij.</div>
+</div>  </div>
+
+</div>
+
+<div class="row">
+
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="same-image" style="background-image: url('https://www.hostingwalk.com/user/pages/waarom/undraw_security_o890%20(1).png" ');"=""></div>
+
+<h3 style="margin-top: 225px;margin-left: 5px;">4. Security first</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;">Dagelijks scannen we op virussen ook gebruiken we geavanceerde firewalls om jouw websites te beschermen.</div>
+</div>  </div>
+
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<style>
+.same-image {
+    float:  left;
+    width:  300px;
+    height: 210px;
+    background-size: cover;
+}
+</style>
+
+<div class="same-image" style="background-image: url('https://www.hostingwalk.com/user/pages/waarom/undraw_Search_1px8.png');"></div>
+
+<h3 style="margin-top: 225px;margin-left: 5px;">5. Domeincheck</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;">Controleer realtime of jouw domeinnaam vrij is, keuze uit meer dan 100+ domeinextensies en direct opgeleverd. </div>
+</div>  </div><div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="same-image" style="background-image: url('https://www.hostingwalk.com/user/pages/waarom/undraw_accept_terms_4in8.png');"></div>
+
+<h3 style="margin-top: 225px;margin-left: 5px;"> 6. Goede reviews</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;">Klanten kunnen een recensie achterlaten op webhosters.nl hier scoren we 4,5 van de 5 sterren.</div>
+</div>  </div>
+
+     </div>
+
+<div class="row">
+
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="same-image" style="background-image: url('https://www.hostingwalk.com/user/pages/waarom/undraw_gift1_sgf8.png" ');"=""></div>
+
+<h3 style="margin-top: 225px;margin-left: 5px;">7. Leuke acties</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;">Regelmatig hebben we leuke acties en aanbiedingen om diensten uit te proberen of korting op domeinnamen.</div>
+</div>  </div>
+
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<style>
+.same-image {
+    float:  left;
+    width:  300px;
+    height: 210px;
+    background-size: cover;
+}
+</style>
+
+<div class="same-image" style="background-image: url('https://www.hostingwalk.com/user/pages/waarom/undraw_Queue_j6ij.png');"></div>
+
+<h3 style="margin-top: 225px;margin-left: 5px;">8. Je bent geen nummer</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;">Hostingwalk gelooft niet in klantnummers, we noemen je vaak bij je voornaam en geven altijd eerlijk advies.</div>
+</div>  </div><div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="same-image" style="background-image: url('https://www.hostingwalk.com/user/pages/waarom/undraw_experts3_3njd.png');"></div>
+
+<h3 style="margin-top: 225px;margin-left: 5px;"> 9. Duizend klanten</h3>  
+ <div style="margin-left: 10px;margin-top: 10px;">Meer dan duizend klanten gingen je al voor, de meeste zijn meer als 7 jaar al klant bij Hostingwalk.</div>
+</div>  </div>
+
+ </div>
+
+</div>
+</div>
+
+
+{% include contact-bar.md %}
+
+
