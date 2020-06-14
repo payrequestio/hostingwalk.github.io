@@ -160,3 +160,16 @@ we helpen kleine en grote bedrijven met hosting oplossingen en beheren meer dan 
 {% include contact-bar.md %}
 
 
+
+<style>
+.same-image {
+    float: left;
+    width: 300px;
+    height: 210px;
+    background-size: cover;
+}
+</style>
+
+<link href="https://old.hostingwalk.com/user/themes/quark/css/domeinnamen.css" rel="stylesheet">
+
+
