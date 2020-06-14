@@ -51,14 +51,16 @@ we helpen kleine en grote bedrijven met hosting oplossingen en beheren meer dan 
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="same-image" style="background-image: url('https://old.hostingwalk.com/user/pages/waarom/undraw_instant_support_elxh.png" ');"=""></div>
+<div class="same-image" style="background-image: url('https://old.hostingwalk.com/user/pages/waarom/undraw_instant_support_elxh.png');">
+</div>
 
 <h3 style="margin-top: 225px;margin-left: 5px;">1. Snelle support</h3>  
- <div style="margin-left: 10px;margin-top: 10px;">Binnen enkele seconde een reactie en in 90% van de gevallen opgelost binnen 5 minuten.</div>
+<div style="margin-left: 10px;margin-top: 10px;">Binnen enkele seconde een reactie en in 90% van de gevallen opgelost binnen 5 minuten.</div>
 </div>  </div>
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
+
 <style>
 .same-image {
     float:  left;
@@ -69,7 +71,7 @@ we helpen kleine en grote bedrijven met hosting oplossingen en beheren meer dan 
 </style>
 
 <div class="same-image" style="background-image:url('https://old.hostingwalk.com/user/pages/waarom/undraw_book_lover_mkck.png');">
-                                                                                                                              </div>
+</div>
 
 <h3 style="margin-top: 225px;margin-left: 5px;"> 2. Leerzame kennisbank</h3>  
  <div style="margin-left: 10px;margin-top: 10px;">Wij houden onze klanten up-to-date met de nieuwste technieken en uitleg hoe je die zelf kunt toepassen.</div>
@@ -87,11 +89,13 @@ we helpen kleine en grote bedrijven met hosting oplossingen en beheren meer dan 
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="same-image" style="background-image: url('https://www.hostingwalk.com/user/pages/waarom/undraw_security_o890%20(1).png" ');"=""></div>
+<div class="same-image" style="background-image: url('https://www.hostingwalk.com/user/pages/waarom/undraw_security_o890%20(1).png');">
+</div>
 
 <h3 style="margin-top: 225px;margin-left: 5px;">4. Security first</h3>  
  <div style="margin-left: 10px;margin-top: 10px;">Dagelijks scannen we op virussen ook gebruiken we geavanceerde firewalls om jouw websites te beschermen.</div>
-</div>  </div>
+</div>  
+</div>
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
@@ -116,13 +120,13 @@ we helpen kleine en grote bedrijven met hosting oplossingen en beheren meer dan 
  <div style="margin-left: 10px;margin-top: 10px;">Klanten kunnen een recensie achterlaten op webhosters.nl hier scoren we 4,5 van de 5 sterren.</div>
 </div>  </div>
 
-     </div>
+</div>
 
 <div class="row">
 
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="same-image" style="background-image: url('https://www.hostingwalk.com/user/pages/waarom/undraw_gift1_sgf8.png" ');"=""></div>
+<div class="same-image" style="background-image: url('https://www.hostingwalk.com/user/pages/waarom/undraw_gift1_sgf8.png');"></div>
 
 <h3 style="margin-top: 225px;margin-left: 5px;">7. Leuke acties</h3>  
  <div style="margin-left: 10px;margin-top: 10px;">Regelmatig hebben we leuke acties en aanbiedingen om diensten uit te proberen of korting op domeinnamen.</div>
