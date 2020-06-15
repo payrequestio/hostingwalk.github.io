@@ -33,3 +33,156 @@ title: Podbean Podcast Hosting
 
 
 {% include checkbar.md %}
+
+
+
+<div class="jumbotron text-center" style="background-color: white;">
+<div class="container text-center">
+<br>
+<div style="margin-bottom: 20px;" class="row text-center justify-content-center">
+
+<div style="/*! margin-top: 30px; */" class="col-sm-12 text-center justify-content-center">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">
+<i class="fal fa-podcast" style="font-size: 32px;font-weight: 100;"></i> Begin je eigen podcast met PodBean!</h2>
+<h5 style="margin-top: 30px;font-family: inherit !important;">Start podcasting op een betrouwbaar en robuust podcast-hostingplatform, met onbeperkte bandbreedte en opslag
+
+</h5>
+
+
+<div class="row">
+
+
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class="">  </div>
+<div clas="description">
+   <h3>Podcast Hosting
+</h3>
+  <div class="body">
+<hr>Begin je eigen podcast! stream over heel de wereld met het vertrouwde Podcast Hosting Platform van Podbean.
+<hr>
+
+
+<a alt="mail" title="contact via mail" href="https://www.podbean.com/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Lees meer over podcast hosting</button> </a></div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class="">  </div>
+<div clas="description">
+   <h3>Podcasting Website
+</h3>
+  <div class="body">
+<hr>Elk podcast hostingaccount wordt geleverd met een unieke podcast-site. Kies uit mooie podcastthema's die bij uw stijl passen.
+<hr>
+
+
+<a alt="mail" title="contact via mail" href="https://www.podbean.com/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Lees meer over podcast website</button> </a></div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+
+
+
+
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class="">  </div>
+<div clas="description">
+   <h3>Podcast RSS-feed
+</h3>
+  <div class="body">
+<hr>Distribueer naar iTunes (ondersteunt volledig iOS-feed-tags), Google Play, Spotify en een breed scala aan podcast-apps.
+<hr>
+
+
+<a alt="mail" title="contact via mail" href="https://www.podbean.com/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Lees meer over podcast RSS</button> </a></div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class="">  </div>
+<div clas="description">
+   <h3>Podcast promotietools
+</h3>
+  <div class="body">
+<hr>Gebruik onze ingebouwde tools voor delen om uw podcasts automatisch op Facebook, Twitter, YouTube, Tumblr te plaatsen.
+<hr>
+
+
+<a alt="mail" title="contact via mail" href="https://www.podbean.com/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Lees meer over podcast promotie</button> </a></div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class="">  </div>
+<div clas="description">
+   <h3>Podcast Domeinnaam
+</h3>
+  <div class="body">
+<hr>Het is eenvoudig om Podbean's podcast-hosting te integreren met uw bestaande (of nieuwe) domeinnaam.
+<hr>
+
+
+<a alt="mail" title="contact via mail" href="https://www.podbean.com/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Lees meer over podcast domeinnaam</button> </a></div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div><div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class="">  </div>
+<div clas="description">
+   <h3>Premium Podcasting
+
+</h3>
+  <div class="body">
+<hr>Met premium podcastfunctie kunt u inhoud achter een betaalmuur publiceren. Krijg betaald met terugkerende abonnementen.
+<hr>
+
+
+<a alt="mail" title="contact via mail" href="https://www.podbean.com/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Lees meer over premium podcasting</button> </a></div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+
+
+</div> </div></div>
+
+</div></div>
