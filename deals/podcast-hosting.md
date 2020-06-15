@@ -221,8 +221,9 @@ title: Podbean Podcast Hosting
             <h4>Probeer nu PodBean 1 maand gratis!
 </h4>
 
-
+<a href="https://www.podbean.com/hostingwalk">
 <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bestel gratis podcast hosting</button>
+</a>
 
 <h8 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"></h8>
           </div>
