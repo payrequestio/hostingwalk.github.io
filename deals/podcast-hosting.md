@@ -186,3 +186,55 @@ title: Podbean Podcast Hosting
 </div> </div></div>
 
 </div></div>
+
+
+
+<div class="jumbotron text-center" style="background-color: white;">
+<div class="container text-center">
+<br>
+<div style="margin-bottom: 20px;" class="row text-center">
+
+ <div style="/*! margin-top: 30px; */" class="col-sm-12 text-center">
+      <style>
+.box{
+      padding: 40px 5px !important;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 2px;
+      background: #fff;
+      text-align: center; 
+    margin-top: 20px;
+        border-top: 2px solid #f28b20;
+      }
+      .box:hover{
+      box-shadow: 0 0 11px rgba(33,33,33,.2); 
+      }
+</style>
+
+
+
+<h2 style="/*! font-family: Melbourne,sans-serif; */">
+<i class="fal fa-podcast" style="font-size: 32px;font-weight: 100;"></i> Podcast Hosting voor slechts €9 per maand</h2>
+   <div class="row">
+        <div class="col-lg-12 col-md-6 col-sm-12 mt-sm-30">
+          <div class="box">
+            <img src="https://d8g345wuhgd7e.cloudfront.net/site/images/logo-img2.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;min-height: 30px;margin-bottom: 10px;">
+            <h4>Probeer nu PodBean 1 maand gratis!
+</h4>
+
+
+<button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bestel gratis podcast hosting</button>
+
+<h8 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"></h8>
+          </div>
+        </div>
+        
+
+ </div>
+  </div>
+
+</div>
+</div></div>
+
+
+
+{% include contact-bar.md %}
