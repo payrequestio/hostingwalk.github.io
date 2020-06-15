@@ -25,7 +25,7 @@ title: Podbean Podcast Hosting
 </h3>
   </div>
   <div class="col-sm-5">
-<img class="img-fluid" style="" src="https://d8g345wuhgd7e.cloudfront.net/site/images/secure-pic.png">
+<img class="img-fluid" alt="podcast hosting" title="podcast hosting" src="http://hostingwalk.com/assets/img/podcast-hosting-banner.png">
   </div>
 </div>
 </div>
@@ -217,7 +217,7 @@ title: Podbean Podcast Hosting
    <div class="row">
         <div class="col-lg-12 col-md-6 col-sm-12 mt-sm-30">
           <div class="box">
-            <img src="https://d8g345wuhgd7e.cloudfront.net/site/images/logo-img2.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;min-height: 30px;margin-bottom: 10px;">
+            <img alt="podcast logo" src="http://hostingwalk.com/assets/img/podcast-hosting-logo.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;min-height: 30px;margin-bottom: 10px;">
             <h4>Probeer nu PodBean 1 maand gratis!
 </h4>
 
