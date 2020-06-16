@@ -22,7 +22,7 @@
 <br>
 <div style="margin-bottom: 20px;" class="row">
   <div> </div>
-    <div style="margin-top: 30px;" class="col-sm-7">
+    <div style="" class="col-sm-7">
       <h2 style="/*! font-family: Melbourne,sans-serif; */">Informatie over TransIP</h2>
 <h3>TransIP is een webhosting provider uit Deventer opgericht in 1999 en focust zich vooral op domeinnamen,webhosting en reseller hosting.
 
@@ -30,7 +30,7 @@
 </h3>
   </div>
   <div class="col-sm-5">
-<img class="img-fluid" style="max-width: 450px;" src="https://old.hostingwalk.com/user/pages/alternatief/TransIP/TransIP-alternatief.png">
+<img class="img-fluid" style="max-width: 450px;" src="http://old.hostingwalk.com/user/pages/alternatief/transip/transip-logo.png">
   </div>
 </div>
 </div>
@@ -41,7 +41,7 @@
 
 
 
-<div class="jumbotron" style="/* background-color: white; */">
+<div class="jumbotron" style="background-color: white;">
 <div class="container">
 <br>
 <div style="margin-bottom: 20px;" class="row">
@@ -49,7 +49,7 @@
     
   <div class="col-sm-12 text-center">
  <h2> <i class="fal fa-star" style="font-size: 32px;font-weight: 100;"></i> Waarom Hostingwalk</h2>
- <p>Hostingwalk bestaat al 7 jaar en heeft zich bewezen met voordelige domeinnamen en goede wordpress hosting, ook voor het bedrijven bieden ze oplossingen als G Suite en Managed Directadmin VPS Servers.
+ <p>Hostingwalk is een onafhankelijk webhosting bedrijf opgericht in 2013, we helpen kleine en grote bedrijven met hosting oplossingen en beheren meer dan 2000 domeinnamen voor webshops, internetbureaus, restaurants en andere sectoren.
 </p>
   </div>
 </div>   
