@@ -176,6 +176,13 @@ input#search-bar{
 </div></div>
 
 
+<div class="jumbotron text-center" style="background-color: #f7f8fc !important;padding: 2rem 0rem;">
+<h2 class="text-center" style=""><i class="fal fa-money-bill" style="font-size: 32px;font-weight: 100;"></i>&nbsp;&nbsp;100+ domeinnaam extensies goedkoper dan bij TransIP.</h2>
+
+<div class="container">
+   <script language="javascript" src="https://my.hostingwalk.com/feeds/domainpricing-static.php"></script>        
+</div>
+    </div>
 
 
 
