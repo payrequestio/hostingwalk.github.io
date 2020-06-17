@@ -86,12 +86,12 @@ title: Directadmin VPS
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-microchip" style="color: gray;"></i></span>
 <b>CPU Cores </b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">2</div></div>
+<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 35%;background-color: #f28b20;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">2</div></div>
 </li>
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-memory" style="color: gray;"></i></span>
 <b>RAM Geheugen </b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">2 GB</div></div>
+<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 35%;background-color: #f28b20;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">2 GB</div></div>
 </li>  
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-hdd" style="color: gray;"></i></span>
@@ -120,12 +120,12 @@ title: Directadmin VPS
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-microchip" style="color: gray;"></i></span>
 <b>CPU Cores </b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">2</div></div>
+<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 45%;background-color: #f28b20;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">2</div></div>
 </li>
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-memory" style="color: gray;"></i></span>
 <b>RAM Geheugen </b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">4 GB</div></div>
+<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 45%;background-color: #f28b20;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">4 GB</div></div>
 </li>  
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-hdd" style="color: gray;"></i></span>
