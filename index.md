@@ -172,7 +172,7 @@ input#search-bar{
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Directadmin VPS</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://hostingwalk.com/directadminvps"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Directadmin VPS</button> </a></div>
  </div>
 </div>
  
@@ -191,7 +191,7 @@ input#search-bar{
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk WordPress Hosting</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://hostingwalk.com/webhosting"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk WordPress Hosting</button> </a></div>
  </div>
 </div>
  
@@ -211,7 +211,7 @@ input#search-bar{
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Domeinnamen</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://hostingwalk.com/domeinnamen"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Domeinnamen</button> </a></div>
  </div>
 </div>
  
@@ -231,7 +231,7 @@ input#search-bar{
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Magento Hosting</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://hostingwalk.com/magento-hosting"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Magento Hosting</button> </a></div>
  </div>
 </div>
  
@@ -251,7 +251,7 @@ input#search-bar{
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk G Suite</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://hostingwalk.com/g-suite"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk G Suite</button> </a></div>
  </div>
 </div>
  
@@ -271,7 +271,7 @@ input#search-bar{
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Microsoft 365</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://hostingwalk.com/microsoft365"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Microsoft 365</button> </a></div>
  </div>
 </div>
  
