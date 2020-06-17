@@ -172,7 +172,7 @@ input#search-bar{
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://hostingwalk.com/directadminvps"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Directadmin VPS</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://hostingwalk.com/directadmi-nvps"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Directadmin VPS</button> </a></div>
  </div>
 </div>
  
