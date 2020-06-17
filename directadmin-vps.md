@@ -91,12 +91,12 @@ title: Directadmin VPS
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-memory" style="color: gray;"></i></span>
 <b>RAM Geheugen </b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">20</div></div>
+<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">2 GB</div></div>
 </li>  
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-hdd" style="color: gray;"></i></span>
 <b>SSD schijfruimte </b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">60</div></div>
+<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">60 GB SSD</div></div>
 </li>    
 
 <br>
@@ -130,7 +130,7 @@ title: Directadmin VPS
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-hdd" style="color: gray;"></i></span>
 <b>SSD schijfruimte </b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">80</div></div>
+<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">80 GB SSD</div></div>
 </li>    
 
 <br>
