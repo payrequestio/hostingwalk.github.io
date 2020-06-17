@@ -1,7 +1,6 @@
 ---
-title: Maak vandaag je nieuwe website
+title: Hosting experts voor Magento & WordPress
 ---
-
 
 <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <script src="http://my.hostingwalk.com/dcheck/appear.js"></script>
@@ -263,7 +262,7 @@ input#search-bar{
  <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Microsoft_23401.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://hostingwalk.com/assets/img/microsot-icon.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
 <div clas="description">
    <h3>Microsoft 365
 </h3>
