@@ -154,113 +154,147 @@ input#search-bar{
     
 <h1 class="text-center" style="
     margin-top: 15px;
-">Hostingwalk levert al 7 jaar webhosting.</h1>
+"> Hostingwalk Productaanbod</h1>
     
     
- <div class="row">
-    
-    
+<div class="row">
 
-<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<img src="https://i.imgur.com/N0N88Pb.png" style="
-    max-width: 250px;
-    min-height: 140px;
-">
- <br>
-    <h3 style="margin-top: 15px;margin-left: 5px;">Directadmin VPS</h3>  
- <div style="margin-left: 10px;margin-top: 10px;">Bestel je eigen server, wij beheren hem voor je.</div>
-<div class="" style="margin-left: 10px;margin-top: 10px;">  
-<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
-           </div></div>  </div>
 
-<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<img src="https://old.hostingwalk.com/user/pages/13.managed-wordpress-hosting/undraw_wordpress_utxt.svg" style="
-    max-width: 250px;
-    min-height: 140px;
-">
- <br>
-    <h3 style="margin-top: 15px;margin-left: 5px;">WordPress Hosting</h3>  
- <div style="margin-left: 10px;margin-top: 10px;">Snelle en geoptimaliseerde SSD WordPress webhosting</div>
-<div class="" style="margin-left: 10px;margin-top: 10px;">  
-<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
-           </div></div>  </div>
 
-<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+<div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
-<img src="https://i.imgur.com/fsYjHAl.png" style="
-    max-width: 250px;
-    min-height: 140px;
-    max-height: 140px;
-">
- <br>
-    <h3 style="margin-top: 15px;margin-left: 5px;">Domeinnaam registreren</h3>  
- <div style="margin-left: 10px;margin-top: 10px;">Registreer voordelig al je domeinnamen bij Hostingwalk.</div>
-<div class="" style="margin-left: 10px;margin-top: 10px;">  
-<a href="ssl"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Meer informatie</button> </a>
-           </div></div>  </div>
+<div class="info">
+ <div class=""> <img src="https://directadmin.com/img/logo/symbol_directadmin.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+<div clas="description">
+   <h3>Directadmin VPS
+</h3>
+  <div class="body">
+<hr>Snelle en veilige Directadmin VPS binnen een werkdag online
+<hr>
+
+
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Directadmin VPS</button> </a></div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div><div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://wpress-cursus.nl/wp-content/uploads/2017/02/wordpress-logo-min.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+<div clas="description">
+   <h3>WordPress Hosting
+
+</h3>
+  <div class="body">
+<hr>Snelle en geoptimaliseerde SSD WordPress webhosting
+<hr>
+
+
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk WordPress Hosting</button> </a></div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://i.imgur.com/uC4f2PK.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+<div clas="description">
+   <h3>Domeinnamen
+</h3>
+  <div class="body">
+<hr>Registreer een domeinnaam bij Hostingwalk, kies uit meer dan 100 domein extensies.
+<hr>
+
+
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Domeinnamen</button> </a></div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://correcthosting.nl/wp-content/uploads/2015/09/magento-logo-Small.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+<div clas="description">
+   <h3>Magento Hosting
+</h3>
+  <div class="body">
+<hr>Snelle Magento Hosting met SSD harddisk en REDIS Caching
+<hr>
+
+
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Magento Hosting</button> </a></div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+ <div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://www.teachercast.net/wp-content/uploads/2019/06/Google-Icon.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+<div clas="description">
+   <h3>G Suite van Google
+</h3>
+  <div class="body">
+<hr>Gebruik G Suite voor zakelijke e-mail, videovergaderingen en cloudopslag.
+<hr>
+
+
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk G Suite</button> </a></div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+ <div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Microsoft_23401.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+<div clas="description">
+   <h3>Microsoft 365
+</h3>
+  <div class="body">
+<hr>Microsoft 365 (vroeger Office 365) is een zakelijke oplossing met Office en Outlook.
+<hr>
+
+
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Microsoft 365</button> </a></div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+
+
+
+
 
 </div>
+
+
+
 
 </div> </div>
         
-      
+  
 
-    
-<div class="jumbotron text-center" style="background-color: white !important;">
-    <div class="container">
-
-        <h2 class="text-center">&nbsp;<i style="
-margin-left: 0px;color: #f28b20;font-size: 25px;" class="fal fa-coffee white-text"></i>&nbsp;Vragen over onze dienstverlening ? neem eenvoudig contact op.</h2>
-<br>
-
-<div class="card-deck">
-
-<div class="card">  <div class="card-body"> 
- <i style="margin-left: 0px;color: #3b5998;font-size: 35px;" class="fal fa-comments white-text"></i>
-<h3>Live-chat</h3>
-<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
-<a href="#" onclick="tidioChatApi.open()">
-<button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Open chat!</button>
-    </a>
-  </div>
-
-
-</div>
-
-<div class="card">  <div class="card-body"> 
-<i style="margin-left: 0px;color: #3b5998;font-size: 35px;" class="fab fa-facebook white-text"></i>
-<h3>Messenger</h3>
-<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
-<button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Facebook Mesenger</button>
-  </div>
-
-</div>   
-
-<div class="card">  <div class="card-body"> 
-<i style="margin-left: 0px;color:#25D366;font-size: 35px;" class="fab fa-whatsapp white-text"></i>
-<h3>WhatsApp</h3>
-<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
-<a alt="whatsapp" title="contact via whatsapp" href="https://api.whatsapp.com/send?phone=31708919323"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">+31 70 8919 323</button> </a>
-  </div>
-
-</div>
-
-<div class="card">  <div class="card-body"> 
-<i style="margin-left: 0px;color: #55acee;font-size: 35px;" class="fal fa-envelope white-text"></i>
-<h3>Mail ons</h3>
-<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
-
-
-<a alt="mail" title="contact via mail" href="mailto:support@hostingwalk.com"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">support@hostingwalk.com</button> </a>
-  </div>
-
-</div>
-
-</div>       </div>  
-
- </div>
+{% include contact-bar.md %}
 
 
 <style>
