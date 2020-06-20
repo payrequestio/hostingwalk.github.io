@@ -164,7 +164,7 @@ REDIS is een in-memory key-value database dat kan functioneren als caching voor 
 
   </div>
 
-<h3 style="margin-top: 50px;margin-bottom: 20px;">Voordelen van Manged REDIS</h3>
+<h3 style="margin-top: 50px;margin-bottom: 20px;">Voordelen van Managed REDIS</h3>
 
 <div class="row text-left" style="margin-bottom: 15px;font-size: 18px !important;">
 
