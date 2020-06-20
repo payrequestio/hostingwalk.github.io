@@ -40,7 +40,7 @@ REDIS is een in-memory key-value database dat kan functioneren als caching voor 
 <div class="jumbotron" style="background-color: white;">
 <div class="container text-center"> 
 
-<h2><i class="fal fa-rocket fa-border" style="font-size: 34px;font-weight: 100;"></i> Maak je webshop of website sneller met Manged REDIS</h2>
+<h2><i class="fal fa-rocket fa-border" style="font-size: 34px;font-weight: 100;"></i> Maak je webshop of website sneller met Managed REDIS</h2>
 
 <div class="row">
 
