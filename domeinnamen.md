@@ -2,8 +2,8 @@
 title: Domeinnamen
 ---
 <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-<script src="http://my.hostingwalk.com/dcheck/appear.js"></script>
-<script src="http://my.hostingwalk.com/dcheck/dcheck.js"></script>
+<script src="https://my.hostingwalk.com/dcheck/appear.js"></script>
+<script src="https://my.hostingwalk.com/dcheck/dcheck.js"></script>
 
 
 <div class="container-fluid text-center" style="
@@ -353,7 +353,7 @@ border-color: rgb(229, 229, 234);
 <div class="jumbotron text-center" style="background-color: white !important;">
     <div class="container">
 
-        <h2 class="text-center">&nbsp;<i style="
+<h2 class="text-center">&nbsp;<i style="
 margin-left: 0px;color: #f28b20;font-size: 25px;" class="fal fa-coffee white-text"></i>&nbsp;Vragen over onze dienstverlening ? neem eenvoudig contact op.</h2>
 <br>
 
