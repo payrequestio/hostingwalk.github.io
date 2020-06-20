@@ -52,7 +52,7 @@ title: Managed Hosting
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://directadmin.com/img/logo/symbol_directadmin.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://directadmin.com/img/logo/symbol_directadmin.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
 <div clas="description">
    <h3>Directadmin VPS
 </h3>
@@ -70,11 +70,9 @@ title: Managed Hosting
 </div>  </div><div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://wpress-cursus.nl/wp-content/uploads/2017/02/wordpress-logo-min.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://wpress-cursus.nl/wp-content/uploads/2017/02/wordpress-logo-min.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>WordPress Hosting
-
-</h3>
+   <h3>Managed WordPress</h3>
   <div class="body">
 <hr>Snelle en geoptimaliseerde SSD WordPress webhosting
 <hr>
@@ -91,12 +89,12 @@ title: Managed Hosting
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://i.imgur.com/uC4f2PK.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://www.brosis.nl/fileupload/sectigo_logo_mark_color.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>Domeinnamen
+   <h3>Managed SSL Certificaat
 </h3>
   <div class="body">
-<hr>Registreer een domeinnaam bij Hostingwalk, kies uit meer dan 100 domein extensies.
+<hr>Geen zorgen over de SSL installatie en de jaarlijkse verlenging.
 <hr>
 
 
@@ -111,9 +109,9 @@ title: Managed Hosting
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://correcthosting.nl/wp-content/uploads/2015/09/magento-logo-Small.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://directadmin.com/img/logo/symbol_directadmin.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>Magento Hosting
+   <h3>  Managed VPS Backups
 </h3>
   <div class="body">
 <hr>Snelle Magento Hosting met SSD harddisk en REDIS Caching
@@ -131,9 +129,9 @@ title: Managed Hosting
  <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://www.teachercast.net/wp-content/uploads/2019/06/Google-Icon.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://correcthosting.nl/wp-content/uploads/2015/10/redis-logo-1.1.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>G Suite van Google
+   <h3> Managed REDIS VPS
 </h3>
   <div class="body">
 <hr>Gebruik G Suite voor zakelijke e-mail, videovergaderingen en cloudopslag.
@@ -151,9 +149,9 @@ title: Managed Hosting
  <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/microsot-icon.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://sevenagesdesign.com/wp-content/uploads//2018/05/Storage_AmazonS3_LARGE.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>Microsoft 365
+   <h3>S3 Object Storage
 </h3>
   <div class="body">
 <hr>Microsoft 365 (vroeger Office 365) is een zakelijke oplossing met Office en Outlook.
