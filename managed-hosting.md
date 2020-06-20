@@ -25,7 +25,7 @@ title: Managed Hosting
   <div> </div>
     <div style="margin-top: 30px;" class="col-sm-7">
 <h2 style="text-decoration: underline orange;">Managed Hosting sinds 2013</h2>
-<h3>Hostingwalk bied al sinds 2013 Managed Hosting aan voor grote bedrijven en, webshops, internetbureaus en voor heel het MKB, dankzij snelle support en jarenlange ervaring zorgen wij dat je online blijft.
+<h3>Hostingwalk bied sinds 2013 Managed Hosting aan voor grote bedrijven, webshops, internetbureaus en voor heel het MKB, dankzij snelle support en jarenlange ervaring zorgen wij dat je online blijft.
 </h3>
   </div>
   <div class="col-sm-5">
