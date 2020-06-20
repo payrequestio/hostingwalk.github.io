@@ -11,7 +11,7 @@ title: Managed Hosting
     max-width: 55px;
     margin-right: 12px;
     margin-bottom: 10px;
-"> Managed Hoting bij Hostingwalk
+"> Managed Hosting bij Hostingwalk
 </h1>
 </div>
 </div>
