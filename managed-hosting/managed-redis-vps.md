@@ -164,16 +164,19 @@ REDIS is een in-memory key-value database dat kan functioneren als caching voor 
 
   </div>
 
-<h3 style="margin-top: 50px;margin-bottom: 20px;">Waarom Manged REDIS</h3>
+<h3 style="margin-top: 50px;margin-bottom: 20px;">Voordelen van Manged REDIS</h3>
 
 <div class="row text-left" style="margin-bottom: 15px;font-size: 18px !important;">
 
-<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i>  Altijd de nieuwste REDIS versie</div>
-<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i>  Meer RAM Gegeugen vrij op je server</div>
-<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i> Gratis installatie REDIS voor je Woocomerce of Magento webshop </div>
+<div class="col-4"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i>  Altijd de nieuwste REDIS versie</div>
+<div class="col-4"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i>  Meer RAM Gegeugen vrij op je server</div>
+<div class="col-4"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i> Gratis installatie REDIS voor je Woocomerce of Magento webshop </div>
 
 </div>
 
 
 </div>
 </div>
+
+
+{% include contact-bar.md %}
