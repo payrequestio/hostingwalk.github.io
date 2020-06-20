@@ -27,7 +27,7 @@ REDIS is een in-memory key-value database dat kan functioneren als caching voor 
 </h3>
   </div>
   <div class="col-sm-5">
-<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://kinsta.com/nl/wp-content/uploads/sites/7/2020/03/redis-cache-1024x512.png">
+<img alt="managed redis vps" class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://hostingwalk.com/assets/img/managed-redis.png">
   </div>
 </div>
 </div>
@@ -162,22 +162,16 @@ REDIS is een in-memory key-value database dat kan functioneren als caching voor 
 
   </div>
 
-<h3 style="margin-top: 50px;margin-bottom: 20px;">Altijd inbegrepen bij je Directadmin VPS</h3>
+<h3 style="margin-top: 50px;margin-bottom: 20px;">Waarom Manged REDIS</h3>
 
 <div class="row text-left" style="margin-bottom: 15px;font-size: 18px !important;">
 
-<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i> Nieuwste CentOS 7 versie</div>
-<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i>  LetsEncrypt SSL</div>
-<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i> SSH Toegang</div><div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i>  IPv6 ondersteuning</div>
+<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i>  Altijd de nieuwste REDIS versie</div>
+<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i>  Meer RAM Gegeugen vrij op je server</div>
+<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i> Gratis installatie REDIS voor je Woocomerce of Magento webshop </div>
 
 </div>
 
-<div class="row text-left" style="margin-bottom: 15px;font-size: 18px !important;">
 
-<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i> PHP 5.6 tot PHP 7.2</div>
-<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i> Datacenter Amsterdam</div>
-<div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i> Roundcube Webmail</div><div class="col-3"> <i class="fas fa-check" style="color: green;font-size: 20px;"></i> Enterprise SSD Harddisks</div>
-
-</div>
 </div>
 </div>
