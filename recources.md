@@ -12,3 +12,9 @@
   {% endfor %}  <!-- page -->
 </ul>
 {% endfor %}  <!-- cat -->
+
+
+
+{% for page in site.pages %}
+{{ page.title}} | {{ page.last_modified_at | date: '%s' }}
+{% endfor %}
