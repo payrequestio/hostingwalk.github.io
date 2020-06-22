@@ -18,3 +18,12 @@
 {% for page in site.pages %}
 {{ page.title}} | {{ page.last_modified_at | date: '%s' }}
 {% endfor %}
+
+
+
+<h1> poging 2 </h1>
+
+  {% for page in site.pages %}{% if page.exclude != true %}<url>
+{{site.canonical_domain}}{{site.baseurl}}{{ page.url }}
+{{site.canonical_domain}}{{site.baseurl}}{{ item.url }}</loc>
+{% endif %}{% endfor %}
