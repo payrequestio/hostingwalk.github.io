@@ -23,7 +23,7 @@ title: Resources
 
 {% for page in site.pages %}{% if page.exclude != true %}
 <ul>
-<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+<li style="list-style: none"><a href="{{ page.url }}">{{ page.title }}</a></li>
 </ul>
 {% endif %}{% endfor %}
 
