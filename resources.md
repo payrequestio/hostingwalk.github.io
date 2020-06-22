@@ -28,5 +28,16 @@ title: Resources
 {% endif %}{% endfor %}
 
 
+
+{% for item in site.posts %}{% if page.exclude != true %}
+<ul>
+<li style="list-style: none"><a href="{{ item.url }}">{{ item.title }}</a></li>
+</ul>
+{% endif %}{% endfor %}
+
+
+
+
+
 </div>
 </div>
