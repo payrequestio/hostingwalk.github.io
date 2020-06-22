@@ -18,8 +18,8 @@
 
 <h1> poging 2 </h1>
 
-  {% for page in site.pages %}{% if page.exclude != true %}
-
-{{site.canonical_domain}}{{site.baseurl}}{{ page.url }}
-{{site.canonical_domain}}{{site.baseurl}}{{ item.url }}
+{% for page in site.pages %}{% if page.exclude != true %}
+<ul>
+<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+</ul>
 {% endif %}{% endfor %}
