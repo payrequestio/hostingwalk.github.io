@@ -820,48 +820,4 @@ window.addEventListener("load", function(event) {
 
 <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/95c75768/cloudflare-static/rocket-loader.min.js" data-cf-settings="b1c18591f85c5638b64fe1ac-|49" defer=""></script></body>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
-
-
-<style>
-.powered a {
-display: none !important;
-}
-
-.cookie-box {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  text-align: center;
-  padding: 1rem 2rem;
-  background: #fff;
-  transition: all .75s cubic-bezier(.19,1,.22,1);
-  
-  &--hide {
-    opacity: 0;
-    bottom: -100%;
-  }
-}
-</style>
-
-<script>
-const cookieBox = document.getElementById('js-cookie-box');
-const cookieButton = document.getElementById('js-cookie-button');
-
-if (!Cookies.get('cookie-box')) {
-  
-cookieBox.classList.remove('cookie-box--hide');
-  
-  cookieButton.onclick = function() {
-    Cookies.set('cookie-box', true, { expires: 7 });
-    cookieBox.classList.add('cookie-box--hide');
-  }
-}
-
-</script>
-
-<div id="js-cookie-box" class="cookie-box cookie-box--hide">
- We use cookies 🍪 to improve your user experience <span id="js-cookie-button" class="btn btn-sm btn-outline-inloggen my-2 my-lg-0">Allow cookies</span>
-</div>
 
