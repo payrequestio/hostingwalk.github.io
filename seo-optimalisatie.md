@@ -25,6 +25,56 @@ SEO Optimalisatie bij Hostingwalk
 <img class="img-fluid" style="max-width: 350px;border-radius: 25px;" src="https://i.imgur.com/a3t10hT.jpg">
   </div>
 </div>
+
+
+<div class="card-deck" style="
+    margin-top: 30px;
+">
+  <div class="card text-white bg-primary mb-3" style="max-width: 18rem;background-color: #F28B22 !important;">
+  
+  <div class="card-body">
+    <h1 class="card-title" style="
+    color: white;
+">68%
+</h1>
+    <p class="card-text">Bekijkt alleen de Top 10</p>
+  </div>
+</div>
+  <div class="card text-white bg-primary mb-3" style="max-width: 18rem;background-color: #F28B22 !important;">
+  
+  <div class="card-body">
+    <h1 class="card-title" style="
+    color: white;
+">55%
+</h1>
+    <p class="card-text"> Klikt op de Top 3</p>
+  </div>
+</div>
+  <div class="card text-white bg-primary mb-3" style="max-width: 18rem;background-color: #F28B22 !important;">
+  
+  <div class="card-body">
+    <h1 class="card-title" style="
+    color: white;
+">75%
+</h1>
+    <p class="card-text">websites doet niks aan SEO</p>
+  </div>
+</div>
+
+<div class="card text-white bg-primary mb-3" style="max-width: 18rem;background-color: #F28B22 !important;">
+  
+  <div class="card-body">
+    <h1 class="card-title" style="
+    color: white;
+">15%
+</h1>
+    <p class="card-text">Meer omzet dankzij SEO</p>
+  </div>
+</div>
+</div>
+
+
+
 </div>
 </div>
 
