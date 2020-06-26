@@ -107,5 +107,18 @@ SEO Optimalisatie bij Hostingwalk
 </div> </div>
 
 
+<div class="jumbotron" style="background: #212529;color: white;">
+<div class="container text-center"> 
+<h2 style="margin-bottom: 40px;">
+ <i class="fal fa-search" style="color: white;/* font-size: 20px; */"></i> Vraag gratis een SEO offerte aan voor je website </h2>
+<a alt="seo offerte" title="seo offerte aanvragen" href="https://my.hostingwalk.com/submitticket.php?step=2&deptid=3" style="
+"> <button class="btn btn-lg btn-outline-inloggen my-2 my-sm-0" type="submit" style="
+">SEO offerte aanvragen</button> </a>
+
+</div>
+</div>
+
+
+
 {% include contact-bar.md %}
 
