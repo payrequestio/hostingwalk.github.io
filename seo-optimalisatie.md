@@ -159,8 +159,10 @@ SEO Optimalisatie bij Hostingwalk
 
 <div class="jumbotron" style="background: #212529;color: white;">
 <div class="container text-center"> 
-<h2 style="margin-bottom: 40px;">
- <i class="fal fa-search" style="color: white;/* font-size: 20px; */"></i> Vraag gratis een SEO offerte aan voor je website </h2>
+<h2 style="margin-bottom: 20px;">
+ <i class="fal fa-search" style="color: white;/* font-size: 20px; */"></i> Gratis SEO Scan aan voor je website </h2>
+ <p> Om kennis te maken met SEO, maken we graag een kosteloze SEO scan van jouw website, <br>
+    hierna kunnen we nog een SEO marktonderzoek uitvoeren en op basis daarvan SEO optimalisatie uitvoeren.</p>
 <a alt="seo offerte" title="seo offerte aanvragen" href="https://my.hostingwalk.com/submitticket.php?step=2&deptid=3" style="
 "> <button class="btn btn-lg btn-outline-inloggen my-2 my-sm-0" type="submit" style="
 ">SEO offerte aanvragen</button> </a>
