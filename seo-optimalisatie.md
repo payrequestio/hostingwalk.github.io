@@ -2,11 +2,9 @@
 <div class="container"> 
     <div class="container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
 <h1 style="display: inline-block;padding-top: .3125rem;margin-right: 1rem;font-size: 2.35rem;">
-<img src="https://i.imgur.com/BzyiJXJ.png" style="
-    max-width: 55px;
-    margin-right: 12px;
-    margin-bottom: 10px;
-"> SEO Optimalisatie bij Hostingwalk
+<i class="fal fa-bullseye-pointer" style="color: white;/* font-size: 20px; */"></i>
+
+SEO Optimalisatie bij Hostingwalk
 </h1>
 </div>
 </div>
