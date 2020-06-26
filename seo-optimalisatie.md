@@ -30,3 +30,82 @@ SEO Optimalisatie bij Hostingwalk
 
 
 {% include checkbar.md %}
+
+
+<div class="partnerbox">
+    <div class="container">
+    
+<h1 class="text-center" style="
+    margin-top: 15px;
+">Hoe ziet het SEO Optimalisatie Traject eruit?</h1>
+    
+    
+<div class="row">
+
+
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <i class="fal fa-bullseye-pointer" style="font-size: 60px;margin-bottom: 15px;"></i> </div>
+<div clas="description">
+   <h3>1. SEO Scan
+</h3>
+  <div class="body">
+<hr>We scannen eerst jouw website en kijken naar elementen zoals HTML ratio, image alt tags, content opbouw van je site, ook kijken we naar optimalisaties zoals caching.
+
+
+
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div><div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <i class="fal fa-bullseye-pointer" style="font-size: 60px;margin-bottom: 15px;"></i> </div>
+<div clas="description">
+   <h3>2. SEO Marktonderzoek</h3>
+  <div class="body">
+<hr>We kijken wat je huidige rankings zijn, en of deze verbeterd kunnen worden, daarnaast kijken we naar de concurrentie en nieuwe mogelijkheden.
+
+
+
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <i class="fal fa-bullseye-pointer" style="font-size: 60px;margin-bottom: 15px;"></i> </div>
+<div clas="description">
+   <h3>3. SEO Optimalisatie
+</h3>
+  <div class="body">
+<hr>Hier beginnen we met je website te optimaliseren en nieuwe SEO content te schrijven voor nieuwe of hogere Google rankings.
+
+
+
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+</div>
+
+
+</div> </div>
+
+
+{% include contact-bar.md %}
+
