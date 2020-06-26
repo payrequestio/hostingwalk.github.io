@@ -1,3 +1,7 @@
+---
+title: SEO Optimalisatie
+---
+
 <div class="jumbotron text-center" style="/* background-color: white !important; */padding: 1.5rem 0rem;margin-bottom: -1.5rem;background-color: #f28b20;border-radius: 0rem;">
 <div class="container"> 
     <div class="container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
@@ -104,8 +108,6 @@ SEO Optimalisatie bij Hostingwalk
   <div class="body">
 <hr>We scannen eerst jouw website en kijken naar elementen zoals HTML ratio, image alt tags, content opbouw van je site, ook kijken we naar optimalisaties zoals caching.
 
-
-
 </div>
  </div>
 </div>
@@ -120,9 +122,6 @@ SEO Optimalisatie bij Hostingwalk
    <h3>2. SEO Marktonderzoek</h3>
   <div class="body">
 <hr>We kijken wat je huidige rankings zijn, en of deze verbeterd kunnen worden, daarnaast kijken we naar de concurrentie en nieuwe mogelijkheden.
-
-
-
 </div>
  </div>
 </div>
@@ -142,7 +141,6 @@ SEO Optimalisatie bij Hostingwalk
 <hr>Hier beginnen we met je website te optimaliseren en nieuwe SEO content te schrijven voor nieuwe of hogere Google rankings.
 
 
-
 </div>
  </div>
 </div>
@@ -160,12 +158,12 @@ SEO Optimalisatie bij Hostingwalk
 <div class="jumbotron" style="background: #212529;color: white;">
 <div class="container text-center"> 
 <h2 style="margin-bottom: 20px;">
- <i class="fal fa-search" style="color: white;/* font-size: 20px; */"></i> Gratis SEO Scan aan voor je website </h2>
+ <i class="fal fa-search" style="color: white;/* font-size: 20px; */"></i> Gratis SEO Scan voor je website </h2>
  <p> Om kennis te maken met SEO, maken we graag een kosteloze SEO scan van jouw website, <br>
     hierna kunnen we nog een SEO marktonderzoek uitvoeren en op basis daarvan SEO optimalisatie uitvoeren.</p>
-<a alt="seo offerte" title="seo offerte aanvragen" href="https://my.hostingwalk.com/submitticket.php?step=2&deptid=3" style="
+<a alt="gratis seo scan" title="Gratis SEO Scan aanvragen" href="https://my.hostingwalk.com/cart.php?a=add&pid=393" style="
 "> <button class="btn btn-lg btn-outline-inloggen my-2 my-sm-0" type="submit" style="
-">SEO offerte aanvragen</button> </a>
+">Gratis SEO Scan aanvragen</button> </a>
 
 </div>
 </div>
