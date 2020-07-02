@@ -56,21 +56,6 @@ title: Klant Cases
     </p>
 
 
-<style>
-    .quote-box {
-  margin-left: auto;
-  margin-right: auto;
-  margin-top:300px;
-  background-color: #708090;
-  width: 400px;
-  height: 100px;
-  display:block;
-  text-align:center;
-  padding-top: 30px;
-  color: white;
-  font-family: futura;
-}
-</style>
 
   <div class="quote-box">
     <span style="font-size: 22px;"><i class="fa fa-quote-left mr-1"></i>ShowoffImports is opgericht in 2000 en momenteel uitgegroeid tot een van Europa's grootste distributeurs, door onze internationale ambities werken we met Hostingwalk samen om te kunnen blijven groeien met onze webshop met meer als 20,000 producten.
