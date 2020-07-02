@@ -39,24 +39,44 @@ title: Klant Cases
 
 
 <div style="background-color: white !important;" class="jumbotron"> 
-
-
-<h1 class="text-center" style="margin-bottom: 3rem;text-decoration: underline orange;">Bekijk hier onze klant cases</h1>
-
 <div class="container">
     <div class="row">
 
 
- <div class="col-md-6">
-<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://indebuurt.nl/delft/wp-content/uploads/2019/07/blokker-delft.jpg">
+ <div class="col-md-5">
+<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://www.showoffimports.nl/promo/showoffpand2.jpg">
 </div> <!-- / .col-md-8 -->
 
 
-<div style="margin-top: 20px;" class="col-sm-6">
-      <h2 style="/*! font-family: Melbourne,sans-serif; */"> Blokker heeft al 4 jaar hun webshop bij Hostingwalk</h2>
-      <p>Klanten willen zoveel mogelijk zelf doen en dat kan met het Directadmin controlpaneel, maak zelf je eigen subdomeinen aan of een nieuwe MySQL Database, ook kun je eenvoudig wachtwoorden wijzigen of WordPress installeren in slechts een paar klikken.<br>
-    </p><pre> - Gerrit Jansen (Directeur Blokker B.V.)
-          <img class="img-fluid" style="max-width: 200px;margin-top: 15px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Blokker-Logo.svg/1280px-Blokker-Logo.svg.png">
+<div style="margin-top: 10px;margin-left: 20px;" class="col-sm-6 text-center">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">Europe's Nr.1 Import Tuning Store</h2>
+      <p style="
+    margin-top: 20px;
+">
+    </p>
+
+
+<style>
+    .quote-box {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:300px;
+  background-color: #708090;
+  width: 400px;
+  height: 100px;
+  display:block;
+  text-align:center;
+  padding-top: 30px;
+  color: white;
+  font-family: futura;
+}
+</style>
+
+  <div class="quote-box">
+    <span style="font-size: 22px;"><i class="fa fa-quote-left mr-1"></i>ShowoffImports is opgericht in 2000 en momenteel uitgegroeid tot een van Europa's grootste distributeurs, door onze internationale ambities werken we met Hostingwalk samen om te kunnen blijven groeien met onze webshop met meer als 20,000 producten.
+<i class="fa fa-quote-right mr-1"></i></span> <br>
+    </div><br>
+    <pre> -  Ronald Gosens (showoddimports.com.)    <img class="img-fluid" style="max-width: 150px;" src="http://logos-vector.com/images/logo/xxl/1/4/2/142084/Showoff_Imports_2ed67_450x450.png">
 <p></p></pre>
   </div> <!-- /col-md-4 -->
 
@@ -64,26 +84,34 @@ title: Klant Cases
  </div> <!--/ .row -->
 </div>
  </div>
-
-
 
 
 
 <div style="background-color: #f7f8fc !important;" class="jumbotron"> 
 <div class="container">
     <div class="row">
-        <div style="margin-top: 20px;" class="col-sm-6">
-      <h2 style="/*! font-family: Melbourne,sans-serif; */"> Blokker heeft al 4 jaar hun webshop bij Hostingwalk</h2>
-      <p>Klanten willen zoveel mogelijk zelf doen en dat kan met het Directadmin controlpaneel, maak zelf je eigen subdomeinen aan of een nieuwe MySQL Database, ook kun je eenvoudig wachtwoorden wijzigen of WordPress installeren in slechts een paar klikken.<br>
-    </p><pre> - Gerrit Jansen (Directeur Blokker B.V.)
-          <img class="img-fluid" style="max-width: 200px;margin-top: 15px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Blokker-Logo.svg/1280px-Blokker-Logo.svg.png">
+        <div style="margin-top: 10px;margin-left: 20px;" class="col-sm-6 text-center">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">Startup Eatmeister gaat de concurrentie aan met Thuisbezorgd</h2>
+      <p style="
+    margin-top: 20px;
+">
+    </p>
+
+
+<style></style>
+
+  <div class="quote-box">
+    <span style="font-size: 22px;"><i class="fa fa-quote-left mr-1"></i>Geen lastige hardware, geen hoge commissies, maar eerlijke prijzen, goede, persoonlijke support en makkelijk in gebruik!  Om dit te bereiken hebben we voor Hostingwalk als partner gekozen.
+<i class="fa fa-quote-right mr-1"></i></span> <br>
+    </div><br>
+    <pre> -  Kai Gerards (eatmeister.nl)          <img class="img-fluid" style="max-width: 50px;" src="https://eatmeister.nl/wp-content/uploads/2020/04/eatmeister_favicon-400x400.png">
 <p></p></pre>
   </div> <!-- /col-md-4 -->
 
  <div class="col-md-4">
 
  <!-- begin macbook pro mockup small screen -->
-<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://indebuurt.nl/delft/wp-content/uploads/2019/07/blokker-delft.jpg"> <!-- end macbook pro mockup -->           
+<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://i.imgur.com/5lRaLpL.png"> <!-- end macbook pro mockup -->           
 
 </div> <!-- / .col-md-8 -->
  </div> <!--/ .row -->
@@ -92,21 +120,36 @@ title: Klant Cases
 
 
 
- <div style="background-color: white !important;" class="jumbotron"> 
+<div style="background-color: white !important;" class="jumbotron"> 
 <div class="container">
     <div class="row">
 
 
- <div class="col-md-6">
-<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://indebuurt.nl/delft/wp-content/uploads/2019/07/blokker-delft.jpg">
+ <div class="col-md-5">
+<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://i.imgur.com/y0C8pAu.png">
 </div> <!-- / .col-md-8 -->
 
 
-<div style="margin-top: 20px;" class="col-sm-6">
-      <h2 style="/*! font-family: Melbourne,sans-serif; */"> Blokker heeft al 4 jaar hun webshop bij Hostingwalk</h2>
-      <p>Klanten willen zoveel mogelijk zelf doen en dat kan met het Directadmin controlpaneel, maak zelf je eigen subdomeinen aan of een nieuwe MySQL Database, ook kun je eenvoudig wachtwoorden wijzigen of WordPress installeren in slechts een paar klikken.<br>
-    </p><pre> - Gerrit Jansen (Directeur Blokker B.V.)
-          <img class="img-fluid" style="max-width: 200px;margin-top: 15px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Blokker-Logo.svg/1280px-Blokker-Logo.svg.png">
+<div style="margin-top: 10px;margin-left: 20px;" class="col-sm-6 text-center">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">De geschikte hosting partner voor ons internetbureau</h2>
+      <p style="
+    margin-top: 20px;
+">
+    </p>
+
+
+<style>
+    .quote-box {
+  display:block;
+  text-align:center;
+}
+</style>
+
+  <div class="quote-box">
+    <span style="font-size: 22px;"><i class="fa fa-quote-left mr-1"></i> Klanten willen zoveel mogelijk zelf doen en dat kan met het Directadmin controlpaneel, maak zelf je eigen subdomeinen aan of een nieuwe MySQL Database, ook kun je eenvoudig wachtwoorden wijzigen of WordPress installeren in slechts een paar klikken.
+<i class="fa fa-quote-right mr-1"></i></span> <br>
+    </div><br>
+    <pre> -  Sebastiaan Pieters (fullstak.nl)          <img class="img-fluid" style="max-width: 150px;" src="https://fullstak.nl/wp-content/uploads/2019/07/logo-long.png">
 <p></p></pre>
   </div> <!-- /col-md-4 -->
 
@@ -114,3 +157,7 @@ title: Klant Cases
  </div> <!--/ .row -->
 </div>
  </div>
+
+
+
+ {% include contact-bar.md %}
