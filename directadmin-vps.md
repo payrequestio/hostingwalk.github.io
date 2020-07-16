@@ -24,7 +24,7 @@ title: Directadmin VPS
 </h3>
   </div>
   <div class="col-sm-5">
-<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://hostingwalk.com/assets/banners/directadmin-vps-banner.png">
+<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://hostingwalk.com/assets/images/banners/directadmin-vps-banner.png">
   </div>
 </div>
 </div>
