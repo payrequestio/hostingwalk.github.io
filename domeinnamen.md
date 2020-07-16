@@ -118,6 +118,30 @@ input#search-bar{
 </div>
 
 
+<div class="jumbotron text-center" style="background-color: white !important;padding: 1.5rem 0rem;margin-bottom: -1rem;">
+<div class="container">
+<br>
+<div style="margin-bottom: 20px;" class="row">
+  <div> </div>
+    <div style="margin-top: 30px;" class="col-sm-7">
+      <h2 style="text-decoration: underline orange;"> Goedkope Domeinregistratie</h2>
+<h3>Hostingwalk beheert al meer als 8 jaar domeinnamen voor honderden klanten, dankzij onze voordelige prijzen en realtime domeinnaam registratie heb je meteen de domeinnaam die je zoekt, en dat ook nog eens voor een eerlijke prijs.
+</h3>
+  </div>
+  <div class="col-sm-5">
+<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://hostingwalk.com/assets/img/banners/domeinnamen-banner.png">
+  </div>
+</div>
+</div>
+</div>
+
+
+{% include checkbar.md %}
+
+
+
+
+
 <div class="container text-center" style="
     padding: 1.5rem 0rem;
     margin-bottom: -1rem;
@@ -126,25 +150,6 @@ input#search-bar{
 
 
 
-
-<div style="margin-bottom: 20px;" class="row">
-  <div> </div>
-    <div style="margin-top: 30px;" class="col-sm-12">
-      <h2 style="/*! font-family: Melbourne,sans-serif; */">
-    
- <i class="fal fa-globe-americas" style="color: black;"></i>
-Domeinregistratie</h2>
-<h3>
-    
- <p class="" style="/* color: white !important; *//* font-weight: normal; */"> 
-<i class="fal fa-info-circle"></i>
-Al meer dan 5 jaar beheren we de websites voor kleine en grote ondernemers,   <br>
-wij zorgen dat jouw business online blijft. </p>
-    
-</h3>
-  </div>
-  
-</div>
 
 
 <div class="row">
