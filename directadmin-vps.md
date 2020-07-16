@@ -19,12 +19,12 @@ title: Directadmin VPS
 <div style="margin-bottom: 20px;" class="row">
   <div> </div>
     <div style="margin-top: 30px;" class="col-sm-7">
-      <h2 style="/*! font-family: Melbourne,sans-serif; */">Managed Directadmin VPS</h2>
+      <h2 style="text-decoration: underline orange;">Managed Directadmin VPS</h2>
 <h3>Snelle en veilige Directadmin VPS binnen een werkdag online, dankzij meer dan 8 jaar ervaring leveren we jouw Directadmin VPS op volledig met backups, optimalisatie voor performance en beveiliging met gratis Letsencrypt SSL.
 </h3>
   </div>
   <div class="col-sm-5">
-<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://directadmin.com/img/update/index/slide-2.png">
+<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://hostingwalk.com/assets/banners/directadmin-vps-banner.png">
   </div>
 </div>
 </div>
@@ -42,8 +42,8 @@ title: Directadmin VPS
 
 <div class="card-deck" style="margin-bottom: 20px;">
 
-<div class="card mb-5 mb-lg-0">
-<div class="card-body text-center" style="border-top: 2px solid #f28b20;">
+<div class="card mb-5 mb-lg-0" style="border-radius: 10px; border-top: 2px solid #f28b20;">
+<div class="card-body text-center">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
 <i class="fal fa-cloud" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>&nbsp;Directadmin VPS 1</h5>
@@ -75,8 +75,8 @@ title: Directadmin VPS
 </div>
 </div>
 
-<div class="card mb-5 mb-lg-0">
-<div class="card-body text-center" style="border-top: 2px solid #f28b20;">
+<div class="card mb-5 mb-lg-0" style="border-radius: 10px; border-top: 2px solid #f28b20;">
+<div class="card-body text-center">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
 <i class="fal fa-cloud" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>&nbsp;Directadmin VPS 2</h5>
@@ -108,8 +108,8 @@ title: Directadmin VPS
 </div>
 </div>
 
-<div class="card mb-5 mb-lg-0">
-          <div class="card-body text-center" style="border-top: 2px solid #f28b20;">
+<div class="card mb-5 mb-lg-0" style="border-radius: 10px; border-top: 2px solid #f28b20;">
+<div class="card-body text-center">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
 <i class="fal fa-cloud" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>
