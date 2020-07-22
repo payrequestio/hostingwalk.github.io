@@ -199,7 +199,7 @@ title: Microsoft 365
   --br-blobby-after: 50%;
 }
 
-h1 {
+.col-md-3 h1 {
   color: #fff;
   margin: 0;
   position: absolute;
