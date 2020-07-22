@@ -170,18 +170,16 @@ title: Microsoft 365
 <div style="background-color: #f7f8fc !important;" class="jumbotron"> 
 <div class="container">
     <div class="row">
-        <div style="margin-top: 23px;" class="col-sm-5">
+        <div style="margin-top: 23px;" class="col-sm-8">
       <h2 style="/*! font-family: Melbourne,sans-serif; */">  <i class="fal fa-envelope" style="font-size: 32px;font-weight: 100;"></i>&nbsp;Je eigen webmail met Roundcube</h2>
       <p>Log eenvoudig in met je e-mailadres en begin direct met het verzenden van e-mails, uitgebreide instellingen voor een eigen persoonlijke handtekeningen en meer. &nbsp;<br>
-          <img class="img-fluid" style="
-max-width: 200px;margin-top: 25px;" src="https://roundcube.net/images/logo.png">
 </p>
   </div> <!-- /col-md-4 -->
 
-<div class="col-md-6">
+<div class="col-md-3">
 
 <h1>
- <img style="max-width:100px;" src="https://www.dsdeurope.nl/app/webroot/files/userfiles/images/Dropsuite/Dropsuite%20LP%202/easily%20automate%20backups.png" />
+<img style="max-width: 150px;" src="https://partner.microsoft.com/-/media/mssc/mpn/partner/solutions/images/simplehero_sideimage_400x225_office365.ashx">
 </h1>
 
 <div class="box"></div>
@@ -200,8 +198,6 @@ max-width: 200px;margin-top: 25px;" src="https://roundcube.net/images/logo.png">
   --br-blobby-before: 50%;
   --br-blobby-after: 50%;
 }
-
-
 
 h1 {
   color: #fff;
