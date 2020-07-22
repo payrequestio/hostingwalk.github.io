@@ -167,6 +167,315 @@ title: Microsoft 365
 
 
 
+<div style="background-color: #f7f8fc !important;" class="jumbotron"> 
+<div class="container">
+    <div class="row">
+        <div style="margin-top: 23px;" class="col-sm-5">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">  <i class="fal fa-envelope" style="font-size: 32px;font-weight: 100;"></i>&nbsp;Je eigen webmail met Roundcube</h2>
+      <p>Log eenvoudig in met je e-mailadres en begin direct met het verzenden van e-mails, uitgebreide instellingen voor een eigen persoonlijke handtekeningen en meer. &nbsp;<br>
+          <img class="img-fluid" style="
+max-width: 200px;margin-top: 25px;" src="https://roundcube.net/images/logo.png">
+</p>
+  </div> <!-- /col-md-4 -->
+
+<div class="col-md-6">
+
+<h1>
+ <img style="max-width:100px;" src="https://www.dsdeurope.nl/app/webroot/files/userfiles/images/Dropsuite/Dropsuite%20LP%202/easily%20automate%20backups.png" />
+</h1>
+
+<div class="box"></div>
+
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alata&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --br-blobby: 50%;
+  --br-blobby-before: 50%;
+  --br-blobby-after: 50%;
+}
+
+body {
+  font-family: 'Alata', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  color: #fff;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+}
+
+.box {
+  animation: rotate 5s linear infinite;
+  background-color: #f28b20;
+  border-radius: var(--br-blobby);
+  position: relative;
+  height: 250px;
+  width: 250px;
+  transition: 0.3s linear;
+}
+
+.box::after {
+  content: '';
+  background-color: #f28b20;
+  border-radius: var(--br-blobby-after);
+  position: absolute;
+  opacity: 0.5;
+  top: -2%;
+  left: -2%;
+  height: 104%;
+  width: 104%;
+  transition: 0.3s linear;
+}
+
+.box::before {
+  content: '';
+  background-color: darksalmon;
+  border-radius: var(--br-blobby-before);
+  position: absolute;
+  opacity: 0.5;
+  top: -4%;
+  left: -4%;
+  height: 108%;
+  width: 108%;
+  transition: 0.3s linear;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* SOCIAL PANEL CSS */
+.social-panel-container {
+  position: fixed;
+  right: 0;
+  bottom: 80px;
+  transform: translateX(100%);
+  transition: transform 0.4s ease-in-out;
+}
+
+.social-panel-container.visible {
+  transform: translateX(-10px);
+}
+
+.social-panel { 
+  background-color: #fff;
+  border-radius: 16px;
+  box-shadow: 0 16px 31px -17px rgba(0,31,97,0.6);
+  border: 5px solid #001F61;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Muli';
+  position: relative;
+  height: 169px;  
+  width: 370px;
+  max-width: calc(100% - 10px);
+}
+
+.social-panel button.close-btn {
+  border: 0;
+  color: #97A5CE;
+  cursor: pointer;
+  font-size: 20px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.social-panel button.close-btn:focus {
+  outline: none;
+}
+
+.social-panel p {
+  background-color: #001F61;
+  border-radius: 0 0 10px 10px;
+  color: #fff;
+  font-size: 14px;
+  line-height: 18px;
+  padding: 2px 17px 6px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin: 0;
+  transform: translateX(-50%);
+  text-align: center;
+  width: 235px;
+}
+
+.social-panel p i {
+  margin: 0 5px;
+}
+
+.social-panel p a {
+  color: #FF7500;
+  text-decoration: none;
+}
+
+.social-panel h4 {
+  margin: 20px 0;
+  color: #97A5CE; 
+  font-family: 'Muli';  
+  font-size: 14px;  
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.social-panel ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.social-panel ul li {
+  margin: 0 10px;
+}
+
+.social-panel ul li a {
+  border: 1px solid #DCE1F2;
+  border-radius: 50%;
+  color: #001F61;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 50px;
+  text-decoration: none;
+}
+
+.social-panel ul li a:hover {
+  border-color: #FF6A00;
+  box-shadow: 0 9px 12px -9px #FF6A00;
+}
+
+.floating-btn {
+  border-radius: 26.5px;
+  background-color: #001F61;
+  border: 1px solid #001F61;
+  box-shadow: 0 16px 22px -17px #03153B;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 20px;
+  padding: 12px 20px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+}
+
+.floating-btn:hover {
+  background-color: #ffffff;
+  color: #001F61;
+}
+
+.floating-btn:focus {
+  outline: none;
+}
+
+.floating-text {
+  background-color: #001F61;
+  border-radius: 10px 10px 0 0;
+  color: #fff;
+  font-family: 'Muli';
+  padding: 7px 15px;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  z-index: 998;
+}
+
+.floating-text a {
+  color: #FF7500;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 480px) {
+
+  .social-panel-container.visible {
+    transform: translateX(0px);
+  }
+  
+  .floating-btn {
+    right: 10px;
+  }
+}
+</style>
+
+
+
+<script>
+const box = document.querySelector('.box');
+
+setInterval(setBorderRadius, 300);
+
+function setBorderRadius() {
+  box.style.setProperty('--br-blobby', generateBorderRadiusValue());
+  box.style.setProperty('--br-blobby-after', generateBorderRadiusValue());
+  box.style.setProperty('--br-blobby-before', generateBorderRadiusValue());
+}
+
+function generateBorderRadiusValue() {
+  return `${getRandomValue()}% ${getRandomValue()}% ${getRandomValue()}% ${getRandomValue()}% / ${getRandomValue()}% ${getRandomValue()}% ${getRandomValue()}%`;
+}
+  
+function getRandomValue() {
+  return Math.floor(Math.random() * 50) + 50;
+}
+
+
+// SOCIAL PANEL JS
+const floating_btn = document.querySelector('.floating-btn');
+const close_btn = document.querySelector('.close-btn');
+const social_panel_container = document.querySelector('.social-panel-container');
+
+floating_btn.addEventListener('click', () => {
+  social_panel_container.classList.toggle('visible')
+});
+
+close_btn.addEventListener('click', () => {
+  social_panel_container.classList.remove('visible')
+});
+</script>
+
+
+
+
+
+  
+
+ </div> <!-- / .col-md-8 -->
+    </div> <!--/ .row -->
+</div>
+    </div>
+
 
 
 {% include contact-bar.md %}
