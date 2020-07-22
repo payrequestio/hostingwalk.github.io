@@ -201,14 +201,7 @@ max-width: 200px;margin-top: 25px;" src="https://roundcube.net/images/logo.png">
   --br-blobby-after: 50%;
 }
 
-body {
-  font-family: 'Alata', sans-serif;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  margin: 0;
-}
+
 
 h1 {
   color: #fff;
