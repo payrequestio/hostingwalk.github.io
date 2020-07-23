@@ -51,7 +51,7 @@ title: Microsoft 365
 <div class="card mb-5 mb-lg-0" style="border-radius: 10px; border-top: 2px solid #f28b20;">
 <div class="card-body text-center">
 
-<h5 class="card-title text-muted text-uppercase text-center" style="margin-bottom: 5px;">
+<h5 class="card-title text-muted text-uppercase text-center" style="margin-bottom: 5px;font-weight: bold;">
 <i class="fab fa-microsoft" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>Microsoft 365
 Business Basic </h5>
 <p style="color: #6c757d!important;"> (was Office 365 Business Essentials) </p>
@@ -86,7 +86,7 @@ Business Basic </h5>
 <div class="card mb-5 mb-lg-0" style="border-radius: 10px; border-top: 2px solid #f28b20;">
 <div class="card-body text-center">
 
-<h5 class="card-title text-muted text-uppercase text-center" style="margin-bottom: 5px;">
+<h5 class="card-title text-muted text-uppercase text-center" style="margin-bottom: 5px;font-weight: bold;">
 <i class="fab fa-microsoft" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>Microsoft 365
 Apps voor bedrijven </h5>
 <p style="color: #6c757d!important;"> (was Office 365 Business)</p>
@@ -122,7 +122,7 @@ Apps voor bedrijven </h5>
 <div class="card mb-5 mb-lg-0" style="border-radius: 10px; border-top: 2px solid #f28b20;">
 <div class="card-body text-center">
 
-<h5 class="card-title text-muted text-uppercase text-center" style="margin-bottom: 5px;">
+<h5 class="card-title text-muted text-uppercase text-center" style="margin-bottom: 5px;font-weight: bold;">
 <i class="fab fa-microsoft" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>Microsoft 365
 Business Standard </h5>
 <p style="color: #6c757d!important;"> (was Office 365 Business Premium) </p>
