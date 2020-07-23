@@ -509,7 +509,6 @@ close_btn.addEventListener('click', () => {
 
 
 
-
 <div class="jumbotron text-center" style="background-color: white;">
 <div class="container text-center">
 <br>
@@ -517,8 +516,8 @@ close_btn.addEventListener('click', () => {
 
 <div style="/*! margin-top: 30px; */" class="col-sm-12 text-center justify-content-center">
       <h2 style="/*! font-family: Melbourne,sans-serif; */">
-<i class="fab fa-google" style="font-size: 32px;font-weight: 100;"></i>&nbsp; Inbegrepen bij elk G Suite account</h2>
-<h5 style="margin-top: 30px;font-family: inherit !important;">Met G Suite krijg je toegang tot vele tools voor het productiever samenwerken met jouw team..</h5>
+<i class="fab fa-microsoft" style="font-size: 32px;font-weight: 100;"></i>  Office software inbegrepen bij Microsoft 365</h2>
+<h5 style="margin-top: 30px;font-family: inherit !important;">Afhankelijk van welk pakket krijgt heel je bedrijf gratis toegang tot extra software om nog beter online samen te werken.</h5>
 
 
 <div class="row">
@@ -530,7 +529,7 @@ close_btn.addEventListener('click', () => {
 <div class="info">
  <div class=""> <img src="https://www.yourhosting.nl/static/afbeeldingen/outlook-icon.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>G Suite Gmail
+   <h3>Outlook
 </h3>
   <div class="body">
 <hr>
@@ -539,7 +538,7 @@ Met Gmail van G Suite gebruik je je eigen domeinnaam voor jouw zakelijk mail.
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Gmail</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over Outlook</button> </a></div>
  </div>
 </div>
  
@@ -548,9 +547,10 @@ Met Gmail van G Suite gebruik je je eigen domeinnaam voor jouw zakelijk mail.
 </div>  </div><div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_hangouts_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://www.yourhosting.nl/static/afbeeldingen/onenote-icon.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;">
+ </div>
 <div clas="description">
-   <h3>G Suite Hangouts
+   <h3>OneNote
 </h3>
   <div class="body">
 <hr>
@@ -559,7 +559,7 @@ Beheer hier alle G Suite gebruikers en instellingen
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Hangouts</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over OneNote</button> </a></div>
  </div>
 </div>
  
@@ -570,9 +570,9 @@ Beheer hier alle G Suite gebruikers en instellingen
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_docs_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://www.yourhosting.nl/static/afbeeldingen/onedrive-new-icon.svg" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>G Suite Documenten
+   <h3>OneDrive
 </h3>
   <div class="body">
 <hr>
@@ -581,7 +581,7 @@ Beheer hier alle G Suite gebruikers en instellingen
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Documenten</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over OneDrive</button> </a></div>
  </div>
 </div>
  
