@@ -208,16 +208,19 @@ Business Standard </h5>
 <div style="background-color: #f7f8fc !important;" class="jumbotron"> 
 <div class="container">
     <div class="row">
-        <div style="margin-top: 23px;" class="col-sm-8">
-      <h2 style="/*! font-family: Melbourne,sans-serif; */">  <i class="fal fa-envelope" style="font-size: 32px;font-weight: 100;"></i>&nbsp;Je eigen webmail met Roundcube</h2>
-      <p>Log eenvoudig in met je e-mailadres en begin direct met het verzenden van e-mails, uitgebreide instellingen voor een eigen persoonlijke handtekeningen en meer. &nbsp;<br>
-</p>
-  </div> <!-- /col-md-4 -->
+
+
+<div style="margin-top: 23px;" class="col-sm-8">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">Werk online samen met Microsoft Teams</h2>
+      <h3>Microsoft Teams is een populaire dienst binnen Microsoft 365, het verbind al je werknemers en laat ze samenwerken op het gebied van chat, video, bestanden en integratie, bel of chat met iedere collega, ook kun je GIFs, stickers en emoij`s sturen en een-op-een gesprekken aangaan. <br>
+</h3>
+  </div>
+
 
 <div class="col-md-3">
 
 <h1>
-<img style="max-width: 150px;" src="https://partner.microsoft.com/-/media/mssc/mpn/partner/solutions/images/simplehero_sideimage_400x225_office365.ashx">
+<img style="max-width: 150px;" src="https://www.prosperoware.com/wp-content/uploads/2020/05/teams_logo.png">
 </h1>
 
 <div class="box"></div>
