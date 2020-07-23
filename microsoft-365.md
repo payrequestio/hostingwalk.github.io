@@ -52,7 +52,9 @@ title: Microsoft 365
 <div class="card-body text-center">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fab fa-microsoft" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>Microsoft 365 Business Basic</h5>
+<i class="fab fa-microsoft" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>Microsoft 365 Business Basic
+<br />  (voorheen Office 365 Business Essentials)
+</h5>
 <h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 4,20<span class="period">&nbsp;per maand</span></h6>
             <hr>
 <ul class="fa-ul">
@@ -85,7 +87,9 @@ title: Microsoft 365
 <div class="card-body text-center">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fal fa-cloud" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>&nbsp;Directadmin VPS 2</h5>
+<i class="fab fa-microsoft" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>Microsoft 365 Apps for business
+<br />  (voorheen Office 365 Business)
+</h5>
 <h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 20,00<span class="period">&nbsp;per maand</span></h6>
             <hr>
 <ul class="fa-ul">
@@ -118,8 +122,10 @@ title: Microsoft 365
 <div class="card-body text-center">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fal fa-cloud" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>
-&nbsp;Directadmin VPS 3</h5>
+<i class="fab fa-microsoft" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>Microsoft 365
+Business Standard
+<br />  (voorheen Office 365 Business Premium)
+</h5>
 <h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 30,00<span class="period">&nbsp;per maand</span></h6>
             <hr>
             <ul class="fa-ul">
