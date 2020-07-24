@@ -89,7 +89,7 @@ Business Basic </h5>
 <li><span class="fa-li"><i class="fal fa-comment-alt-smile" style="color: orange;ray;"></i></span>Hulp &amp; Ondersteuning</li>
 </ul>
 
-<a href="https://my.hostingwalk.com/cart.php?gid=10"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
+<a href="https://my.hostingwalk.com/cart.php?gid=20"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
 </div>
 </div>
 
@@ -136,7 +136,7 @@ Apps Business </h5>
 <li><span class="fa-li"><i class="fal fa-comment-alt-smile" style="color: orange;ray;"></i></span>Hulp &amp; Ondersteuning</li>
 </ul>
 
-<a href="https://my.hostingwalk.com/cart.php?gid=10"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
+<a href="https://my.hostingwalk.com/cart.php?gid=20"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
 </div>
 </div>
 
@@ -183,7 +183,7 @@ Business Standard </h5>
 <li><span class="fa-li"><i class="fal fa-comment-alt-smile" style="color: orange;ray;"></i></span>Hulp &amp; Ondersteuning</li>
 </ul>
 
- <a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=10"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
+<a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=20"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
   </div>
         </div>
 
@@ -659,7 +659,7 @@ close_btn.addEventListener('click', () => {
                            
  </div>
                         <div class="col-md-3 cta-button">
-<a alt="my hostingwalk" title="my hostingwalk" href="https://my.hostingwalk.com"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestel nu Microsoft 365</button> </a>
+<a alt="bestel microsoft 365" title="bestel microsoft 365" href="https://my.hostingwalk.com/cart.php?gid=20"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestel nu Microsoft 365</button> </a>
                         </div>
 
  </div>
