@@ -532,13 +532,8 @@ close_btn.addEventListener('click', () => {
    <h3>Outlook
 </h3>
   <div class="body">
-<hr>
-
-Met Gmail van G Suite gebruik je je eigen domeinnaam voor jouw zakelijk mail.
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over Outlook</button> </a></div>
+<hr>Met Outlook heb je altijd toegang tot je zakelijke e-mail en agenda.
+</div>
  </div>
 </div>
  
@@ -553,13 +548,8 @@ Met Gmail van G Suite gebruik je je eigen domeinnaam voor jouw zakelijk mail.
    <h3>OneNote
 </h3>
   <div class="body">
-<hr>
-
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over OneNote</button> </a></div>
+<hr>Met OneNote maak je eenvoudig notities, die je kunt delen met alle werknemers.
+</div>
  </div>
 </div>
  
@@ -575,165 +565,11 @@ Beheer hier alle G Suite gebruikers en instellingen
    <h3>OneDrive
 </h3>
   <div class="body">
-<hr>
-
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
+<hr>Bewaar veilig al je bestanden veilig in de cloud me OneDrive.
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over OneDrive</button> </a></div>
- </div>
+
 </div>
- 
-  
- 
-</div>  </div>
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_admin_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>G Suite Admin
-</h3>
-  <div class="body">
-<hr>
-
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
- <div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_calendar_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>G Suite Agenda
-</h3>
-  <div class="body">
-<hr>
-
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
- <div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_contacts_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>G Suite Contacten
-</h3>
-  <div class="body">
-<hr>
-
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
- </div>
-</div>
- 
-  
- 
-</div>  </div><div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_sites_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>G Suite Sites
-</h3>
-  <div class="body">
-<hr>
-
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_forms_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>G Suite Formulieren
-</h3>
-  <div class="body">
-<hr>
-
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_sheets_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>G Suite Sheets
-</h3>
-  <div class="body">
-<hr>
-
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_slides_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>G Suite Slides
-</h3>
-  <div class="body">
-<hr>
-
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
  </div>
 </div>
  
@@ -745,44 +581,13 @@ Beheer hier alle G Suite gebruikers en instellingen
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_drive_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://www.yourhosting.nl/static/afbeeldingen/teams-icon.svg" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>G Suite Drive
+   <h3>Microsoft Teams
 </h3>
   <div class="body">
-<hr>
-
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
- </div>
+<hr>Microsoft Teams laat medewerkers met elkaar chatten, videobellen ook een-op-een. 
 </div>
- 
-  
- 
-</div>  </div>
-
-
-
-
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_keep_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>G Suite Keep
-</h3>
-  <div class="body">
-<hr>
-
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
  </div>
 </div>
  
@@ -794,18 +599,33 @@ Beheer hier alle G Suite gebruikers en instellingen
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_groups_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://www.yourhosting.nl/static/afbeeldingen/sharepoint-new-icon.svg" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>G Suite Groepen
+   <h3>SharePoint
 </h3>
   <div class="body">
-<hr>
+<hr>SharePoint is een intranet om kennis te delen en informatie uit te wisselen.
 
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4u7Tp?ver=03d7&amp;q=90&amp;h=150&amp;w=150&amp;b=%23FFFFFFFF&amp;aim=true" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
+<div clas="description">
+   <h3>PowerPoint
+</h3>
+  <div class="body">
+<hr>Met PowerPoint maak je eenvoudg presentaties en dia voorstelingen..
+
+</div>
  </div>
 </div>
  
@@ -816,51 +636,10 @@ Beheer hier alle G Suite gebruikers en instellingen
 
 
 
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_meet_128px.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>G Suite Meet
-</h3>
-  <div class="body">
-<hr>
-
-Beheer hier alle G Suite gebruikers en instellingen
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Admin</button> </a></div>
- </div>
 </div>
- 
-  
- 
-</div>  </div>
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/logo_currents.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>G Suite Currents
-</h3>
-  <div class="body">
-<hr>
-
-G Suite Currents is de vervanger dan G Suite Plus het is een productiviteit community voor al je medewerkers
-<hr>
 
 
-<a alt="mail" title="contact via mail" href="/g-suite/currents"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Meer over G Suite Currents</button> </a></div>
- </div>
-</div>
- 
-</div>  </div>
-
-
-</div> </div></div>
+ </div></div>
 
 </div></div>
 
