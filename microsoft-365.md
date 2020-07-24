@@ -527,7 +527,7 @@ close_btn.addEventListener('click', () => {
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://www.yourhosting.nl/static/afbeeldingen/outlook-icon.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
+ <div class=""> <img src="https://hostingwalk.com/assets/img/outlook-icon.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
 <div clas="description">
    <h3>Outlook
 </h3>
@@ -542,7 +542,7 @@ close_btn.addEventListener('click', () => {
 </div>  </div><div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://www.yourhosting.nl/static/afbeeldingen/onenote-icon.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;">
+ <div class=""> <img src="https://hostingwalk.com/assets/img/onenote-icon.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;">
  </div>
 <div clas="description">
    <h3>OneNote
@@ -560,7 +560,7 @@ close_btn.addEventListener('click', () => {
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://www.yourhosting.nl/static/afbeeldingen/onedrive-new-icon.svg" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
+ <div class=""> <img src="https://hostingwalk.com/assets/img/onedrive-new-icon.svg" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
 <div clas="description">
    <h3>OneDrive
 </h3>
@@ -581,7 +581,7 @@ close_btn.addEventListener('click', () => {
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://www.yourhosting.nl/static/afbeeldingen/teams-icon.svg" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
+ <div class=""> <img src="https://hostingwalk.com/assets/img/teams-icon.svg" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
 <div clas="description">
    <h3>Microsoft Teams
 </h3>
@@ -599,7 +599,7 @@ close_btn.addEventListener('click', () => {
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://www.yourhosting.nl/static/afbeeldingen/sharepoint-new-icon.svg" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
+ <div class=""> <img src="https://hostingwalk.com/assets/img/sharepoint-new-icon.svg" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
 <div clas="description">
    <h3>SharePoint
 </h3>
@@ -618,7 +618,7 @@ close_btn.addEventListener('click', () => {
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4u7Tp?ver=03d7&amp;q=90&amp;h=150&amp;w=150&amp;b=%23FFFFFFFF&amp;aim=true" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
+ <div class=""> <img src="https://hostingwalk.com/assets/img/RE4u7Tp.webp" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
 <div clas="description">
    <h3>PowerPoint
 </h3>
