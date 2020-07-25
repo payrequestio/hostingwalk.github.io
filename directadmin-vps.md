@@ -434,6 +434,218 @@ title: Directadmin VPS
 
 
 
+<div style="background-color: #f7f8fc !important;" class="jumbotron"> 
+<div class="container">
+    
+
+<h2 class="text-center" style="
+    text-decoration: underline orange;
+"> 
+   <i class="fal fa-rocket" style="font-size: 34px;font-weight: 100;"></i> 
+    
+ Extra Directadmin Plugins alleen bij Hostingwalk</h2>
+
+<div class="row">
+        <div style="margin-top: 20px;" class="col-sm-4">
+      <img class="img-fluid" style="width: 600px;border-radius: 25px;/*! max-height: 180px; */margin-bottom: 10px;" src="https://hostingwalk.com/assets/img/banners/directadmin-vps-banner.png"><a href="https://hostingwalk.com/directadmin-firewall" style=""> 
+     </a>
+
+
+
+
+
+<h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;"> VPS Backups plugin</h3>
+      <p class="text-center">Met de Directadmin VPS Backups Plugin kun je direct backups maken en bekijken.
+    
+<br>
+    
+<a href="https://hostingwalk.com/directadmin-firewall" class="text-center"> 
+    <button class="btn btn-outline-inloggen my-2 my-sm-0 text-center" type="submit" style="margin-top: 10px !important;">Bekijk deze plugin</button> </a>
+</p>
+
+
+  </div> <!-- /col-md-4 -->
+
+ <div style="margin-top: 20px;" class="col-sm-4">
+      <img class="img-fluid" style="width: 600px;border-radius: 25px;/*! max-height: 180px; */margin-bottom: 10px;" src="https://hostingwalk.com/assets/img/banners/directadmin-vps-banner.png"><a href="https://hostingwalk.com/directadmin-firewall" style=""> 
+     </a>
+
+
+
+
+
+<h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;"> REDIS Caching plugin</h3>
+      <p class="text-center">Maak direct Redis databases aan via je Directadmin VPS Plugin, direct te gebruiken op je sites.
+<br>
+    
+ <a href="https://hostingwalk.com/directadmin-firewall" class="text-center"> 
+    <button class="btn btn-outline-inloggen my-2 my-sm-0 text-center" type="submit" style="margin-top: 10px !important;">Bekijk deze plugin</button> </a>
+</p>
+
+
+  </div>
+
+
+<div style="margin-top: 20px;" class="col-sm-4">
+      <img class="img-fluid" style="width: 600px;border-radius: 25px;/*! max-height: 180px; */margin-bottom: 10px;" src="https://hostingwalk.com/assets/img/banners/directadmin-vps-banner.png"><a href="https://hostingwalk.com/directadmin-firewall" style=""> 
+     </a>
+
+
+
+
+
+<h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;">  Amazon SES plugin</h3>
+      <p class="text-center">Voeg je domeinnaam automatisch toe aan Amazon SES E-mail delivery inclusief CloudFlare integratie.<br>
+    
+<a href="https://hostingwalk.com/directadmin-firewall" class="text-center"> 
+    <button class="btn btn-outline-inloggen my-2 my-sm-0 text-center" type="submit" style="margin-top: 10px !important;">Bekijk deze plugin</button> </a>
+</p>
+
+
+  </div> <!-- / .col-md-8 -->
+    </div> <!--/ .row -->
+</div>
+    </div>
+
+
+
+
+
+<div class="container">
+            <div class="col-sm-12">
+
+ <div class="bs-calltoaction bs-calltoaction-default">
+                    <div class="row">
+                        <div class="col-md-9 cta-contents">
+                            <h2 class="cta-title">Blijf online altijd bereikbaar met Microsoft 365
+</h2>
+                           
+ </div>
+                        <div class="col-md-3 cta-button">
+<a alt="bestel microsoft 365" title="bestel microsoft 365" href="https://my.hostingwalk.com/cart.php?gid=20"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestel nu Microsoft 365</button> </a>
+                        </div>
+
+ </div>
+                </div>
+
+
+  </div>
+</div>
+
+
+
+<style>
+  .bs-calltoaction{
+    position: relative;
+    width:auto;
+    padding: 15px 25px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+    .bs-calltoaction > .row{
+        display:table;
+        width: calc(100% + 30px);
+    }
+     
+        .bs-calltoaction > .row > [class^="col-"],
+        .bs-calltoaction > .row > [class*=" col-"]{
+            float:none;
+            display:table-cell;
+            vertical-align:middle;
+        }
+
+            .cta-contents{
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+
+                .cta-title{
+                    margin: 0 auto 0px;
+                    padding: 0;
+                }
+
+                .cta-desc{
+                    padding: 0;
+                }
+
+                .cta-desc p:last-child{
+                    margin-bottom: 0;
+                }
+
+            .cta-button{
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+
+@media (max-width: 991px){
+    .bs-calltoaction > .row{
+        display:block;
+        width: auto;
+    }
+
+        .bs-calltoaction > .row > [class^="col-"],
+        .bs-calltoaction > .row > [class*=" col-"]{
+            float:none;
+            display:block;
+            vertical-align:middle;
+            position: relative;
+        }
+
+        .cta-contents{
+            text-align: center;
+        }
+}
+
+
+
+.bs-calltoaction.bs-calltoaction-default{
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
+
+.bs-calltoaction.bs-calltoaction-primary{
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.bs-calltoaction.bs-calltoaction-info{
+    color: #fff;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+}
+
+.bs-calltoaction.bs-calltoaction-success{
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+
+.bs-calltoaction.bs-calltoaction-warning{
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+}
+
+.bs-calltoaction.bs-calltoaction-danger{
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
+
+.bs-calltoaction.bs-calltoaction-primary .cta-button .btn,
+.bs-calltoaction.bs-calltoaction-info .cta-button .btn,
+.bs-calltoaction.bs-calltoaction-success .cta-button .btn,
+.bs-calltoaction.bs-calltoaction-warning .cta-button .btn,
+.bs-calltoaction.bs-calltoaction-danger .cta-button .btn{
+    border-color:#fff;
+}
+</style>
+
 
 
 
@@ -705,3 +917,6 @@ close_btn.addEventListener('click', () => {
   social_panel_container.classList.remove('visible')
 });
 </script>
+
+
+{% include contact-bar.md %}
