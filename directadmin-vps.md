@@ -475,7 +475,7 @@ title: Directadmin VPS
 
 
 <h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;"> REDIS Caching plugin</h3>
-      <p class="text-center">Maak direct Redis databases aan via je Directadmin VPS Plugin, direct te gebruiken op je sites.
+      <p class="text-center">Maak direct Redis databases aan via je Directadmin VPS Plugin, voor bijv. WordPress.
 <br>
     
  <a href="https://hostingwalk.com/directadmin-firewall" class="text-center"> 
@@ -517,12 +517,12 @@ title: Directadmin VPS
  <div class="bs-calltoaction bs-calltoaction-default">
                     <div class="row">
                         <div class="col-md-9 cta-contents">
-                            <h2 class="cta-title">Blijf online altijd bereikbaar met Microsoft 365
+                            <h2 class="cta-title">Vandaag nog je Managed Directadmin VPS Onlin
 </h2>
                            
  </div>
                         <div class="col-md-3 cta-button">
-<a alt="bestel microsoft 365" title="bestel microsoft 365" href="https://my.hostingwalk.com/cart.php?gid=20"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestel nu Microsoft 365</button> </a>
+<a alt="bestel microsoft 365" title="bestel microsoft 365" href="https://my.hostingwalk.com/cart.php?gid=20"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestel nu Directadmin VPS</button> </a>
                         </div>
 
  </div>
