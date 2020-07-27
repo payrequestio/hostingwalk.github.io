@@ -1,5 +1,5 @@
 ---
-title: Hosting experts voor Magento & WordPress
+title: Hosting experts voor & WordPress
 ---
 
 <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
@@ -64,9 +64,9 @@ title: Hosting experts voor Magento & WordPress
 
 <h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;text-shadow: 2px 2px black;">
 
-<i class="fab fa-magento" style="color: white;/* font-size: 20px; */margin-top: 140px;"></i> 
+
 <i class="fab fa-wordpress" style="color: white;/* font-size: 20px; */margin-top: 140px;"></i>
-Hosting experts voor Magento &amp; WordPress
+Hostingwalk de WordPress Hosting expert
 </h1>
 
 </div>
