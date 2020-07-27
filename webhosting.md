@@ -26,7 +26,7 @@ title: Supersnelle WordPress Webhosting
 </h3>
   </div>
   <div class="col-sm-5">
-<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://redbanana.nl/wp-content/uploads/2019/01/Laptop-wordpress.png">
+<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="/assets/img/wordpress-banner.png">
   </div>
 </div>
 </div>
