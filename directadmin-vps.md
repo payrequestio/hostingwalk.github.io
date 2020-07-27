@@ -540,7 +540,9 @@ title: Directadmin VPS
   <div class="card" style="
     margin-bottom: 10px;
 ">
-    <div class="card-header" id="headingOne">
+<div class="card-header" id="headingOne" style="
+    min-width: 850px;
+">
       <h4 class="mb-0">
         In welk land staat mijn Directadmin VPS?
       </h4>
