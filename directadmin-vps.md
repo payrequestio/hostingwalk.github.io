@@ -529,11 +529,7 @@ title: Directadmin VPS
      /* Added */
 ">
 
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;margin-bottom: 20px;">
-    <i class="fal fa-question" style="font-size: 28px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i>  Directadmin VPS uitleg</h6>
-
-
-
+<h2 class="text-center" style="margin-bottom: 26px;">&nbsp;<i style="margin-left: 0px;color: #f28b20;font-size: 30px;" class="fal fa-question"></i>   Directadmin VPS uitleg</h2>
 
 
 <div class="accordion" id="accordionExample">
@@ -605,7 +601,7 @@ title: Directadmin VPS
  <div class="bs-calltoaction bs-calltoaction-default">
                     <div class="row">
                         <div class="col-md-9 cta-contents">
-                            <h2 class="cta-title">Vandaag nog je Managed Directadmin VPS Onlin
+                            <h2 class="cta-title">Vandaag nog je Managed Directadmin VPS Online
 </h2>
                            
  </div>
