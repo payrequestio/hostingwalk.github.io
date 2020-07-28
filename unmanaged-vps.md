@@ -306,8 +306,8 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 
 <div style="/*! margin-top: 30px; */" class="col-sm-12 text-center justify-content-center">
       <h2 style="/*! font-family: Melbourne,sans-serif; */">
-<i class="fal fa-cloud" style="font-size: 32px;font-weight: 100;"></i>  Software inbegrepen bij Directadmin VPS</h2>
-<h5 style="margin-top: 30px;font-family: inherit !important;">Directadmin wordt opgeleverd met de nieuwste software, hiermee kun je direct beginnen met het hosten van je websites.</h5>
+<i class="fab fa-linux" style="font-size: 32px;font-weight: 100;"></i> Kies de gewenste Operating System bij je Unmanaged VPS</h2>
+<h5 style="margin-top: 30px;font-family: inherit !important;"> Je kiest voor je unmanaged vps zelf welk OS je wilt draaien op jouw server.</h5>
 
 
 <div class="row">
@@ -317,12 +317,12 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://seekvectorlogo.net/wp-content/uploads/2020/02/mariadb-vector-logo.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
+ <div class=""> <img src="https://seeklogo.com/images/C/centos-logo-494F57D973-seeklogo.com.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>MariaDB
+   <h3>CentOS 
 </h3>
   <div class="body">
-<hr>MariaDB is een populair MySQL alternatief wereldwijde startups gebruiken MariaDB.
+<hr>CentO is een op Red Hat Enterprise Linux gebaseerde distributie, onderhouden door een erg grote community.
 </div>
  </div>
 </div>
@@ -332,14 +332,13 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 </div>  </div><div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_HTTP_server_logo_%282016%29.svg/1200px-Apache_HTTP_server_logo_%282016%29.svg.png" style="max-width: 200px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;min-height: 70px;/* margin-top: 10px; */margin-bottom: 10px;">
+ <div class=""> <img src="https://1000logos.net/wp-content/uploads/2017/06/Ubuntu-Logo.png" style="max-width: 200px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;min-height: 70px;/* margin-top: 10px; */margin-bottom: 10px;">
  </div>
 <div clas="description">
-   <h3>Apache 2.4
-
+   <h3>Ubuntu
 </h3>
   <div class="body">
-<hr>Apache is 's werelds meest gebruikte webserver, geschikt voor elk PHP Project..
+<hr>Ubuntu Server is een veelgebruikte Linux-distributie die oorspronkelijk van Debian is afgeleid.
 </div>
  </div>
 </div>
@@ -351,30 +350,12 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://junioroliveira.online/img/php.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 200px;max-height: 70px;min-height: 70px;margin-bottom: 10px;"> </div>
+ <div class=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1200px-Openlogo-debianV2.svg.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 200px;max-height: 70px;min-height: 70px;margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>PHP 7
+   <h3>Debian
 </h3>
   <div class="body">
-<hr>De nieuwste PHP versie voor je website, met PHP-FPM voor de beste performance.
-</div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
-<div clas="description">
-   <h3>phpMyAdmin
-</h3>
-  <div class="body">
-<hr>Beheer je MySQL databases direct via je browser en voeg nieuwe tabellen toe.
+<hr>Debian is een bekende open-source linux distributie en wordt ontwikkeld door The Debian project.
 </div>
  </div>
 </div>
@@ -387,13 +368,12 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://roundcube.net/images/logo.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 210px;max-height: 70px;min-height: 70px;margin-bottom: 10px;"> </div>
+ <div class=""> <img src="https://cdn.freebiesupply.com/logos/large/2x/cloudlinux-logo-png-transparent.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>RoundCube webmail
-
+   <h3>CloudLinux OS
 </h3>
   <div class="body">
-<hr>Lees en verstuur je emails direct vanuit je browser via webmail.
+<hr>CloudLinux focust zich op hostingservers, het bied vele performance en security features om meerdere websites te hosten.
 </div>
  </div>
 </div>
@@ -406,12 +386,30 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://kosbit.com.br/wp-content/uploads/2014/08/SpamAssassin-1024x436.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;min-height: 70px;margin-bottom: 10px;"> </div>
+ <div class=""> <img src="https://seeklogo.com/images/F/freebsd-logo-542DF4765A-seeklogo.com.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 210px;max-height: 70px;min-height: 70px;margin-bottom: 10px;"> </div>
 <div clas="description">
-   <h3>SpamAssassin
+   <h3>FreeBSD
 </h3>
   <div class="body">
-<hr>Bescherm al je email accounts met een eigen E-mail spamfilter
+<hr>FreeBSD is de beroemdste telg in de op Unix gebaseerde BSD familie, en richt zich veel op security.
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://cdn.freebiesupply.com/logos/large/2x/coreos-1-logo-png-transparent.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;min-height: 70px;margin-bottom: 10px;"> </div>
+<div clas="description">
+   <h3>Fedora CoreOS
+</h3>
+  <div class="body">
+<hr>Fedora CoreOS is een minimalistische Linuxdistributie die gebaseerd is op Fedora en CoreOS
 </div>
  </div>
 </div>
