@@ -21,7 +21,7 @@ title: Unmanaged VPS
     <div style="margin-top: 30px;" class="col-sm-7">
       <h2 style="text-decoration: underline orange;">Unmanaged VPS</h2>
 <h3>
-Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland (Amsterdam) je hebt keuze uit alle populaire OS`en zoals CentOS8, Ubuntu, Debian en CloudLinux OS, voor slechts €5,- kun je al Directadmin latn installeren.
+Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland (Amsterdam) je hebt keuze uit alle populaire OS`en zoals CentOS 8, Ubuntu, Debian en CloudLinux OS.
 </h3>
   </div>
   <div class="col-sm-5">
@@ -68,8 +68,8 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 </li>    
 
 <br>
-<b> Gratis inbegrepen &amp; installatie</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Directadmin licentie</li>
+<b> Altijd Gratis inbegrepen</b>
+<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>2 IPv4 adressen &amp; fair-use IPv6</li>
 </ul>
 
 <a href="https://my.hostingwalk.com/cart.php?gid=10"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
@@ -101,8 +101,8 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 </li>    
 
 <br>
-<b> Gratis inbegrepen &amp; installatie</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Directadmin licentie</li>
+<b> Altijd Gratis inbegrepen </b>
+<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>2 IPv4 adressen &amp; fair-use IPv6</li>
 </ul>
 
 <a href="https://my.hostingwalk.com/cart.php?gid=10"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
@@ -135,11 +135,11 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 </li>    
 
 <br>
-<b> Gratis inbegrepen &amp; installatie</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Directadmin licentie</li>
+<b> Altijd Gratis inbegrepen</b>
+<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>2 IPv4 adressen &amp; fair-use IPv6</li>
 </ul>
 
- <a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=10"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
+<a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=10"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
   </div>
         </div>
 
@@ -175,11 +175,11 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 </li>    
 
 <br>
-<b> Gratis inbegrepen &amp; installatie</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Directadmin licentie</li>
+<b> Altijd Gratis inbegrepen</b>
+<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>2 IPv4 adressen &amp; fair-use IPv6</li>
 </ul>
 
-  <a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=10"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
+<a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=10"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
  </div>
         </div>
 
@@ -212,11 +212,11 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 </li>    
 
 <br>
-<b> Gratis inbegrepen &amp; installatie</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Directadmin licentie</li>
+<b> Altijd Gratis inbegrepen</b>
+<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>2 IPv4 adressen &amp; fair-use IPv6</li>
 </ul>
 
- <a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=10"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
+<a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=10"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
   </div>
         </div>
 
@@ -246,8 +246,8 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 </li>    
 
 <br>
-<b> Gratis inbegrepen &amp; installatie</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Directadmin licentie</li>
+<b> Altijd Gratis inbegrepen</b>
+<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>2 IPv4 adressen &amp; fair-use IPv6</li>
 </ul>
 
 <a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=10"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
@@ -273,8 +273,8 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 
 
 <div style="margin-top: 23px;" class="col-sm-8">
-      <h2 style="/*! font-family: Melbourne,sans-serif; */">Gratis SSL certifcaten aanvragen in Directadmin</h2>
-      <h3>  Bespaar jaarlijkse kosten met betalen voor het verlengen van SSL certificaten, met Lets Encrypt worden je SSL certificaten automatisch & gratis verlengd direct via Directadmin.
+ <h2 style="/*! font-family: Melbourne,sans-serif; */"> Unmanaged VPS met SSD harddisks</h2>
+<h3>  Onze unmanaged VPS wordt opgeleverd met Enterprise SSD harddisks voro snelle prestaties zodat websites of applicaties altijd snel laden, daarnaast bieden we 99,99% uptime garantie.
  <br>
 </h3>
   </div>
@@ -283,7 +283,7 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 <div class="col-md-3">
 
 <h1>
-<img style="max-width: 150px;" src="https://vtinyhosting.com/img/lets-encrypt-white.png">
+<img style="max-width: 150px;" src="https://www.paroquiadigital.org/wp-content/uploads/2019/05/icon-velocity-ssd.png">
 </h1>
 
 <div class="box"></div>
