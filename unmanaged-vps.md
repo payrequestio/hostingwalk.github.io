@@ -260,6 +260,42 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 
   </div>
 
+
+
+
+<div class="box">
+    <div class="container">
+         <h1 class="text-center">Goedkoopste Unmanaged VPS van Nederland</h1>
+        <div class="table-responsive">
+ <table class="table">
+   <thead class="thead" style="
+    background: #F28B1F !important;
+    color: white;
+">
+    <tr>
+<th scope="col">Bedrijf</th>  <th scope="col">VPS Pakket</th>  <th scope="col">SSD / RAM / CPU</th>  <th scope="col">Prijs per maand</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr> <th scope="row">&nbsp;Hostingwalk</th>  <td>Unmanaged VPS 1</td>  <td>60 GB / 1 GB / 1 CPU</td>  <td>€ 5,00</td>  </tr>
+      
+
+<tr> <th scope="row">&nbsp; TransIP</th>  <td>BladeVPS X1</td>  <td>50 GB / 1 GB / 1 CPU	</td>  <td>€ 10,00</td>    </tr>
+
+<tr> <th scope="row">&nbsp; Versio</th>  <td>Cloud I
+
+</td>  <td>40 GB / 1 GB / 1 CPU	</td>  <td>€ 10,00</td>    </tr>
+
+
+<tr> <th scope="row">  Hostnet</th>  <td>VPS flexibel</td>  <td>50 GB / 1 GB / 1 CPU	</td>  <td>€ 10,00</td>    </tr><tr> <th scope="row"> YourHosting</th>  <td>VPS 2
+</td>  <td>60 GB / 1 GB / 2 CPU</td>  <td>€ 16,00</td>    </tr>
+  </tbody>
+            </table>        </div>
+
+ </div> </div>
+
+  
+
 </div>
 </div>
 
