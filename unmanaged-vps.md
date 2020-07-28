@@ -526,14 +526,14 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
     min-width: 850px;
 ">
       <h4 class="mb-0">
-        In welk land staat mijn Directadmin VPS?
+        In welk land staat mijn Unmanaged VPS?
       </h4>
     </div>
 
 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body" style="
     border-bottom: 1px solid rgba(0,0,0,.125);
-">Je Directadmin VPS draait uiteraard in Nederland, in het Equinix AM3 Datacenter (Amsterdam)</div>
+">Je Unamanged VPS draait uiteraard in Nederland, in het Equinix AM3 Datacenter (Amsterdam)</div>
     </div>
   </div>
 
@@ -542,10 +542,10 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
     margin-bottom: 10px;
 ">
     <div class="card-header" id="headingOne">
-      <h4 class="mb-0">Hoe snel wordt mijn Directadmin VPS opgeleverd?</h4>
+      <h4 class="mb-0">Hoe snel wordt mijn Unmanaged VPS opgeleverd?</h4>
     </div>
  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
-      <div class="card-body">Binnen een werkdag, gemiddeld is het ongeveer 4 uur, afhankelijk van maatwerk wensen.</div>
+      <div class="card-body">Binnen een werkdag, gemiddeld is het ongeveer 1 uur, afhankelijk van maatwerk wensen.</div>
     </div>
   </div>
   
@@ -587,12 +587,12 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
  <div class="bs-calltoaction bs-calltoaction-default">
                     <div class="row">
                         <div class="col-md-9 cta-contents">
-                            <h2 class="cta-title">Vandaag nog je Managed Directadmin VPS Online
+                            <h2 class="cta-title">Vandaag nog je Unmanaged VPS Online
 </h2>
                            
  </div>
                         <div class="col-md-3 cta-button">
-<a alt="bestel microsoft 365" title="bestel microsoft 365" href="https://my.hostingwalk.com/cart.php?gid=20"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestel nu Directadmin VPS</button> </a>
+<a alt="bestel microsoft 365" title="bestel microsoft 365" href="https://my.hostingwalk.com/cart.php?gid=20"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestel nu Unmanaged VPS</button> </a>
                         </div>
 
  </div>
