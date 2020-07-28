@@ -7,7 +7,7 @@ title: Unmanaged VPS
     <div class="container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
 
 <h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;">
-<i class="fal fa-cloud" style="color: white;/* font-size: 20px; */"></i> Directadmin VPS voor snelle websites.
+<i class="fal fa-cloud" style="color: white;/* font-size: 20px; */"></i> Unmanaged VPS met 99,99% uptime garantie.
 </h1>
 </div>
 </div>
@@ -439,64 +439,54 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 <h2 class="text-center" style="
     text-decoration: underline orange;
 "> 
-   <i class="fal fa-rocket" style="font-size: 34px;font-weight: 100;"></i> 
-    
- Extra Directadmin Plugins alleen bij Hostingwalk</h2>
+   <i class="fal fa-rocket" style="font-size: 34px;font-weight: 100;"></i>  Onze Unmanaged VPS is klaar voor de toekomst.</h2>
 
 <div class="row">
-        <div style="margin-top: 20px;" class="col-sm-4">
-      <img class="img-fluid" style="width: 600px;border-radius: 25px;/*! max-height: 180px; */margin-bottom: 10px;" src="https://hostingwalk.com/assets/img/banners/directadmin-vps-banner.png"><a href="https://hostingwalk.com/directadmin-firewall" style=""> 
+        <div style="margin-top: 20px;" class="col-sm-4 text-center">
+      <img class="img-fluid text-center" style="min-width: 200px;border-radius: 25px;/*! max-height: 180px; */margin-bottom: 10px;min-height: 180px;max-height: 180px;" src="https://i.imgur.com/PjYbLzx.png"><a href="https://hostingwalk.com/directadmin-firewall" style=""> 
      </a>
 
 
 
+<h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;"> 99.99% uptime SLA
 
-
-<h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;"> VPS Backups plugin</h3>
-      <p class="text-center">Met de Directadmin VPS Backups Plugin kun je direct backups maken en bekijken.
-    
+</h3>
+      <p class="text-center">Dankzij ons cloud platform en infrastructuur kunnen wij 99,99% uptime garanderen.
 <br>
     
 <a href="https://hostingwalk.com/directadmin-firewall" class="text-center"> 
-    <button class="btn btn-outline-inloggen my-2 my-sm-0 text-center" type="submit" style="margin-top: 10px !important;">Bekijk deze plugin</button> </a>
+     </a>
 </p>
 
 
   </div> <!-- /col-md-4 -->
 
- <div style="margin-top: 20px;" class="col-sm-4">
-      <img class="img-fluid" style="width: 600px;border-radius: 25px;/*! max-height: 180px; */margin-bottom: 10px;" src="https://hostingwalk.com/assets/img/banners/directadmin-vps-banner.png"><a href="https://hostingwalk.com/directadmin-firewall" style=""> 
+ <div style="margin-top: 20px;" class="col-sm-4 text-center">
+      <img class="img-fluid" style="/* width: 70%; */border-radius: 25px;/*! max-height: 180px; */margin-bottom: 10px;min-height: 180px;max-height: 180px;" src="https://i.imgur.com/xQU8oUo.png"><a href="https://hostingwalk.com/directadmin-firewall" style=""> 
      </a>
 
 
-
-
-
-<h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;"> REDIS Caching plugin</h3>
-      <p class="text-center">Maak direct Redis databases aan via je Directadmin VPS Plugin, voor bijv. WordPress.
+<h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;"> IPv6 Ready</h3>
+      <p class="text-center">Bij iedere Unmanaged VPS krijg je zoveel IPv6 adressen als je wenst.
 <br>
     
  <a href="https://hostingwalk.com/directadmin-firewall" class="text-center"> 
-    <button class="btn btn-outline-inloggen my-2 my-sm-0 text-center" type="submit" style="margin-top: 10px !important;">Bekijk deze plugin</button> </a>
+     </a>
 </p>
 
 
   </div>
 
 
-<div style="margin-top: 20px;" class="col-sm-4">
-      <img class="img-fluid" style="width: 600px;border-radius: 25px;/*! max-height: 180px; */margin-bottom: 10px;" src="https://hostingwalk.com/assets/img/banners/directadmin-vps-banner.png"><a href="https://hostingwalk.com/directadmin-firewall" style=""> 
+<div style="margin-top: 20px;" class="col-sm-4 text-center">
+      <img class="img-fluid" style="/* width: 70%; */border-radius: 25px;/*! max-height: 180px; */margin-bottom: 10px;min-height: 180px;max-height: 180px;" src="https://i.imgur.com/7tBvG2R.png"><a href="https://hostingwalk.com/directadmin-firewall" style=""> 
      </a>
 
-
-
-
-
-<h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;">  Amazon SES plugin</h3>
-      <p class="text-center">Voeg je domeinnaam automatisch toe aan Amazon SES E-mail delivery inclusief CloudFlare integratie.<br>
+<h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;"> Enterprise SSDs</h3>
+      <p class="text-center">We maken gebruik van de beste Enterprise SSDs voor snelle schrijfsnelheden..<br>
     
 <a href="https://hostingwalk.com/directadmin-firewall" class="text-center"> 
-    <button class="btn btn-outline-inloggen my-2 my-sm-0 text-center" type="submit" style="margin-top: 10px !important;">Bekijk deze plugin</button> </a>
+     </a>
 </p>
 
 
