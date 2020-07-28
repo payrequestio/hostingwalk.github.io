@@ -20,11 +20,12 @@ title: Unmanaged VPS
   <div> </div>
     <div style="margin-top: 30px;" class="col-sm-7">
       <h2 style="text-decoration: underline orange;">Unmanaged VPS</h2>
-<h3>Snelle en veilige Directadmin VPS binnen een werkdag online, dankzij meer dan 8 jaar ervaring leveren we jouw Directadmin VPS op volledig met backups, optimalisatie voor performance en beveiliging met gratis Letsencrypt SSL.
+<h3>
+Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland (Amsterdam) je hebt keuze uit alle populaire OS`en zoals CentOS8, Ubuntu, Debian en CloudLinux OS, voor slechts €5,- kun je al Directadmin latn installeren.
 </h3>
   </div>
   <div class="col-sm-5">
-<img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://hostingwalk.com/assets/img/banners/directadmin-vps-banner.png">
+<img alt="unmanaged vps" title="unmanaged vps" class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://hostingwalk.com/assets/img/banners/unmanaged-vps-banner.png">
   </div>
 </div>
 </div>
