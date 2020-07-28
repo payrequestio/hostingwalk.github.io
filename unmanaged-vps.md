@@ -263,7 +263,7 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 
 
 
-<div class="box">
+<div style="padding: 60px 0px;">
     <div class="container">
          <h1 class="text-center">Goedkoopste Unmanaged VPS van Nederland</h1>
         <div class="table-responsive">
@@ -294,7 +294,7 @@ Met Unmanaged VPS van Hostingwalk heb je voordelig al je eigen VPS in Nederland 
 
  </div> </div>
 
-  
+
 
 </div>
 </div>
