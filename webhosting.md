@@ -37,8 +37,8 @@ title: Supersnelle WordPress Webhosting
 
 <div class="jumbotron" style="background-color: white;">
 <div class="container text-center"> 
-<h2><i class="fal fa-rocket fa-border" style="font-size: 34px;font-weight: 100;"></i>Waarom is onze webhosting sneller dan de concurrentie ?</h2>
-<p>Vaak worden hostingservers standaard opgeleverd bij Hostingwalk is het echt maatwerk, we kijken zorgvuldig welke software en welke configuratie de beste performance geeft voor websites.</p>
+<h2><i class="fab fa-wordpress" style="font-size: 34px;font-weight: 100;"></i> Webhosting voor kleine en grote WordPress websites.</h2>
+<p> Onze hostingservers hosten meer als 1000+ WordPress websites, in 8 jaar tijd hebben we de beste configuraties en optimalisaties ontwikkeld zodat we de beste laadtijd bieden voor jouw WordPress website.</p>
 
 <div class="row">
 
