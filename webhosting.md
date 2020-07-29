@@ -235,66 +235,85 @@ title: Supersnelle WordPress Webhosting
 <div class="jumbotron text-center" style="background-color: white;">
 <div class="container text-center">
 <br>
-<div style="margin-bottom: 20px;" class="row text-center">
+<div style="margin-bottom: 20px;" class="row text-center justify-content-center">
 
- <div style="/*! margin-top: 30px; */" class="col-sm-12 text-center">
-  <style>
-.box{
-      padding: 40px 5px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      border-radius: 2px;
-      background: #fff;
-      text-align: center; 
-    margin-top: 20px;
-        border-top: 2px solid #f28b20;
-      }
-      .box:hover{
-      box-shadow: 0 0 11px rgba(33,33,33,.2); 
-      }
-</style>
+<div style="/*! margin-top: 30px; */" class="col-sm-12 text-center justify-content-center">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">
+<i class="fab fa-wordpress" style="font-size: 32px;font-weight: 100;"></i> WordPress Webhosting met de Nieuwste Features</h2>
+<h5 style="margin-top: 30px;font-family: inherit !important;">Onze hostingservers zijn uitgerust met de nieuwste software, en technieken dit garandeerd voor snelle perfomance en een lage laadtijd zodat je bezoekers direct kunnen zoeken op je wordpress blog of woocomerce webshop.</h5>
+
+
+<div class="row">
 
 
 
-<h2 style="/*! font-family: Melbourne,sans-serif; */">
-<i class="fal fa-rocket" style="font-size: 32px;font-weight: 100;"></i> Krijg toegang tot de beste features met jouw hostingpakket.</h2>
-   <h5 style="margin-top: 30px;font-family: inherit !important;">Onze hostingservers zijn uitgerust met de nieuwste software, en technieken dit garandeerd voor snelle perfomance en een lage laadtijd zodat je bezoekers direct kunnen zoeken op je wordpress blog of woocomerce webshop.</h5><div class="row">
-        <div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
-          <div class="box">
-            <img src="https://www.hostingwalk.com/user/pages/wordpress/redis.svg" style="
-max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
-            <h4>REDIS CACHE
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://old.hostingwalk.com/user/pages/wordpress/redis.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
+<div clas="description">
+   <h3>REDIS Cache
+</h3>
+  <div class="body">
+<hr>Maak een REDIS Database aan direct in Directadmin, om je WordPress site nog sneller te maken.
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div><div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://www.dsdeurope.nl/app/webroot/files/userfiles/images/Dropsuite/Dropsuite%20LP%202/easily%20automate%20backups.png" style="max-width: 200px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;min-height: 70px;/* margin-top: 10px; */margin-bottom: 10px;">
+ </div>
+<div clas="description">
+   <h3>Dagelijkse Backups
+</h3>
+  <div class="body">
+<hr>Iedere nacht maken wij een backup van je website &amp; email, deze kun je tot 30+ dagen terug halen.
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
 
-</h4>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-12 mt-sm-30">
-          <div class="box">
-            <img src="https://avatars2.githubusercontent.com/u/9289019?s=400&amp;v=4" style="
-max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */; max-height: 70px;min-height: 30px; margin-top: 10px;">
-            <h4>Lets Encrypt</h4>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-12 mt-md-30">
-          <div class="box">
-            <img src="https://ps.w.org/display-php-version/assets/icon-256x256.png" class="img-responsive" style="max-width: 150px;max-height: 70px;min-height: 30px;margin-top: 10px;">
-            <h4>PHP 7.3</h4>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6 col-sm-12 mt-md-30">
-          <div class="box">
-            <img src="https://www.dsdeurope.nl/app/webroot/files/userfiles/images/Dropsuite/Dropsuite%20LP%202/easily%20automate%20backups.png" style="
-    max-width: 150px;
-    max-height: 70px;
-    min-height: 30px;
-    margin-top: 10px;
-">
-            <h4>Daily Backups</h4>
-          </div>
-        </div>
-      </div>
-  </div>
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://ps.w.org/display-php-version/assets/icon-256x256.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 200px;max-height: 70px;min-height: 70px;margin-bottom: 10px;"> </div>
+<div clas="description">
+   <h3>PHP 5.6 &amp; PHP 7.4
+</h3>
+  <div class="body">
+<hr>Dankzij PHP Selector van CloudLinux kunnen we veilig PHP 5.6 aanbieden en de nieuwste PHP 7 versie.
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
+
+
+ </div></div>
+
 </div></div>
   
   
