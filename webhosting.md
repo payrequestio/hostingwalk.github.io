@@ -317,14 +317,13 @@ title: Supersnelle WordPress Webhosting
 </div></div>
   
   
-<div class="jumbotron" style="background: #212529;color: white;">
+<div class="jumbotron" style="background: #212529;color: white;background-color: #f28b20;">
 <div class="container text-center"> 
 <h2 style="margin-bottom: 40px;">
- <i class="fab fa-wordpress" style="color: white;/* font-size: 20px; */"></i>Bestel nu jouw WordPress Hosting pakket.</h2>
+ <i class="fab fa-wordpress" style="color: white;/* font-size: 20px; */"></i> Bestel nu jouw WordPress Hosting pakket.</h2>
 
 <a alt="my hostingwalk" title="my hostingwalk" href="https://my.hostingwalk.com" style="
-"> <button class="btn btn-lg btn-outline-inloggen my-2 my-sm-0" type="submit" style="
-">Bekijk WordPress Hosting Pakketten</button> </a>
+"> <button class="btn btn-lg btn-outline my-2 my-sm-0" type="submit" style="">Bekijk WordPress Hosting Pakketten</button> </a>
 
 </div>
 </div>
