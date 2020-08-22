@@ -90,12 +90,12 @@ title: WIX website
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-rocket" style="color: gray;"></i></span>
 <b>Dataverkeer</b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">2 GB</div></div>
+<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 55%;background-color: #f28b20;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">2 GB</div></div>
 </li>  
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-hdd" style="color: gray;"></i></span>
 <b>Opslagruimte</b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 30%;background-color: #f28b20;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">3 GB</div></div>
+<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 60%;background-color: #f28b20;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">3 GB</div></div>
 </li>
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-check" style="color: gray;margin-right: 50px;"></i></span>
@@ -126,12 +126,12 @@ title: WIX website
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-rocket" style="color: gray;"></i></span>
 <b>Dataverkeer</b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">Onbeperkt!</div></div>
+<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 95%;background-color: #f28b20;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">Onbeperkt!</div></div>
 </li>  
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-hdd" style="color: gray;"></i></span>
 <b>Opslagruimte</b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 30%;background-color: #f28b20;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">10 GB</div></div>
+<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 90%;background-color: #f28b20;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">10 GB</div></div>
 </li>
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-check" style="color: gray;margin-right: 50px;"></i></span>
