@@ -42,116 +42,39 @@ title: Magento Patch Abonnement
 
 <div class="card-deck" style="margin-bottom: 20px;">
 
-<div class="card mb-5 mb-lg-0" style="border-radius: 10px; border-top: 2px solid #f28b20;">
+<div class="card mb-5 mb-lg-0" style="/* border-radius: 10px; *//* border-top: 2px solid #f28b20; *//* display: none; */border: 0px solid rgba(0,0,0,.125);">
+
+</div>
+
+<div class="card mb-5 mb-lg-0" style="border-radius: 10px;border-top: 2px solid #f28b20;">
 <div class="card-body text-center">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fab fa-wix" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br> WIX Connect</h5>
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 4,50<span class="period">&nbsp;per maand</span></h6>
+<i class="fab fa-magento" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br> Magento Patch Abbonement</h5>
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 25,-<span class="period">&nbsp;per maand</span></h6>
             <hr>
 <ul class="fa-ul">
 
 
 
-<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-rocket" style="color: gray;"></i></span>
-<b>Dataverkeer</b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1 GB</div></div>
-</li>  
+  
 
-<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-hdd" style="color: gray;"></i></span>
-<b>Opslagruimte</b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 30%;background-color: #f28b20;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">500 MB</div></div>
-</li>
 
-<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-times" style="color: gray;margin-right: 50px;"></i></span>
-<b> WIX reclame te zien </b>
 
-</li>    
+    
 
-<br>
-<b> Gratis inbegrepen bij je website</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Gratis .nl of .be domeinnaam</li>
+
+<b> Wat wij doen voor je Webshop</b>
+<li><span class="fa-li"><i class="fal fa-shield-alt" style="color: orange;ray;"></i></span> Veiligheidspatches snel geïnstalleerd</li><li><span class="fa-li"><i class="fal fa-shield-alt" style="color: orange;ray;"></i></span>Wekelijkse Security scan</li>
+<li><span class="fa-li"><i class="fal fa-hdd" style="color: orange;ray;"></i></span> Gratis Managed Backups + Support</li>
 </ul>
 
 <a href="https://my.hostingwalk.com/cart.php?gid=10"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
 </div>
 </div>
 
-<div class="card mb-5 mb-lg-0" style="border-radius: 10px; border-top: 2px solid #f28b20;">
-<div class="card-body text-center">
+<div class="card mb-5 mb-lg-0" style="/* border-radius: 10px; *//* border-top: 2px solid #f28b20; */border: 0px solid rgba(0,0,0,.125);">
 
-<h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fab fa-wix" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br> WIX Combo</h5>
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 8,50<span class="period">&nbsp;per maand</span></h6>
-            <hr>
-<ul class="fa-ul">
-
-
-
-<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-rocket" style="color: gray;"></i></span>
-<b>Dataverkeer</b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 55%;background-color: #f28b20;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">2 GB</div></div>
-</li>  
-
-<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-hdd" style="color: gray;"></i></span>
-<b>Opslagruimte</b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 60%;background-color: #f28b20;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">3 GB</div></div>
-</li>
-
-<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-check" style="color: gray;margin-right: 50px;"></i></span>
-<b>Geen WIX reclame </b>
-
-</li>    
-
-<br>
-<b> Gratis inbegrepen bij je website</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Gratis .nl of .be domeinnaam</li><li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>$75 Google Adwords voucher</li>
-<li><span class="fa-li"><i class="fal fa-video" style="color: orange;ray;"></i></span>Upload HD Videos (30min max)</li>
-</ul>
-
-<a href="https://my.hostingwalk.com/cart.php?gid=10"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
-</div>
-</div>
-
-<div class="card mb-5 mb-lg-0" style="border-radius: 10px; border-top: 2px solid #f28b20;">
-<div class="card-body text-center">
-
-<h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fab fa-wix" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br> WIX Unlimited</h5>
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 12,50<span class="period">&nbsp;per maand</span></h6>
-            <hr>
-<ul class="fa-ul">
-
-
-
-<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-rocket" style="color: gray;"></i></span>
-<b>Dataverkeer</b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 95%;background-color: #f28b20;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">Onbeperkt!</div></div>
-</li>  
-
-<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-hdd" style="color: gray;"></i></span>
-<b>Opslagruimte</b>
-<div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 90%;background-color: #f28b20;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">10 GB</div></div>
-</li>
-
-<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-check" style="color: gray;margin-right: 50px;"></i></span>
-<b>Geen WIX reclame </b>
-
-</li>    
-
-<br>
-<b> Gratis inbegrepen bij je website</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Gratis .nl of .be domeinnaam</li><li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>$75 Google Adwords voucher</li>
-<li><span class="fa-li"><i class="fal fa-video" style="color: orange;ray;"></i></span>Upload HD Videos (60min max)</li>
-
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Site Booster App ($60 Value)
-</li>
-
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Visitor Analytics App - $60 Value</li>
-</ul>
-
-<a href="https://my.hostingwalk.com/cart.php?gid=10"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
-</div>
 </div>
 
 </div>
