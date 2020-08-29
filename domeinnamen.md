@@ -121,7 +121,90 @@ input#search-bar{
 <div class="jumbotron text-center" style="background-color: white !important;padding: 1.5rem 0rem;margin-bottom: -1rem;">
 <div class="container">
 <br>
-<div style="margin-bottom: 20px;" class="row">
+
+
+
+<h2 style="text-decoration: underline orange;">De grootste domeinnaam extensies voor de kleinste prijs.</h2>
+
+<div class="card-deck" style="
+    margin-top: 30px;
+">
+  <div class="card text-white bg-primary mb-3" style="max-width: 18rem;background-color: #F28B22 !important;">
+  
+  <div class="card-body">
+    <h1 class="card-title" style="
+    color: white;
+">🇳🇱 .NL
+</h1>
+    <p class="card-text">
+
+€ 5,99 per jaar
+</p>
+  </div>
+</div>
+  <div class="card text-white bg-primary mb-3" style="max-width: 18rem;background-color: #F28B22 !important;">
+  
+  <div class="card-body">
+    <h1 class="card-title" style="
+    color: white;
+">🇧🇪 .BE
+</h1>
+    <p class="card-text">
+
+€ 5,99 per jaar
+</p>
+  </div>
+</div>
+
+<div class="card text-white bg-primary mb-3" style="max-width: 18rem;background-color: #F28B22 !important;">
+  
+  <div class="card-body">
+    <h1 class="card-title" style="
+    color: white;
+">🇺🇸 .COM
+</h1>
+    <p class="card-text">
+
+€ 5,99 per jaar
+</p>
+  </div>
+</div>
+
+<div class="card text-white bg-primary mb-3" style="max-width: 18rem;background-color: #F28B22 !important;">
+  
+  <div class="card-body">
+    <h1 class="card-title" style="
+    color: white;
+">🇩🇪 .DE
+</h1>
+    <p class="card-text">
+
+€ 5,99 per jaar
+</p>
+  </div>
+</div>
+  
+
+
+</div>
+
+
+
+</div>
+</div>
+
+
+{% include checkbar.md %}
+
+
+
+<div class="container text-center" style="
+    padding: 1.5rem 0rem;
+    margin-bottom: -1rem;
+">
+<br>
+    
+    <div style="margin-bottom: 20px;" class="row">
   <div> </div>
     <div style="margin-top: 30px;" class="col-sm-7">
       <h2 style="text-decoration: underline orange;"> Goedkope Domeinregistratie</h2>
@@ -132,21 +215,6 @@ input#search-bar{
 <img class="img-fluid" style="max-width: 450px;border-radius: 25px;" src="https://hostingwalk.com/assets/img/banners/domeinnamen-banner.png">
   </div>
 </div>
-</div>
-</div>
-
-
-{% include checkbar.md %}
-
-
-
-
-
-<div class="container text-center" style="
-    padding: 1.5rem 0rem;
-    margin-bottom: -1rem;
-">
-<br>
 
 
 
