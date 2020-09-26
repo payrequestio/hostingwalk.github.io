@@ -153,7 +153,14 @@ input#search-bar{
     
 <h1 class="text-center" style="
     margin-top: 15px;
-"> Hostingwalk Productaanbod</h1>
+">Managed Hosting Partner
+
+</h1>
+
+
+
+<h5 class="text-center"> Wij helpen jouw met elk nieuw hosting project
+ </h5>
     
     
 <div class="row">
@@ -163,16 +170,20 @@ input#search-bar{
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://directadmin.com/img/logo/symbol_directadmin.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://cssninjastudio.github.io/fresh/assets/img/icons/web.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
 <div clas="description">
-   <h3>Directadmin VPS
-</h3>
+   <h4 style="
+    margin-top: 5px;
+">Managed Hosting
+</h4>
   <div class="body">
-<hr>Snelle en veilige Directadmin VPS binnen een werkdag online
+<hr>Wij bieden de snelste webhosting voor WordPress,Woocomerce en Magento, inclusief PHP7
+
+
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://hostingwalk.com/directadmin-vps"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Directadmin VPS</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://hostingwalk.com/directadmin-vps"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Naar Webhosting</button> </a></div>
  </div>
 </div>
  
@@ -181,17 +192,20 @@ input#search-bar{
 </div>  </div><div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://wpress-cursus.nl/wp-content/uploads/2017/02/wordpress-logo-min.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://cssninjastudio.github.io/fresh/assets/img/icons/rocket.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
 <div clas="description">
-   <h3>WordPress Hosting
-
-</h3>
+   <h4 style="
+    margin-top: 5px;
+">Managed VPS
+</h4>
   <div class="body">
-<hr>Snelle en geoptimaliseerde SSD WordPress webhosting
+<hr>Wij leveren volledige managed servers op met Directadmin met de beste beveiliging en de nieuwste caching technieken.
+
+
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://hostingwalk.com/webhosting"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk WordPress Hosting</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://hostingwalk.com/webhosting"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Naar Directadmin VPS</button> </a></div>
  </div>
 </div>
  
@@ -202,85 +216,26 @@ input#search-bar{
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://i.imgur.com/uC4f2PK.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <img src="https://cssninjastudio.github.io/fresh/assets/img/icons/light-bulb.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
 <div clas="description">
-   <h3>Domeinnamen
-</h3>
+   <h4 style="
+    margin-top: 5px;
+">Maatwerk
+</h4>
   <div class="body">
-<hr>Registreer een domeinnaam bij Hostingwalk, kies uit meer dan 100 domein extensies.
+<hr>Soms weet je niet goed wat je nodig hebt, wij zoeken graag naar de juiste hosting oplossing voor jouw project.
+
+
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://hostingwalk.com/domeinnamen"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Domeinnamen</button> </a></div>
+<a alt="mail" title="contact via mail" href="https://hostingwalk.com/domeinnamen"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Contact Opnemen</button> </a></div>
  </div>
 </div>
  
   
  
 </div>  </div>
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://correcthosting.nl/wp-content/uploads/2015/09/magento-logo-Small.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>Magento Hosting
-</h3>
-  <div class="body">
-<hr>Snelle Magento Hosting met SSD harddisk en REDIS Caching
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://hostingwalk.com/magento-hosting"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Magento Hosting</button> </a></div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
- <div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://www.teachercast.net/wp-content/uploads/2019/06/Google-Icon.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>G Suite van Google
-</h3>
-  <div class="body">
-<hr>Gebruik G Suite voor zakelijke e-mail, videovergaderingen en cloudopslag.
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://hostingwalk.com/g-suite"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk G Suite</button> </a></div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
- <div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://hostingwalk.com/assets/img/microsot-icon.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
-<div clas="description">
-   <h3>Microsoft 365
-</h3>
-  <div class="body">
-<hr>Microsoft 365 (vroeger Office 365) is een zakelijke oplossing met Office en Outlook.
-<hr>
-
-
-<a alt="mail" title="contact via mail" href="https://hostingwalk.com/microsoft365"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Microsoft 365</button> </a></div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
-
-
 
 
 
@@ -290,7 +245,6 @@ input#search-bar{
 
 
 </div> </div>
-        
   
 
 {% include contact-bar.md %}
