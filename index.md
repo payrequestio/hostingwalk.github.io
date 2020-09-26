@@ -183,7 +183,7 @@ input#search-bar{
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://hostingwalk.com/directadmin-vps"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Naar Webhosting</button> </a></div>
+<a alt="mail" title="contact via mail" href="webhosting"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Naar Webhosting</button> </a></div>
  </div>
 </div>
  
@@ -205,7 +205,7 @@ input#search-bar{
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://hostingwalk.com/webhosting"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Naar Directadmin VPS</button> </a></div>
+<a alt="mail" title="contact via mail" href="/directadmin-vps"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Naar Directadmin VPS</button> </a></div>
  </div>
 </div>
  
@@ -229,7 +229,7 @@ input#search-bar{
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="https://hostingwalk.com/domeinnamen"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Contact Opnemen</button> </a></div>
+<a alt="mail" title="contact via mail" href="/contact"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Contact Opnemen</button> </a></div>
  </div>
 </div>
  
