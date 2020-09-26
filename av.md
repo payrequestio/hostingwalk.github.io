@@ -2,20 +2,22 @@
 title: Algemene Voorwaarden
 ---
 
-<div class="jumbotron text-center" style="/* background-color: white !important; */padding: 1.5rem 0rem;margin-bottom: -1.5rem;background-color: #f28b20;border-radius: 0rem;">
-<div class="container"> 
-    <div class="container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
-
-<h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;">
-<i class="fal fa-cloud" style="color: white;/* font-size: 20px; */"></i> Algemene Voorwaarden
+<div class="container-fluid text-center" style="
+    padding-top: 2.9rem;
+    padding-bottom: 0.3rem;
+    background-color: #f28b20;
+"> 
+<div class="container-fluidj" style="margin-bottom: 1.3rem;margin-top: 1.0rem;"><h1 style="display: inline-block;font-size: 2.35rem;color: white;">
+<i class="fal fa-info-square" style="color: white;"></i> Algemene Voorwaarden
 </h1>
-</div>
+
+
 </div>
 </div>
 
 
 <div class="container">
-<div style="margin-top: 30px;white-space: pre;word-wrap: break-word;line-height: 1.8;" class="col-sm-12">
+<div style="margin-top: 30px;white-space: pre-wrap;line-height: 1.8;" class="col-sm-12">
 <p>
     </p><h1> Algemene voorwaarden Hostingwalk </h1>
 Dit zijn de algemene voorwaarden van Hostingwalk, gevestigd aan de Parkstraat 83 te Den Haag.
