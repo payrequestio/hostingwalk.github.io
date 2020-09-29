@@ -94,7 +94,7 @@ title: Hosting experts voor & WordPress
 .search-container{
   width: 60%;
   display: block;
-  margin: 0 auto;
+ margin-left: 20px;
 }
 
 input#search-bar{
