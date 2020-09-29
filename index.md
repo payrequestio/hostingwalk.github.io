@@ -66,10 +66,7 @@ title: Hosting experts voor & WordPress
 
 
 <i class="fab fa-wordjpress" style="color: white;/* font-size: 20px; */margin-top: 140px;"></i>Managed Hosting sinds 2013
-</h1><h3 class="text-center" style="
-    text-shadow: 2px 2px black;
-">Hostingwalk houd sinds 2013 grote en kleine websites online.
-
+</h1><h3 style="text-shadow: 2px 2px black;">Hostingwalk houd sinds 2013 grote en kleine websites online.
 <br>Wij zijn jouw managed hosting partner.<br>
 </h3>
 
@@ -89,7 +86,7 @@ title: Hosting experts voor & WordPress
 
 <form class="search-container" method="post" _lpchecked="1">
 <input class="domainname" name="query" autocomplete="off" type="text" id="search-bar" placeholder="Begin met zoeken naar je domeinnaam.." style="
-    margin-top: 20px;
+    margin-top: 5px;
 ">
 </form>
 
