@@ -5,11 +5,6 @@ title: .PT Domeinnaam
 {% include domaincheck-files.md %}
 
 
-<div class="container-fluid text-center" style="
-    padding-top: 2.9rem;
-    padding-bottom: 0.3rem;
-    background-color: #f28b20;
-"> 
 <div class="container-fluidj" style="margin-bottom: 1.3rem;margin-top: 1.0rem;">
 
 <style>  
