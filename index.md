@@ -60,18 +60,20 @@ title: Hosting experts voor & WordPress
 
 <div class="jumbotron text-center" style="background: url(https://images.unsplash.com/photo-1566207474742-de921626ad0c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9) no-repeat center center fixed;background-size: cover;min-height: 600px;margin-bottom: 0px;">
 <div class="container"> 
-    <div class="container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
+<div class="container-fluid" style="padding: 1.2rem 0rem;margin-left: 20px;color: white;">
 
-<h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;text-shadow: 2px 2px black;">
+<h1 style="display: inline-block;padding-top: 60px;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.75rem;text-shadow: 2px 2px black;">
 
 
-<i class="fab fa-wordpress" style="color: white;/* font-size: 20px; */margin-top: 140px;"></i>
-Hostingwalk de WordPress Hosting expert
-</h1>
+<i class="fab fa-wordjpress" style="color: white;/* font-size: 20px; */margin-top: 140px;"></i>Managed Hosting sinds 2013
+</h1><h3 class="text-center" style="
+    text-shadow: 2px 2px black;
+">Hostingwalk houd sinds 2013 grote en kleine websites online.
+
+<br>Wij zijn jouw managed hosting partner.<br>
+</h3>
 
 </div>
-
-
 
 
 
