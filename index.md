@@ -58,7 +58,7 @@ title: Hosting experts voor & WordPress
 }
 </style>
 
-<div class="jumbotron text-center" style="background: url(https://images.unsplash.com/photo-1566207474742-de921626ad0c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9) no-repeat center center fixed;background-size: cover;min-height: 600px;margin-bottom: 0px;">
+<div style="background: url(https://images.unsplash.com/photo-1566207474742-de921626ad0c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9) no-repeat center center fixed;background-size: cover;min-height: 600px;margin-bottom: 0px;">
 <div class="container"> 
 <div class="container-fluid" style="padding: 1.2rem 0rem;margin-left: 20px;color: white;">
 
