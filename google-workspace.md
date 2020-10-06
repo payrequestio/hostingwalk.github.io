@@ -35,8 +35,8 @@ title: Google Workspace
 
 <div class="jumbotron" style="background-color: white;">
 <div class="container text-center"> 
-    <h2><i class="fab fa-google fa-border" style="font-size: 34px;font-weight: 100;"></i> Kies het gewenste Google Workspace aboononment.</h2>
-    <p>Gebruik G Suite voor zakelijke e-mail, videovergaderingen, cloudopslag en het delen van bestanden. Met G Suite beschikt u over alle tools die uw team nodig heeft om samen te werken en meer gedaan te krijgen.</p>
+    <h2><i class="fab fa-google fa-border" style="font-size: 34px;font-weight: 100;"></i> Kies het gewenste Google Workspace abonnement.</h2>
+    <p>Gebruik Google Workspace voor zakelijke e-mail, videovergaderingen, cloudopslag en het delen van bestanden. Met Google Workspace beschikt u over alle tools die uw team nodig heeft om samen te werken en meer gedaan te krijgen.</p>
 
 {% include g-suite-pakketten.md %}
 

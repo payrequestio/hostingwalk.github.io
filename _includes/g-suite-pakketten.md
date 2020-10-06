@@ -9,7 +9,7 @@
 }">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fab fa-google" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>G Suite Basic</h5>
+<i class="fab fa-google" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>BUSINESS STARTER</h5>
 <h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 5,20<span class="period">&nbsp;per maand</span></h6>
             <hr>   
             <ul class="fa-ul">
@@ -28,7 +28,7 @@
  <div class="card-body text-center" style="border-top: 2px solid #f28b20;">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fab fa-google" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>G Suite Business</h5>
+<i class="fab fa-google" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>BUSINESS STANDARD</h5>
 <h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 10,40<span class="period">&nbsp;per maand</span></h6>
             <hr>
                     <ul class="fa-ul">
@@ -51,7 +51,7 @@
 }">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fab fa-google" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>G Suite Enterprise</h5>
+<i class="fab fa-google" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>BUSINESS PLUS</h5>
 <h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 23<span class="period">&nbsp;per maand</span></h6>
             <hr>
             <ul class="fa-ul">
