@@ -13,7 +13,7 @@
 <h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 5,20<span class="period">&nbsp;per maand</span></h6>
             <hr>   
             <ul class="fa-ul">
-              <li><span class="fa-li"><i class="fal fa-hdd" style="color: gray;ray;"></i></span>&nbsp;30 GB cloudopslag</li>
+              <li><span class="fa-li"><i class="fal fa-hdd" style="color: gray;ray;"></i></span>&nbsp;30 GB cloud storage</li>
               <li><span class="fa-li"><i class="fal fa-envelope" style="color: gray;ray;"></i></span>Zakelijke e-mail met Gmail</li>
               <li><span class="fa-li"><i class="fal fa-cloud" style="color: gray;ray;"></i></span>Werk samen met Google Drive</li>
               <li><span class="fa-li"><i class="fal fa-calendar" style="color: gray;ray;"></i></span>Geïntegreerde team agenda`s</li>
@@ -32,7 +32,7 @@
 <h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 10,40<span class="period">&nbsp;per maand</span></h6>
             <hr>
                     <ul class="fa-ul">
-              <li><span class="fa-li"><i class="fal fa-hdd" style="color: gray;ray;"></i></span>&nbsp;Onbeperkte cloudopslag</li>
+              <li><span class="fa-li"><i class="fal fa-hdd" style="color: gray;ray;"></i></span>&nbsp;2 TB cloud storage</li>
               <li><span class="fa-li"><i class="fal fa-envelope" style="color: gray;ray;"></i></span>Zakelijke e-mail met Gmail</li>
               <li><span class="fa-li"><i class="fal fa-cloud" style="color: gray;ray;"></i></span>Werk samen met Google Drive</li>
               <li><span class="fa-li"><i class="fal fa-calendar" style="color: gray;ray;"></i></span>Geïntegreerde team agenda`s</li>
@@ -55,7 +55,7 @@
 <h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 23<span class="period">&nbsp;per maand</span></h6>
             <hr>
             <ul class="fa-ul">
-              <li><span class="fa-li"><i class="fal fa-hdd" style="color: gray;ray;"></i></span>&nbsp;Onbeperkte cloudopslag</li>
+              <li><span class="fa-li"><i class="fal fa-hdd" style="color: gray;ray;"></i></span>&nbsp;5 TB cloud storage</li>
               <li><span class="fa-li"><i class="fal fa-envelope" style="color: gray;ray;"></i></span>Zakelijke e-mail met Gmail</li>
               <li><span class="fa-li"><i class="fal fa-cloud" style="color: gray;ray;"></i></span>Werk samen met Google Drive</li>
               <li><span class="fa-li"><i class="fal fa-calendar" style="color: gray;ray;"></i></span>Geïntegreerde team agenda`s</li>
