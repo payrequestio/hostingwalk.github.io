@@ -152,14 +152,11 @@ input#search-bar{
     
 <h1 class="text-center" style="
     margin-top: 15px;
-">Managed Hosting Partner
-
+"> Hosting oplosssingen voor het MKB
 </h1>
 
 
-
-<h5 class="text-center"> Wij helpen jouw met elk nieuw hosting project
- </h5>
+<h5 class="text-center"> Alles voor jouw nieuwe hosting project</h5>
     
     
 <div class="row">
@@ -169,20 +166,19 @@ input#search-bar{
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://cssninjastudio.github.io/fresh/assets/img/icons/web.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <i style="color: #f28b20;font-size: 32px;margin-right: 5px;" class="fad fa-globe-europe"></i> </div>
 <div clas="description">
    <h4 style="
     margin-top: 5px;
-">Managed Hosting
+">Domeinnamen
 </h4>
   <div class="body">
-<hr>Wij bieden de snelste webhosting voor WordPress,Woocomerce en Magento, inclusief PHP7
-
+<hr>Voordelige prijzen en realtime domeinnaam registratie.
 
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="webhosting"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Naar Webhosting</button> </a></div>
+<a alt="mail" title="contact via mail" href="webhosting"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Domeinnamen</button> </a></div>
  </div>
 </div>
  
@@ -191,20 +187,19 @@ input#search-bar{
 </div>  </div><div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://cssninjastudio.github.io/fresh/assets/img/icons/rocket.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <i style="color: #f28b20;font-size: 32px;margin-right: 5px;" class="fad fa-hdd"></i> </div>
 <div clas="description">
    <h4 style="
     margin-top: 5px;
-">Managed VPS
+">Webhosting
 </h4>
   <div class="body">
-<hr>Wij leveren volledige managed servers op met Directadmin met de beste beveiliging en de nieuwste caching technieken.
-
+<hr>Voordelige prijzen en realtime domeinnaam registratie.
 
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="/directadmin-vps"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Naar Directadmin VPS</button> </a></div>
+<a alt="mail" title="contact via mail" href="webhosting"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Webhosting</button> </a></div>
  </div>
 </div>
  
@@ -215,20 +210,19 @@ input#search-bar{
 <div class="col-md-4">
 <div class="partnerbox-part text-center" style="margin-left: 10px;">
 <div class="info">
- <div class=""> <img src="https://cssninjastudio.github.io/fresh/assets/img/icons/light-bulb.svg" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+ <div class=""> <i style="color: #f28b20;font-size: 32px;margin-right: 5px;" class="fad fa-server"></i> </div>
 <div clas="description">
    <h4 style="
     margin-top: 5px;
-">Maatwerk
+">Reseller Hosting
 </h4>
   <div class="body">
-<hr>Soms weet je niet goed wat je nodig hebt, wij zoeken graag naar de juiste hosting oplossing voor jouw project.
-
+<hr>Voordelige prijzen en realtime domeinnaam registratie.
 
 <hr>
 
 
-<a alt="mail" title="contact via mail" href="/contact"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Contact Opnemen</button> </a></div>
+<a alt="mail" title="contact via mail" href="webhosting"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Bekijk Reseller Hosting</button> </a></div>
  </div>
 </div>
  
