@@ -2,12 +2,12 @@
 title: Directadmin VPS
 ---
 
-<div class="jumbotron text-center" style="/* background-color: white !important; */padding: 1.5rem 0rem;margin-bottom: -1.5rem;background-color: #f28b20;border-radius: 0rem;">
+<div class="jumbotron text-center" style="/* background-color: white !important; */padding: 4.0rem 0rem;margin-bottom: -2.4rem;background-color: #f28b20;border-radius: 0rem;">
 <div class="container"> 
-    <div class="container-fluid text-center" style="padding: 1.2rem 0rem;color: white;">
+    <div class="container-fluid text-center" style="color: white;">
 
 <h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;">
-<i class="fal fa-cloud" style="color: white;/* font-size: 20px; */"></i> Directadmin VPS voor snelle websites.
+<i class="fad fa-clouds" style="color: white;/* font-size: 20px; */"></i> Directadmin VPS voor snelle websites.
 </h1>
 </div>
 </div>
@@ -265,6 +265,40 @@ title: Directadmin VPS
 </div>
 </div>
 
+<div style="padding: 60px 0px;">
+    <div class="container">
+<h1 class="text-center"> <i class="fad fa-trophy-alt" style="font-size: 32px;font-weight: 100;"></i> Goedkoopste Managed VPS van Nederland</h1>
+        <div class="table-responsive">
+ <table class="table">
+   <thead class="thead" style="
+    background: #F28B1F !important;
+    color: white;
+">
+    <tr>
+<th scope="col">Bedrijf</th>  <th scope="col">VPS Pakket</th>  <th scope="col">Inclusief gratis backups</th>  <th scope="col">Prijs per maand</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr> <th scope="row">&nbsp;Hostingwalk</th>  <td>Managed Directadmin VPS 1</td>  <td>  <i style="color: #f28b20;font-size: 23px;margin-right: 5px;" class="fad fa-check"></i></td>  <td>€ 10,-</td>  </tr>
+      
+
+<tr> <th scope="row">&nbsp; Hosted.nl</th>  <td>Managed VPS Extra Small
+
+</td>  <td>  <i style="color: #f28b20;font-size: 23px;margin-right: 5px;" class="fad fa-check"></i></td>  <td>€ 59,95</td>    </tr>
+
+<tr> <th scope="row">&nbsp; YourHosting</th>  <td>Managed VPS M1
+
+</td>  <td>  <i style="color: #f28b20;font-size: 23px;margin-right: 5px;" class="fad fa-check"></i></td>  <td>€ 42,-</td>    </tr>
+
+
+<tr> <th scope="row">Combell</th>  <td>VPS 1 PRO
+</td>  <td>  <i style="color: #f28b20;font-size: 23px;margin-right: 5px;" class="fad fa-check"></i></td>  <td>€ 42,50</td>    </tr><tr> <th scope="row">iXL Hosting</th>  <td>Managed Basic
+
+</td>  <td>  <i style="color: #f28b20;font-size: 23px;margin-right: 5px;" class="fad fa-check"></i></td>  <td>€ 99,-</td>    </tr>
+  </tbody>
+            </table>        </div>
+
+ </div> </div>
 
 
 
