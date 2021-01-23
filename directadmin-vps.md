@@ -7,7 +7,7 @@ title: Directadmin VPS
     <div class="container-fluid text-center" style="color: white;">
 
 <h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;">
-<i class="fad fa-clouds" style="color: white;/* font-size: 20px; */"></i> Directadmin VPS voor snelle websites.
+<i class="fad fa-clouds" style="color: white;/* font-size: 20px; */"></i> Managed Directadmin VPS voor snelle websites.
 </h1>
 </div>
 </div>
@@ -33,8 +33,12 @@ title: Directadmin VPS
 {% include checkbar.md %}
 
 
-<div class="jumbotron" style="background-color: white;">
+<div class="jumbotron" style="background-color: white;padding: 1rem;">
+
 <div class="container text-center"> 
+    <h2 class="text-muted" style="
+    padding: 20px;
+"><i class="fad fa-clouds" style="font-size: 34px;font-weight: 100;color: #F28B1F;"></i>   Managed Directadmin VPS Pakketten</h2>
 
 <div class="row">
 
@@ -46,29 +50,29 @@ title: Directadmin VPS
 <div class="card-body text-center">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fal fa-cloud" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>&nbsp;Directadmin VPS 1</h5>
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 10,00<span class="period">&nbsp;per maand</span></h6>
+<i class="fad fa-clouds" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color: #F28B1F;"></i> <br>&nbsp;Managed Directadmin VPS 1</h5>
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 15,00<span class="period">&nbsp;per maand</span></h6>
             <hr>
 <ul class="fa-ul">
 
-<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-microchip" style="color: gray;"></i></span>
+<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fad fa-microchip" style="color: gray;"></i></span>
 <b>CPU Cores </b>
 <div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1</div></div>
 </li>
 
-<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-memory" style="color: gray;"></i></span>
+<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fad fa-memory" style="color: gray;"></i></span>
 <b>RAM Geheugen </b>
 <div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 25%;background-color: #f28b20;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">1 GB</div></div>
 </li>  
 
-<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fal fa-hdd" style="color: gray;"></i></span>
+<li style="margin-bottom: 10px;"><span class="fa-li" style="left: 2em !important;"><i class="fad fa-hdd" style="color: gray;"></i></span>
 <b>SSD schijfruimte </b>
 <div class="progress" style=""><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 30%;background-color: #f28b20;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25 GB SSD</div></div>
 </li>    
 
 <br>
-<b> Gratis inbegrepen &amp; installatie</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Directadmin licentie</li>
+
+<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span><b>+ Directadmin licentie t.w.v. €25</b></li>
 </ul>
 
 <a href="https://my.hostingwalk.com/cart.php?gid=10"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
@@ -79,8 +83,8 @@ title: Directadmin VPS
 <div class="card-body text-center">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fal fa-cloud" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>&nbsp;Directadmin VPS 2</h5>
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 20,00<span class="period">&nbsp;per maand</span></h6>
+<i class="fad fa-clouds" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>&nbsp;Managed Directadmin VPS 2</h5>
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 25,00<span class="period">&nbsp;per maand</span></h6>
             <hr>
 <ul class="fa-ul">
 
@@ -100,8 +104,8 @@ title: Directadmin VPS
 </li>    
 
 <br>
-<b> Gratis inbegrepen &amp; installatie</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Directadmin licentie</li>
+
+<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span><b>+ Directadmin licentie t.w.v. €25</b></li>
 </ul>
 
 <a href="https://my.hostingwalk.com/cart.php?gid=10"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
@@ -112,9 +116,9 @@ title: Directadmin VPS
 <div class="card-body text-center">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fal fa-cloud" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>
-&nbsp;Directadmin VPS 3</h5>
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 30,00<span class="period">&nbsp;per maand</span></h6>
+<i class="fad fa-clouds" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>
+&nbsp;Managed Directadmin VPS 3</h5>
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 35,00<span class="period">&nbsp;per maand</span></h6>
             <hr>
             <ul class="fa-ul">
 
@@ -134,8 +138,8 @@ title: Directadmin VPS
 </li>    
 
 <br>
-<b> Gratis inbegrepen &amp; installatie</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Directadmin licentie</li>
+
+<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span><b>+ Directadmin licentie t.w.v. €25</b></li>
 </ul>
 
  <a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=10"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
@@ -153,8 +157,8 @@ title: Directadmin VPS
           <div class="card-body text-center" style="/* border-top: 2px solid #f28b20; */">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fal fa-cloud" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>&nbsp;Directadmin VPS 4</h5>
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 80,00<span class="period">&nbsp;per maand</span></h6>
+<i class="fad fa-clouds" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>&nbsp;Managed Directadmin VPS 4</h5>
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 85,00<span class="period">&nbsp;per maand</span></h6>
             <hr>
             <ul class="fa-ul">
 
@@ -174,8 +178,8 @@ title: Directadmin VPS
 </li>    
 
 <br>
-<b> Gratis inbegrepen &amp; installatie</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Directadmin licentie</li>
+
+<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span><b>+ Directadmin licentie t.w.v. €25</b></li>
 </ul>
 
   <a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=10"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
@@ -189,9 +193,9 @@ title: Directadmin VPS
           <div class="card-body text-center" style="/* border-top: 2px solid #f28b20; */">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fal fa-cloud" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>
-&nbsp;Directadmin VPS 5</h5>
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 100,00<span class="period">&nbsp;per maand</span></h6>
+<i class="fad fa-clouds" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>
+&nbsp;Managed Directadmin VPS 5</h5>
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 105,00<span class="period">&nbsp;per maand</span></h6>
             <hr>
             <ul class="fa-ul">
 
@@ -211,8 +215,8 @@ title: Directadmin VPS
 </li>    
 
 <br>
-<b> Gratis inbegrepen &amp; installatie</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Directadmin licentie</li>
+
+<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span><b>+ Directadmin licentie t.w.v. €25</b></li>
 </ul>
 
  <a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=10"> <button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
@@ -226,9 +230,9 @@ title: Directadmin VPS
           <div class="card-body text-center" style="">
 
 <h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
-<i class="fal fa-cloud" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>
-&nbsp;Directadmin VPS 6)</h5>
-<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 180,00<span class="period">&nbsp;per maand</span></h6>
+<i class="fad fa-clouds" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br>
+&nbsp;Managed Directadmin VPS 6)</h5>
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;">€ 185,00<span class="period">&nbsp;per maand</span></h6>
             <hr>
             <ul class="fa-ul">
 
@@ -248,8 +252,8 @@ title: Directadmin VPS
 </li>    
 
 <br>
-<b> Gratis inbegrepen &amp; installatie</b>
-<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span>Directadmin licentie</li>
+
+<li><span class="fa-li"><i class="fal fa-gift" style="color: orange;ray;"></i></span><b>+ Directadmin licentie t.w.v. €25</b></li>
 </ul>
 
  <a alt="directadmin vps bestellen" title="directadmin vps bestellen" href="https://my.hostingwalk.com/cart.php?gid=10"><button class="btn btn-outline-inloggen my-2 my-sm-0" type="submit">Bestellen</button> </a>
@@ -262,8 +266,6 @@ title: Directadmin VPS
 
   </div>
 
-</div>
-</div>
 
 <div style="padding: 60px 0px;">
     <div class="container">
@@ -300,7 +302,8 @@ title: Directadmin VPS
 
  </div> </div>
 
-
+</div>
+</div>
 
 
 <div style="background-color: #f7f8fc !important;" class="jumbotron"> 
