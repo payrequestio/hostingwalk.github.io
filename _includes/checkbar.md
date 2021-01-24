@@ -16,7 +16,7 @@
 <div class="col-sm-7">
 
 <p style="display: inline-block;/* padding-top: .3125rem; *//* padding-bottom: .3125rem; *//* margin-right: 1rem; */font-size: 1.20rem;">
-<i class="fas fa-check" style="color: #ff9500;font-size: 20px;"></i> 8 jaar ervaring <i class="fab fa-whatsapp" style="color: #ff9500;font-size: 20px;margin-left: 15px;"></i>  WhatsApp support   <i class="fas fa-thumbs-up" style="color: #ff9500;font-size: 20px;margin-left: 15px;"></i> Geen verborgenkosten  
+<i class="fad fa-check" style="color: #ff9500;font-size: 20px;"></i> 8 jaar ervaring <i class="fad fa-clouds" style="color: #ff9500;font-size: 20px;margin-left: 15px;"></i> Nederlandse Servers<i class="fad fa-thumbs-up" style="color: #ff9500;font-size: 20px;margin-left: 15px;"></i> Geen verborgenkosten  
 </p>
 
 </div>
