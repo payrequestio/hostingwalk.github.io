@@ -306,34 +306,200 @@ title: Directadmin VPS
 </div>
 
 
-<div style="background-color: #f7f8fc !important;" class="jumbotron"> 
-<div class="container">
-    <div class="row">
+<div class="jumbotron text-center" style="background-color: #f8f8f9;">
+<div class="container text-center">
+<br>
+<div style="margin-bottom: 20px;" class="row text-center justify-content-center">
+
+<div style="/*! margin-top: 30px; */" class="col-sm-12 text-center justify-content-center">
+      <h2 style="/*! font-family: Melbourne,sans-serif; */">
+<i class="fad fa-rocket" style="font-size: 32px;font-weight: 100;"></i> Managed Directadmin VPS Features</h2>
+<h5 style="margin-top: 30px;font-family: inherit !important;">Managed Directadmin VPS geleverd met de nieuwste software, alles voor snelle websites!</h5>
 
 
-<div style="margin-top: 23px;" class="col-sm-8">
-      <h2 style="/*! font-family: Melbourne,sans-serif; */">Gratis SSL certifcaten aanvragen in Directadmin</h2>
-      <h3>  Bespaar jaarlijkse kosten met betalen voor het verlengen van SSL certificaten, met Lets Encrypt worden je SSL certificaten automatisch & gratis verlengd direct via Directadmin.
- <br>
+<div class="row">
+
+
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://seekvectorlogo.net/wp-content/uploads/2020/02/mariadb-vector-logo.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
+<div clas="description">
+   <h3>MariaDB
 </h3>
-  </div>
-
-
-<div class="col-md-3">
-
-<h1>
-<img style="max-width: 150px;" src="https://vtinyhosting.com/img/lets-encrypt-white.png">
-</h1>
-
-<div class="box"></div>
-
-
-  
-
- </div> <!-- / .col-md-8 -->
-    </div> <!--/ .row -->
+  <div class="body">
+<hr>MariaDB is een populair MySQL alternatief wereldwijde startups gebruiken MariaDB.
 </div>
-    </div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div><div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_HTTP_server_logo_%282016%29.svg/1200px-Apache_HTTP_server_logo_%282016%29.svg.png" style="max-width: 200px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;min-height: 70px;/* margin-top: 10px; */margin-bottom: 10px;"> </div>
+<div clas="description">
+   <h3>Apache 2.4
+</h3>
+  <div class="body">
+<hr>Apache is 's werelds meest gebruikte webserver, geschikt voor elk PHP Project..
+
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://www.watermelonwebworks.com/images/711px-PHP-logo-650x351.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 200px;max-height: 70px;min-height: 70px;margin-bottom: 10px;"> </div>
+<div clas="description">
+   <h3>PHP 7+
+</h3>
+  <div class="body">
+<hr>De nieuwste PHP versie voor je website, met PHP-FPM voor de beste performance.
+
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
+<div clas="description">
+   <h3>phpMyAdmin
+</h3>
+  <div class="body">
+<hr>Beheer je MySQL databases direct via je browser en voeg nieuwe tabellen toe.
+
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+ <div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://roundcube.net/images/roundcube_logo_icon.svg" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 210px;max-height: 70px;min-height: 70px;margin-bottom: 10px;"> </div>
+<div clas="description">
+   <h3>Roundcube Webmail
+</h3>
+  <div class="body">
+<hr>Lees en verstuur je emails direct vanuit je browser via webmail.
+
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+ <div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/SpamAssassin_logo.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;min-height: 70px;margin-bottom: 10px;">
+<div clas="description">
+   <h3>SpamAssassin
+</h3>
+  <div class="body">
+<hr>Bescherm al je email accounts met een eigen E-mail spamfilter
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://img.stackshare.io/service/17/amazon-ses.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+<div clas="description">
+   <h3>Amazon SES
+</h3>
+  <div class="body">
+<hr>Gratis Amazon SES bij je VPS, verstuur emails met vertrouwde delivery.
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://forum.restic.net/uploads/default/original/1X/3773c7993ff25bf4c15aa18cdd336f94bccd96f5.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+<div clas="description">
+   <h3>Restic Backups
+</h3>
+  <div class="body">
+<hr>Open-source backups opgeslagen op externe S3 Storage.
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+<div class="col-md-4">
+<div class="partnerbox-part text-center" style="margin-left: 10px;">
+<div class="info">
+ <div class=""> <img src="https://letsencrypt.org/images/le-logo-twitter-noalpha.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; *//* margin-bottom: 10px; */"> </div>
+<div clas="description">
+   <h3>Lets Encrypt
+</h3>
+  <div class="body">
+<hr>Maak gratis SSL certificaten aan voor al je domeinnamen, inclusief gratis verlenging.
+</div>
+ </div>
+</div>
+ 
+  
+ 
+</div>  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> </div></div>
+
+</div></div>
 
 
 
