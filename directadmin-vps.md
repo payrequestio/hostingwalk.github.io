@@ -504,214 +504,6 @@ title: Directadmin VPS
 
 
 
-<div class="jumbotron text-center" style="background-color: white;">
-<div class="container text-center">
-<br>
-<div style="margin-bottom: 20px;" class="row text-center justify-content-center">
-
-<div style="/*! margin-top: 30px; */" class="col-sm-12 text-center justify-content-center">
-      <h2 style="/*! font-family: Melbourne,sans-serif; */">
-<i class="fal fa-cloud" style="font-size: 32px;font-weight: 100;"></i>  Software inbegrepen bij Directadmin VPS</h2>
-<h5 style="margin-top: 30px;font-family: inherit !important;">Directadmin wordt opgeleverd met de nieuwste software, hiermee kun je direct beginnen met het hosten van je websites.</h5>
-
-
-<div class="row">
-
-
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://seekvectorlogo.net/wp-content/uploads/2020/02/mariadb-vector-logo.png" style="max-width: 150px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;/* min-height: 30px; *//* margin-top: 10px; */margin-bottom: 10px;"> </div>
-<div clas="description">
-   <h3>MariaDB
-</h3>
-  <div class="body">
-<hr>MariaDB is een populair MySQL alternatief wereldwijde startups gebruiken MariaDB.
-</div>
- </div>
-</div>
- 
-  
- 
-</div>  </div><div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_HTTP_server_logo_%282016%29.svg/1200px-Apache_HTTP_server_logo_%282016%29.svg.png" style="max-width: 200px;/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-height: 70px;min-height: 70px;/* margin-top: 10px; */margin-bottom: 10px;">
- </div>
-<div clas="description">
-   <h3>Apache 2.4
-
-</h3>
-  <div class="body">
-<hr>Apache is 's werelds meest gebruikte webserver, geschikt voor elk PHP Project..
-</div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://junioroliveira.online/img/php.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 200px;max-height: 70px;min-height: 70px;margin-bottom: 10px;"> </div>
-<div clas="description">
-   <h3>PHP 7
-</h3>
-  <div class="body">
-<hr>De nieuwste PHP versie voor je website, met PHP-FPM voor de beste performance.
-</div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;margin-bottom: 10px;"> </div>
-<div clas="description">
-   <h3>phpMyAdmin
-</h3>
-  <div class="body">
-<hr>Beheer je MySQL databases direct via je browser en voeg nieuwe tabellen toe.
-</div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://roundcube.net/images/logo.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 210px;max-height: 70px;min-height: 70px;margin-bottom: 10px;"> </div>
-<div clas="description">
-   <h3>RoundCube webmail
-
-</h3>
-  <div class="body">
-<hr>Lees en verstuur je emails direct vanuit je browser via webmail.
-</div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
-
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class=""> <img src="https://kosbit.com.br/wp-content/uploads/2014/08/SpamAssassin-1024x436.png" style="/*! -webkit-filter: grayscale(100%); *//*! filter: grayscale(100%); */max-width: 150px;max-height: 70px;min-height: 70px;margin-bottom: 10px;"> </div>
-<div clas="description">
-   <h3>SpamAssassin
-</h3>
-  <div class="body">
-<hr>Bescherm al je email accounts met een eigen E-mail spamfilter
-</div>
- </div>
-</div>
- 
-  
- 
-</div>  </div>
-
-
-
-
-</div>
-
-
- </div></div>
-
-</div></div>
-
-
-
-<div style="background-color: #f7f8fc !important;" class="jumbotron"> 
-<div class="container">
-    
-
-<h2 class="text-center" style="
-    text-decoration: underline orange;
-"> 
-   <i class="fal fa-rocket" style="font-size: 34px;font-weight: 100;"></i> 
-    
- Extra Directadmin Plugins alleen bij Hostingwalk</h2>
-
-<div class="row">
-        <div style="margin-top: 20px;" class="col-sm-4">
-      <img class="img-fluid" style="width: 600px;border-radius: 25px;/*! max-height: 180px; */margin-bottom: 10px;" src="https://hostingwalk.com/assets/img/banners/directadmin-vps-banner.png"><a href="https://hostingwalk.com/directadmin-firewall" style=""> 
-     </a>
-
-
-
-
-
-<h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;"> VPS Backups plugin</h3>
-      <p class="text-center">Met de Directadmin VPS Backups Plugin kun je direct backups maken en bekijken.
-    
-<br>
-    
-<a href="https://hostingwalk.com/directadmin-firewall" class="text-center"> 
-    <button class="btn btn-outline-inloggen my-2 my-sm-0 text-center" type="submit" style="margin-top: 10px !important;">Bekijk deze plugin</button> </a>
-</p>
-
-
-  </div> <!-- /col-md-4 -->
-
- <div style="margin-top: 20px;" class="col-sm-4">
-      <img class="img-fluid" style="width: 600px;border-radius: 25px;/*! max-height: 180px; */margin-bottom: 10px;" src="https://hostingwalk.com/assets/img/banners/directadmin-vps-banner.png"><a href="https://hostingwalk.com/directadmin-firewall" style=""> 
-     </a>
-
-
-
-
-
-<h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;"> REDIS Caching plugin</h3>
-      <p class="text-center">Maak direct Redis databases aan via je Directadmin VPS Plugin, voor bijv. WordPress.
-<br>
-    
- <a href="https://hostingwalk.com/directadmin-firewall" class="text-center"> 
-    <button class="btn btn-outline-inloggen my-2 my-sm-0 text-center" type="submit" style="margin-top: 10px !important;">Bekijk deze plugin</button> </a>
-</p>
-
-
-  </div>
-
-
-<div style="margin-top: 20px;" class="col-sm-4">
-      <img class="img-fluid" style="width: 600px;border-radius: 25px;/*! max-height: 180px; */margin-bottom: 10px;" src="https://hostingwalk.com/assets/img/banners/directadmin-vps-banner.png"><a href="https://hostingwalk.com/directadmin-firewall" style=""> 
-     </a>
-
-
-
-
-
-<h3 class="text-center" style="/*! font-family: Melbourne,sans-serif; */text-decoration: underline orange;">  Amazon SES plugin</h3>
-      <p class="text-center">Voeg je domeinnaam automatisch toe aan Amazon SES E-mail delivery inclusief CloudFlare integratie.<br>
-    
-<a href="https://hostingwalk.com/directadmin-firewall" class="text-center"> 
-    <button class="btn btn-outline-inloggen my-2 my-sm-0 text-center" type="submit" style="margin-top: 10px !important;">Bekijk deze plugin</button> </a>
-</p>
-
-
-  </div> <!-- / .col-md-8 -->
-    </div> <!--/ .row -->
-</div>
-    </div>
-
-
-
 <div class="jumbotron" style="background-color: white;">
 <div class="container text-center mx-auto justify-content-center"> 
 
@@ -734,6 +526,27 @@ title: Directadmin VPS
 
 <h2 class="text-center" style="margin-bottom: 26px;">&nbsp;<i style="margin-left: 0px;color: #f28b20;font-size: 30px;" class="fal fa-question"></i>   Directadmin VPS uitleg</h2>
 
+<div class="accordion" id="accordionExample">
+  <div class="card" style="
+    margin-bottom: 10px;
+">
+<div class="card-header" id="headingOne" style="
+    min-width: 850px;
+">
+      <h4 class="mb-0">
+        Wat kun je verwachten van Managed?
+      </h4>
+    </div>
+
+<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body" style="
+    border-bottom: 1px solid rgba(0,0,0,.125);
+">
+Wij leveren een startklare Directadmin VPS wij beheren de VPS en zorgen voor updates, beveiliging en optimalisaties en backups.
+
+</div>
+    </div>
+  </div>
 
 <div class="accordion" id="accordionExample">
   <div class="card" style="
