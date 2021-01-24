@@ -2,7 +2,7 @@
     <div class="container">
 
   <h2 class="text-center">&nbsp;<i style="
-margin-left: 0px;color: #f28b20;font-size: 25px;" class="fal fa-coffee white-text"></i>&nbsp;Vragen over onze dienstverlening ? neem eenvoudig contact op.</h2>
+margin-left: 0px;color: #f28b20;font-size: 25px;" class="fad fa-coffee white-text"></i>&nbsp;Vragen over onze dienstverlening? Neem eenvoudig contact op!</h2>
 <br>
 
 <div class="card-deck">
@@ -29,10 +29,10 @@ margin-left: 0px;color: #f28b20;font-size: 25px;" class="fal fa-coffee white-tex
 </div>   
 
 <div class="card">  <div class="card-body"> 
-<i style="margin-left: 0px;color:#25D366;font-size: 35px;" class="fab fa-whatsapp white-text"></i>
-<h3>WhatsApp</h3>
-<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;van 9:00 tot 17:00 uur</p>
-<a alt="whatsapp" title="contact via whatsapp" href="https://api.whatsapp.com/send?phone=31708919323"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">+31 70 8919 323</button> </a>
+<i style="margin-left: 0px;color:#25D366;font-size: 35px;" class="fal fa-ticket white-text"></i>
+<h3>Ticket openen</h3>
+<p style="margin-top: 0;">  <i style="font-size: 16px;" class="fal fa-clock white-text"></i>&nbsp;Binnen 24 uur reactie.</p>
+<a alt="ticket openen" title="ticket openen" href="https://my.hostingwalk.com/submitticket.php"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit">Open Ticket</button> </a>
   </div>
 
 </div>

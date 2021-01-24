@@ -1,5 +1,5 @@
 ---
-title: Directadmin VPS
+title: Managed Directadmin VPS
 ---
 
 <div class="jumbotron text-center" style="/* background-color: white !important; */padding: 4.0rem 0rem;margin-bottom: -2.4rem;background-color: #f28b20;border-radius: 0rem;">
