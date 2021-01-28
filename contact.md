@@ -1,16 +1,15 @@
 ---
 title: Hostingwalk Contact
 ---
-<div class="container-fluid text-center" style="
-    padding-top: 2.9rem;
-    padding-bottom: 0.3rem;
-    background-color: #f28b20;
-"> 
-<div class="container-fluidj" style="margin-bottom: 1.3rem;margin-top: 1.0rem;"><h1 style="display: inline-block;font-size: 2.35rem;color: white;">
-<i class="fal fa-question-circle" style="color: white;"></i> Contact opnemen met Hostingwalk
+
+<div class="jumbotron text-center" style="/* background-color: white !important; */padding: 4.0rem 0rem;margin-bottom: -2.4rem;background-color: #f28b20;border-radius: 0rem;">
+<div class="container"> 
+    <div class="container-fluid text-center" style="color: white;">
+
+<h1 style="display: inline-block;padding-top: .3125rem;padding-bottom: .3125rem;margin-right: 1rem;font-size: 2.35rem;">
+<i class="fad fa-question-circle" style="color: white;/* font-size: 20px; */"></i>  Contact opnemen met Hostingwalk
 </h1>
-
-
+</div>
 </div>
 </div>
 
@@ -83,84 +82,138 @@ title: Hostingwalk Contact
 
 {% include checkbar.md %}
 
+<div class="jumbotron" style="background-color: white;padding: 1rem;">
 
-<div class="jumbotron" style="background-color: white;">
+<div class="container text-center"> 
+    <h2 class="text-muted" style="
+    padding: 20px;
+"><i class="fad fa-suitcase" style="font-size: 34px;font-weight: 100;color: #F28B1F;"></i> Bedrijfsgegevens van Hostingwalk
 
-<div class="container">
-<h2 class="">Bedrijfsgegevens van Hostingwalk</h2>
-<br>
-  <!--Grid column-->
+</h2>
+
 <div class="row">
 
-<div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class="icon icon-red"> <i class="fa fa-euro-sign"></i> </div>
-<div clas="description">
-   <h3>Factuur betalen
-</h3>
-  <div class="body">
-<hr>
+ <div style="margin-top: 10px;" class="col-sm-12">  
 
-<i style="font-size: 14px;" class="fal fa-money-check"></i> Vermeld altijd je factuurnummer
-<hr>
+<div class="card-deck" style="margin-bottom: 10px;">
+
+<div class="card mb-5 mb-lg-0" style="
+    border-radius: 10px;
+    border-top: 2px solid #f28b20;
+">
+          <div class="card-body text-center" style="/* border-top: 2px solid #f28b20; */">
+
+<h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
+<i class="fad fa-euro-sign" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br></h5>
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"><span class="period">Factuur betalen</span></h6>
+            <hr>
+            <ul class="fa-ul"><li style="margin-bottom: 10px;"><span class="fa-li" style="/* left: 2em !important; */"><i class="fal fa-globe-europe" style="color: gray;"></i></span>
+<b>Vermeld altijd je factuurnummer</b>
+
+</li>
 
 
-<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit"><i style="font-size: 14px;" class="fal fa-link"></i> Naar betaalpagina</button> </a></div>
- </div>
-</div>
- 
+
+
+<a alt="mail" title="contact via mail" href="https://payrequest.me/hostingwalk"> <button class="btn btn-md btn-outline-inloggen my-2 my-lg-0" type="submit"><i style="font-size: 14px;" class="fad fa-euro-sign"></i> Naar betaalpagina</button> </a>
+
   
- 
-</div>  </div>
 
- <div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class="icon icon-orange">  <i class="fa fa-briefcase"></i>   </div>
-  <div clas="description">
-   <h3>KVK &amp; BTW</h3>
-  <div class="body">
-<hr>
-
-<i style="font-size: 14px;" class="fal fa-building"></i> KVK nummer: 56871244  
-<hr>
- <i style="font-size: 14px;" class="fal fa-building"></i> BTW nummer: NL00227023B56
-</div>
- </div>  </div>
- 
- 
-</div>  </div>
-
- <div class="col-md-4">
-<div class="partnerbox-part text-center" style="margin-left: 10px;">
-<div class="info">
- <div class="icon icon-black"> <i class="fa fa-map"></i> </div>
-  <div clas="description">
-   <h3> Bedrijfsadres</h3>
-  <div class="body">
-<hr>
-
-<i style="font-size: 14px;" class="fal fa-map"></i> Parkstraat 83, 2514 JG Den Haag
-
-<hr>
-<i style="font-size: 14px;" class="fal fa-clock"></i> Openingstijden: ma t/m vr 9:00 - 17:00
-      </div>
- </div>  </div>
- 
     
+
+
+
+
+</ul>
+
  
-</div>  </div>
+  </div>
+        </div>
+
+<div class="card mb-5 mb-lg-0" style="
+    border-radius: 10px;
+    border-top: 2px solid #f28b20;
+">
+          <div class="card-body text-center" style="/* border-top: 2px solid #f28b20; */">
+
+<h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
+<i class="fad fa-suitcase" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br></h5>
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"><span class="period">  KVK &amp; BTW Nummer</span></h6>
+            <hr>
+            <ul class="fa-ul"><li style="margin-bottom: 10px;"><span class="fa-li" style="/* left: 2em !important; */"><i class="fal fa-suitcase" style="color: gray;"></i></span>
+<b>KVK nummer: 56871244</b>
+
+</li>
+
+
+
+<li style="margin-bottom: 10px;"><span class="fa-li" style=""><i class="fal fa-suitcase" style="color: gray;"></i></span>
+<b> BTW nummer: NL00227023B56</b>
+
+</li>
+
+  
+
+    
+
+
+
+
+</ul>
+
+ 
+  </div>
+        </div>
+
+<div class="card mb-5 mb-lg-0" style="
+    border-radius: 10px;
+    border-top: 2px solid #f28b20;
+">
+          <div class="card-body text-center" style="/* border-top: 2px solid #f28b20; */">
+
+<h5 class="card-title text-muted text-uppercase text-center" style="/* margin-bottom: 10px; */">
+<i class="fad fa-map" style="font-size: 34px;margin-bottom: 8px;font-weight: 100;color:#f28b20;"></i> <br></h5>
+<h6 class="card-price text-center" style="font-size: 25px;text-align: center;color: #f28b20;"><span class="period"> Adres &amp; Openingstijden</span></h6>
+            <hr>
+            <ul class="fa-ul"><li style="margin-bottom: 10px;"><span class="fa-li" style="/* left: 2em !important; */"><i class="fal fa-map" style="color: gray;"></i></span>
+<b>Parkstraat 83, 2514 JG Den Haag</b>
+
+</li>
+
+
+
+<li style="margin-bottom: 10px;"><span class="fa-li" style=""><i class="fal fa-clock" style="color: gray;"></i></span>
+<b> Openingstijden: ma t/m vr 9:00 - 17:00</b>
+
+</li>
+
+  
+
+    
+
+
+
+
+</ul>
+
+ 
+  </div>
+        </div>
 
 </div>
 
 
 
-<!--Grid column-->
+ </div>
+
+  </div>
+
+
+
 
 </div>
-
 </div>
+
 
 
 
