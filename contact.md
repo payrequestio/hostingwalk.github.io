@@ -148,7 +148,7 @@ title: Hostingwalk Contact
 
 
 <li style="margin-bottom: 10px;"><span class="fa-li" style=""><i class="fal fa-suitcase" style="color: gray;"></i></span>
-<b> BTW nummer: NL00227023B56</b>
+<b> BTW nummer: NL002277023B56</b>
 
 </li>
 
